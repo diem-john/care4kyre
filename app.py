@@ -7,7 +7,7 @@ from src.score_manager import ScoreManager
 
 # --- CONFIGURATION ---
 st.set_page_config(
-    page_title="PNLE Reviewer Pro",
+    page_title="Care4Kyre Reviewer",
     page_icon="🩺",
     layout="centered",
     initial_sidebar_state="expanded"
@@ -30,6 +30,9 @@ def get_managers():
 
 
 db, score_manager, question_bank = get_managers()
+
+st.title("🩺 Care4Kyre")
+st.caption("© 2026 Engr. Daryll John Medina. All rights reserved.")
 
 # --- SIDEBAR NAVIGATION ---
 with st.sidebar:
