@@ -9,7 +9,6 @@ st.title("📊 Performance Analytics Dashboard")
 
 db = DatabaseManager()
 
-
 @st.cache_data(ttl=60)
 def load_data():
     with db.get_connection() as conn:

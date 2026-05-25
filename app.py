@@ -15,15 +15,12 @@ st.set_page_config(
 
 
 # Load CSS
-def load_css():
-    css_path = "assets/styles.css"
-    if os.path.exists(css_path):
-        with open(css_path) as f:
-            st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-
-
-load_css()
-
+# def load_css():
+#     css_path = "assets/styles.css"
+#     if os.path.exists(css_path):
+#         with open(css_path) as f:
+#             st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+# load_css()
 
 # --- INITIALIZATION ---
 @st.cache_resource
