@@ -1,0 +1,34 @@
+/* Mobile-friendly spacing and clean UI touches */
+div.stButton > button {
+    width: 100%;
+    border-radius: 8px;
+    height: 3rem;
+    font-weight: 600;
+}
+
+div.stForm {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+}
+
+/* Radio buttons spacing for touch targets */
+div.row-widget.stRadio > div {
+    gap: 1rem;
+}
+div.row-widget.stRadio > div > label {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+    cursor: pointer;
+}
+[data-testid="stAppViewContainer"] {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Tab styling adjustments */
+button[data-baseweb="tab"] {
+    font-size: 1rem;
+}
