@@ -1,0 +1,553 @@
+[
+      {
+        "question": "Marco approached Nurse Trish asking for advice on how to deal with his alcohol addiction. Nurse Trish should tell the client that the only effective treatment for alcoholism is:",
+        "choices": {
+          "A": "Psychotherapy",
+          "B": "Alcoholics anonymous (A.A.)",
+          "C": "Total abstinence",
+          "D": "Aversion Therapy"
+        },
+        "correct_answer": "C",
+        "rationale": "Total abstinence is the only effective treatment for alcoholism"
+      },
+      {
+        "question": "Nurse Hazel is caring for a male client who experience false sensory perceptions with no basis in reality. This perception is known as:",
+        "choices": {
+          "A": "Hallucinations",
+          "B": "Delusions",
+          "C": "Loose associations",
+          "D": "Neologisms"
+        },
+        "correct_answer": "A",
+        "rationale": "Hallucinations are visual, auditory, gustatory, tactile or olfactory perceptions that have no basis in reality."
+      },
+      {
+        "question": "Nurse Monet is caring for a female client who has suicidal tendency. When accompanying the client to the restroom, Nurse Monet should…",
+        "choices": {
+          "A": "Give her privacy",
+          "B": "Allow her to urinate",
+          "C": "Open the window and allow her to get some fresh air",
+          "D": "Observe her"
+        },
+        "correct_answer": "D",
+        "rationale": "The Nurse has a responsibility to observe continuously the acutely suicidal client. The Nurse should watch for clues, such as communicating suicidal thoughts, and messages; hoarding medications and talking about death."
+      },
+      {
+        "question": "Nurse Maureen is developing a plan of care for a female client with anorexia nervosa. Which action should the nurse include in the plan?",
+        "choices": {
+          "A": "Provide privacy during meals",
+          "B": "Set-up a strict eating plan for the client",
+          "C": "Encourage client to exercise to reduce anxiety",
+          "D": "Restrict visits with the family"
+        },
+        "correct_answer": "B",
+        "rationale": "Establishing a consistent eating plan and monitoring client’s weight are important to this disorder."
+      },
+      {
+        "question": "A client is experiencing anxiety attack. The most appropriate nursing intervention should include?",
+        "choices": {
+          "A": "Turning on the television",
+          "B": "Leaving the client alone",
+          "C": "Staying with the client and speaking in short sentences",
+          "D": "Ask the client to play with other clients"
+        },
+        "correct_answer": "C",
+        "rationale": "Appropriate nursing interventions for an anxiety attack include using short sentences, staying with the client, decreasing stimuli, remaining calm and medicating as needed."
+      },
+      {
+        "question": "A female client is admitted with a diagnosis of delusions of GRANDEUR. This diagnosis reflects a belief that one is:",
+        "choices": {
+          "A": "Being Killed",
+          "B": "Highly famous and important",
+          "C": "Responsible for evil world",
+          "D": "Connected to client unrelated to oneself"
+        },
+        "correct_answer": "B",
+        "rationale": "Delusion of grandeur is a false belief that one is highly famous and important."
+      },
+      {
+        "question": "A 20 year old client was diagnosed with dependent personality disorder. Which behavior is not likely to be evidence of ineffective individual coping?",
+        "choices": {
+          "A": "Recurrent self-destructive behavior",
+          "B": "Avoiding relationship",
+          "C": "Showing interest in solitary activities",
+          "D": "Inability to make choices and decision without advise"
+        },
+        "correct_answer": "D",
+        "rationale": "Individual with dependent personality disorder typically shows indecisiveness submissiveness and clinging behavior so that others will make decisions with them."
+      },
+      {
+        "question": "A male client is diagnosed with schizotypal personality disorder. Which signs would this client exhibit during social situation?",
+        "choices": {
+          "A": "Paranoid thoughts",
+          "B": "Emotional affect",
+          "C": "Independence need",
+          "D": "Aggressive behavior"
+        },
+        "correct_answer": "A",
+        "rationale": "Clients with schizotypal personality disorder experience excessive social anxiety that can lead to paranoid thoughts"
+      },
+      {
+        "question": "Nurse Claire is caring for a client diagnosed with bulimia. The most appropriate initial goal for a client diagnosed with bulimia is?",
+        "choices": {
+          "A": "Encourage to avoid foods",
+          "B": "Identify anxiety causing situations",
+          "C": "Eat only three meals a day",
+          "D": "Avoid shopping plenty of groceries"
+        },
+        "correct_answer": "B",
+        "rationale": "Bulimia disorder generally is a maladaptive coping response to stress and underlying issues. The client should identify anxiety causing situation that stimulate the bulimic behavior and then learn new ways of coping with the anxiety."
+      },
+      {
+        "question": "Nurse Tony was caring for a 41 year old female client. Which behavior by the client indicates adult cognitive development?",
+        "choices": {
+          "A": "Generates new levels of awareness",
+          "B": "Assumes responsibility for her actions",
+          "C": "Has maximum ability to solve problems and learn new skills",
+          "D": "Her perception are based on reality"
+        },
+        "correct_answer": "A",
+        "rationale": "An adult age 31 to 45 generates new level of awareness."
+      },
+      {
+        "question": "A neuromuscular blocking agent is administered to a client before ECT therapy. The Nurse should carefully observe the client for?",
+        "choices": {
+          "A": "Respiratory difficulties",
+          "B": "Nausea and vomiting",
+          "C": "Dizziness",
+          "D": "Seizures"
+        },
+        "correct_answer": "A",
+        "rationale": "Neuromuscular Blocker, such as SUCCINYLCHOLINE (Anectine) produces respiratory depression because it inhibits contractions of respiratory muscles."
+      },
+      {
+        "question": "A 75 year old client is admitted to the hospital with the diagnosis of dementia of the Alzheimer’s type and depression. The symptom that is unrelated to depression would be?",
+        "choices": {
+          "A": "Apathetic response to the environment",
+          "B": "“I don’t know” answer to questions",
+          "C": "Shallow of labile effect",
+          "D": "Neglect of personal hygiene"
+        },
+        "correct_answer": "C",
+        "rationale": "With depression, there is little or no emotional involvement therefore little alteration in affect."
+      },
+      {
+        "question": "Nurse Trish is working in a mental health facility; the nurse priority nursing intervention for a newly admitted client with bulimia nervosa would be to?",
+        "choices": {
+          "A": "Teach client to measure I & O",
+          "B": "Involve client in planning daily meal",
+          "C": "Observe client during meals",
+          "D": "Monitor client continuously"
+        },
+        "correct_answer": "D",
+        "rationale": "These clients often hide food or force vomiting; therefore they must be carefully monitored."
+      },
+      {
+        "question": "Nurse Patricia is aware that the major health complication associated with intractable anorexia nervosa would be?",
+        "choices": {
+          "A": "Cardiac dysrhythmias resulting to cardiac arrest",
+          "B": "Glucose intolerance resulting in protracted hypoglycemia",
+          "C": "Endocrine imbalance causing cold amenorrhea",
+          "D": "Decreased metabolism causing cold intolerance"
+        },
+        "correct_answer": "A",
+        "rationale": "These clients have severely depleted levels of sodium and potassium because of their starvation diet and energy expenditure, these electrolytes are necessary for cardiac functioning."
+      },
+      {
+        "question": "Nurse Anna can minimize agitation in a disturbed client by?",
+        "choices": {
+          "A": "Increasing stimulation",
+          "B": "limiting unnecessary interaction",
+          "C": "increasing appropriate sensory perception",
+          "D": "ensuring constant client and staff contact"
+        },
+        "correct_answer": "B",
+        "rationale": "Limiting unnecessary interaction will decrease stimulation and agitation."
+      },
+      {
+        "question": "A 39 year old mother with obsessive-compulsive disorder has become immobilized by her elaborate hand washing and walking rituals. Nurse Trish recognizes that the basis of O.C. disorder is often:",
+        "choices": {
+          "A": "Problems with being too conscientious",
+          "B": "Problems with anger and remorse",
+          "C": "Feelings of guilt and inadequacy",
+          "D": "Feeling of unworthiness and hopelessness"
+        },
+        "correct_answer": "C",
+        "rationale": "Ritualistic behavior seen in this disorder is aimed at controlling guilt and inadequacy by maintaining an absolute set pattern of behavior."
+      },
+      {
+        "question": "Mario is complaining to other clients about not being allowed by staff to keep food in his room. Which of the following interventions would be most appropriate?",
+        "choices": {
+          "A": "Allowing a snack to be kept in his room",
+          "B": "Reprimanding the client",
+          "C": "Ignoring the clients behavior",
+          "D": "Setting limits on the behavior"
+        },
+        "correct_answer": "D",
+        "rationale": "The nurse needs to set limits in the client’s manipulative behavior to help the client control dysfunctional behavior. A consistent approach by the staff is necessary to decrease manipulation."
+      },
+      {
+        "question": "Conney with borderline personality disorder who is to be discharge soon threatens to “do something” to herself if discharged. Which of the following actions by the nurse would be most important?",
+        "choices": {
+          "A": "Ask a family member to stay with the client at home temporarily",
+          "B": "Discuss the meaning of the client’s statement with her",
+          "C": "Request an immediate extension for the client",
+          "D": "Ignore the clients statement because it’s a sign of manipulation"
+        },
+        "correct_answer": "B",
+        "rationale": "Any suicidal statement must be assessed by the nurse. The nurse should discuss the client’s statement with her to determine its meaning in terms of suicide."
+      },
+      {
+        "question": "Joey a client with antisocial personality disorder belches loudly. A staff member asks Joey, “Do you know why people find you repulsive?” this statement most likely would elicit which of the following client reaction?",
+        "choices": {
+          "A": "Depensiveness",
+          "B": "Embarrassment",
+          "C": "Shame",
+          "D": "Remorsefulness"
+        },
+        "correct_answer": "A",
+        "rationale": "When the staff member ask the client if he wonders why others find him repulsive, the client is likely to feel defensive because the question is belittling. The natural tendency is to counterattack the threat to self image."
+      },
+      {
+        "question": "Which of the following approaches would be most appropriate to use with a client suffering from narcissistic personality disorder when discrepancies exist between what the client states and what actually exist?",
+        "choices": {
+          "A": "Rationalization",
+          "B": "Supportive confrontation",
+          "C": "Limit setting",
+          "D": "Consistency"
+        },
+        "correct_answer": "B",
+        "rationale": "The nurse would specifically use supportive confrontation with the client to point out discrepancies between what the client states and what actually exists to increase responsibility for self."
+      },
+      {
+        "question": "Cely is experiencing alcohol withdrawal exhibits tremors, diaphoresis and hyperactivity. Blood pressure is 190/87 mmhg and pulse is 92 bpm. Which of the medications would the nurse expect to administer?",
+        "choices": {
+          "A": "Naloxone (Narcan)",
+          "B": "Benzlropine (Cogentin)",
+          "C": "Lorazepam (Ativan)",
+          "D": "Haloperidol (Haldol)"
+        },
+        "correct_answer": "C",
+        "rationale": "The nurse would most likely administer benzodiazepine, such as lorazepam (Ativan) to the client who is experiencing symptom: The client’s experiences symptoms of withdrawal because of the rebound phenomenon when the sedation of the CNS from alcohol begins to decrease."
+      },
+      {
+        "question": "Which of the following foods would the nurse Trish eliminate from the diet of a client in alcohol withdrawal?",
+        "choices": {
+          "A": "Milk",
+          "B": "Orange Juice",
+          "C": "Soda",
+          "D": "Regular Coffee"
+        },
+        "correct_answer": "D",
+        "rationale": "Regular coffee contains caffeine which acts as psychomotor stimulants and leads to feelings of anxiety and agitation. Serving coffee to the client may add to tremors or wakefulness."
+      },
+      {
+        "question": "Which of the following would Nurse Hazel expect to assess for a client who is exhibiting late signs of heroin withdrawal?",
+        "choices": {
+          "A": "Yawning & diaphoresis",
+          "B": "Restlessness & Irritability",
+          "C": "Constipation & steatorrhea",
+          "D": "Vomiting and Diarrhea"
+        },
+        "correct_answer": "D",
+        "rationale": "Vomiting and diarrhea are usually the late signs of heroin withdrawal, along with muscle spasm, fever, nausea, repetitive, abdominal cramps and backache."
+      },
+      {
+        "question": "To establish open and trusting relationship with a female client who has been hospitalized with severe anxiety, the nurse in charge should?",
+        "choices": {
+          "A": "Encourage the staff to have frequent interaction with the client",
+          "B": "Share an activity with the client",
+          "C": "Give client feedback about behavior",
+          "D": "Respect client’s need for personal space"
+        },
+        "correct_answer": "D",
+        "rationale": "Moving to a client’s personal space increases the feeling of threat, which increases anxiety."
+      },
+      {
+        "question": "Nurse Monette recognizes that the focus of environmental (MILIEU) therapy is to:",
+        "choices": {
+          "A": "Manipulate the environment to bring about positive changes in behavior",
+          "B": "Allow the client’s freedom to determine whether or not they will be involved in activities",
+          "C": "Role play life events to meet individual needs",
+          "D": "Use natural remedies rather than drugs to control behavior"
+        },
+        "correct_answer": "A",
+        "rationale": "Environmental (MILIEU) therapy aims at having everything in the client’s surrounding area toward helping the client."
+      },
+      {
+        "question": "Nurse Trish would expect a child with a diagnosis of reactive attachment disorder to:",
+        "choices": {
+          "A": "Have more positive relation with the father than the mother",
+          "B": "Cling to mother & cry on separation",
+          "C": "Be able to develop only superficial relation with the others",
+          "D": "Have been physically abuse"
+        },
+        "correct_answer": "C",
+        "rationale": "Children who have experienced attachment difficulties with primary caregiver are not able to trust others and therefore relate superficially."
+      },
+      {
+        "question": "When teaching parents about childhood depression Nurse Trina should say?",
+        "choices": {
+          "A": "It may appear acting out behavior",
+          "B": "Does not respond to conventional treatment",
+          "C": "Is short in duration & resolves easily",
+          "D": "Looks almost identical to adult depression"
+        },
+        "correct_answer": "A",
+        "rationale": "Children have difficulty verbally expressing their feelings, acting out behavior, such as temper tantrums, may indicate underlying depression."
+      },
+      {
+        "question": "Nurse Perry is aware that language development in autistic child resembles:",
+        "choices": {
+          "A": "Scanning speech",
+          "B": "Speech lag",
+          "C": "Shuttering",
+          "D": "Echolalia"
+        },
+        "correct_answer": "D",
+        "rationale": "The autistic child repeat sounds or words spoken by others."
+      },
+      {
+        "question": "A 60 year old female client who lives alone tells the nurse at the community health center “I really don’t need anyone to talk to”. The TV is my best friend. The nurse recognizes that the client is using the defense mechanism known as?",
+        "choices": {
+          "A": "Displacement",
+          "B": "Projection",
+          "C": "Sublimation",
+          "D": "Denial"
+        },
+        "correct_answer": "D",
+        "rationale": "The client statement is an example of the use of denial, a defense that blocks problem by unconscious refusing to admit they exist."
+      },
+      {
+        "question": "When working with a male client suffering phobia about black cats, Nurse Trish should anticipate that a problem for this client would be?",
+        "choices": {
+          "A": "Anxiety when discussing phobia",
+          "B": "Anger toward the feared object",
+          "C": "Denying that the phobia exist",
+          "D": "Distortion of reality when completing daily routines"
+        },
+        "correct_answer": "A",
+        "rationale": "Discussion of the feared object triggers an emotional response to the object."
+      },
+      {
+        "question": "Linda is pacing the floor and appears extremely anxious. The duty nurse approaches in an attempt to alleviate Linda’s anxiety. The most therapeutic question by the nurse would be?",
+        "choices": {
+          "A": "Would you like to watch TV?",
+          "B": "Would you like me to talk with you?",
+          "C": "Are you feeling upset now?",
+          "D": "Ignore the client"
+        },
+        "correct_answer": "B",
+        "rationale": "The nurse presence may provide the client with support & feeling of control."
+      },
+      {
+        "question": "Nurse Penny is aware that the symptoms that distinguish post traumatic stress disorder from other anxiety disorder would be:",
+        "choices": {
+          "A": "Avoidance of situation & certain activities that resemble the stress",
+          "B": "Depression and a blunted affect when discussing the traumatic situation",
+          "C": "Lack of interest in family & others",
+          "D": "Re-experiencing the trauma in dreams or flashback"
+        },
+        "correct_answer": "D",
+        "rationale": "Experiencing the actual trauma in dreams or flashback is the major symptom that distinguishes post traumatic stress disorder from other anxiety disorder."
+      },
+      {
+        "question": "Nurse Benjie is communicating with a male client with substance-induced persisting dementia; the client cannot remember facts and fills in the gaps with imaginary information. Nurse Benjie is aware that this is typical of?",
+        "choices": {
+          "A": "Flight of ideas",
+          "B": "Associative looseness",
+          "C": "Confabulation",
+          "D": "Concretism"
+        },
+        "correct_answer": "C",
+        "rationale": "Confabulation or the filling in of memory gaps with imaginary facts is a defense mechanism used by people experiencing memory deficits."
+      },
+      {
+        "question": "Nurse Joey is aware that the signs & symptoms that would be most specific for diagnosis anorexia are?",
+        "choices": {
+          "A": "Excessive weight loss, amenorrhea & abdominal distension",
+          "B": "Slow pulse, 10% weight loss & alopecia",
+          "C": "Compulsive behavior, excessive fears & nausea",
+          "D": "Excessive activity, memory lapses & an increased pulse"
+        },
+        "correct_answer": "A",
+        "rationale": "These are the major signs of anorexia nervosa. Weight loss is excessive (15% of expected weight)."
+      },
+      {
+        "question": "A characteristic that would suggest to Nurse Anne that an adolescent may have bulimia would be:",
+        "choices": {
+          "A": "Frequent regurgitation & re-swallowing of food",
+          "B": "Previous history of gastritis",
+          "C": "Badly stained teeth",
+          "D": "Positive body image"
+        },
+        "correct_answer": "C",
+        "rationale": "Dental enamel erosion occurs from repeated self-induced vomiting."
+      },
+      {
+        "question": "Nurse Monette is aware that extremely depressed clients seem to do best in settings where they have:",
+        "choices": {
+          "A": "Multiple stimuli",
+          "B": "Routine Activities",
+          "C": "Minimal decision making",
+          "D": "Varied Activities"
+        },
+        "correct_answer": "B",
+        "rationale": "Depression usually is both emotional & physical. A simple daily routine is the best, least stressful and least anxiety producing."
+      },
+      {
+        "question": "To further assess a client’s suicidal potential. Nurse Katrina should be especially alert to the client expression of:",
+        "choices": {
+          "A": "Frustration & fear of death",
+          "B": "Anger & resentment",
+          "C": "Anxiety & loneliness",
+          "D": "Helplessness & hopelessness"
+        },
+        "correct_answer": "D",
+        "rationale": "The expression of these feeling may indicate that this client is unable to continue the struggle of life."
+      },
+      {
+        "question": "A nursing care plan for a male client with bipolar I disorder should include:",
+        "choices": {
+          "A": "Providing a structured environment",
+          "B": "Designing activities that will require the client to maintain contact with reality",
+          "C": "Engaging the client in conversing about current affairs",
+          "D": "Touching the client provide assurance"
+        },
+        "correct_answer": "A",
+        "rationale": "Structure tends to decrease agitation and anxiety and to increase the client’s feeling of security."
+      },
+      {
+        "question": "When planning care for a female client using ritualistic behavior, Nurse Gina must recognize that the ritual:",
+        "choices": {
+          "A": "Helps the client focus on the inability to deal with reality",
+          "B": "Helps the client control the anxiety",
+          "C": "Is under the client’s conscious control",
+          "D": "Is used by the client primarily for secondary gains"
+        },
+        "correct_answer": "B",
+        "rationale": "The rituals used by a client with obsessive compulsive disorder help control the anxiety level by maintaining a set pattern of action."
+      },
+      {
+        "question": "A 32 year old male graduate student, who has become increasingly withdrawn and neglectful of his work and personal hygiene, is brought to the psychiatric hospital by his parents. After detailed assessment, a diagnosis of schizophrenia is made. It is unlikely that the client will demonstrate:",
+        "choices": {
+          "A": "Low self esteem",
+          "B": "Concrete thinking",
+          "C": "Effective self boundaries",
+          "D": "Weak ego"
+        },
+        "correct_answer": "C",
+        "rationale": "A person with this disorder would not have adequate self-boundaries."
+      },
+      {
+        "question": "A 23 year old client has been admitted with a diagnosis of schizophrenia says to the nurse “Yes, its march, March is little woman”. That’s literal you know”. These statement illustrate:",
+        "choices": {
+          "A": "Neologisms",
+          "B": "Echolalia",
+          "C": "Flight of ideas",
+          "D": "Loosening of association"
+        },
+        "correct_answer": "D",
+        "rationale": "Loose associations are thoughts that are presented without the logical connections usually necessary for the listening to interpret the message."
+      },
+      {
+        "question": "A long term goal for a paranoid male client who has unjustifiably accused his wife of having many extramarital affairs would be to help the client develop:",
+        "choices": {
+          "A": "Insight into his behavior",
+          "B": "Better self control",
+          "C": "Feeling of self worth",
+          "D": "Faith in his wife"
+        },
+        "correct_answer": "C",
+        "rationale": "Helping the client to develop feeling of self worth would reduce the client’s need to use pathologic defenses."
+      },
+      {
+        "question": "A male client who is experiencing disordered thinking about food being poisoned is admitted to the mental health unit. The nurse uses which communication technique to encourage the client to eat dinner?",
+        "choices": {
+          "A": "Focusing on self-disclosure of own food preference",
+          "B": "Using open ended question and silence",
+          "C": "Offering opinion about the need to eat",
+          "D": "Verbalizing reasons that the client may not choose to eat"
+        },
+        "correct_answer": "B",
+        "rationale": "Open ended questions and silence are strategies used to encourage clients to discuss their problem in descriptive manner."
+      },
+      {
+        "question": "Nurse Nina is assigned to care for a client diagnosed with Catatonic Stupor. When Nurse Nina enters the client’s room, the client is found lying on the bed with a body pulled into a fetal position. Nurse Nina should?",
+        "choices": {
+          "A": "Ask the client direct questions to encourage talking",
+          "B": "Rake the client into the dayroom to be with other clients",
+          "C": "Sit beside the client in silence and occasionally ask open-ended question",
+          "D": "Leave the client alone and continue with providing care to the other clients"
+        },
+        "correct_answer": "C",
+        "rationale": "Clients who are withdrawn may be immobile and mute, and require consistent, repeated interventions. Communication with withdrawn clients requires much patience from the nurse. The nurse facilitates communication with the client by sitting in silence, asking open-ended question and pausing to provide opportunities for the client to respond."
+      },
+      {
+        "question": "Nurse Tina is caring for a client with delirium and states that “look at the spiders on the wall”. What should the nurse respond to the client?",
+        "choices": {
+          "A": "“You’re having hallucination, there are no spiders in this room at all”",
+          "B": "“I can see the spiders on the wall, but they are not going to hurt you”",
+          "C": "“Would you like me to kill the spiders”",
+          "D": "“I know you are frightened, but I do not see spiders on the wall”"
+        },
+        "correct_answer": "D",
+        "rationale": "When hallucination is present, the nurse should reinforce reality with the client."
+      },
+      {
+        "question": "Nurse Jonel is providing information to a community group about violence in the family. Which statement by a group member would indicate a need to provide additional information?",
+        "choices": {
+          "A": "“Abuse occurs more in low-income families”",
+          "B": "“Abuser Are often jealous or self-centered”",
+          "C": "“Abuser use fear and intimidation”",
+          "D": "“Abuser usually have poor self-esteem”"
+        },
+        "correct_answer": "A",
+        "rationale": "Personal characteristics of abuser include low self-esteem, immaturity, dependence, insecurity and jealousy. Abuse can occur in families of any socioeconomic status, so believing it occurs more in low-income families indicates a need for further education."
+      },
+      {
+        "question": "During electroconvulsive therapy (ECT) the client receives oxygen by mask via positive pressure ventilation. The nurse assisting with this procedure knows that positive pressure ventilation is necessary because?",
+        "choices": {
+          "A": "Anesthesia is administered during the procedure",
+          "B": "Decrease oxygen to the brain increases confusion and disorientation",
+          "C": "Grand mal seizure activity depresses respirations",
+          "D": "Muscle relaxations given to prevent injury during seizure activity depress respirations."
+        },
+        "correct_answer": "D",
+        "rationale": "A short acting skeletal muscle relaxant such as succinylcholine (Anectine) is administered during this procedure to prevent injuries during seizure."
+      },
+      {
+        "question": "When planning the discharge of a client with chronic anxiety, Nurse Chris evaluates achievement of the discharge maintenance goals. Which goal would be most appropriately having been included in the plan of care requiring evaluation?",
+        "choices": {
+          "A": "The client eliminates all anxiety from daily situations",
+          "B": "The client ignores feelings of anxiety",
+          "C": "The client identifies anxiety producing situations",
+          "D": "The client maintains contact with a crisis counselor"
+        },
+        "correct_answer": "C",
+        "rationale": "Recognizing situations that produce anxiety allows the client to prepare to cope with anxiety or avoid specific stimulus."
+      },
+      {
+        "question": "Nurse Tina is caring for a client with depression who has not responded to antidepressant medication. The nurse anticipates that what treatment procedure may be prescribed.",
+        "choices": {
+          "A": "Neuroleptic medication",
+          "B": "Short term seclusion",
+          "C": "Psychosurgery",
+          "D": "Electroconvulsive therapy"
+        },
+        "correct_answer": "D",
+        "rationale": "Electroconvulsive therapy is an effective treatment for depression that has not responded to medication."
+      },
+      {
+        "question": "Mario is admitted to the emergency room with drug-included anxiety related to over ingestion of prescribed antipsychotic medication. The most important piece of information the nurse in charge should obtain initially is the:",
+        "choices": {
+          "A": "Length of time on the med.",
+          "B": "Name of the ingested medication & the amount ingested",
+          "C": "Reason for the suicide attempt",
+          "D": "Name of the nearest relative & their phone number"
+        },
+        "correct_answer": "B",
+        "rationale": "In an emergency, lives saving facts are obtained first. The name and the amount of medication ingested are of outmost important in treating this potentially life threatening situation."
+      }
+]
+

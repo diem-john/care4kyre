@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Estimate the number of pregnant women who will be given tetanus toxoid during an immunization outreach activity in a barangay with a population of about 1,500.",
+    "choices": {
+      "A": "265",
+      "B": "300",
+      "C": "375",
+      "D": "400"
+    },
+    "correct_answer": "A",
+    "rationale": "265. To estimate the number of pregnant women, multiply the total population by 3.5%."
+  },
+  {
+    "question": "To describe the sex composition of the population, which demographic tool may be used?",
+    "choices": {
+      "A": "Sex ratio",
+      "B": "Sex proportion",
+      "C": "Population pyramid",
+      "D": "ny of these may be used."
+    },
+    "correct_answer": "D",
+    "rationale": "Any of these may be used. Sex ratio and sex proportion are used to determine the sex composition of a population. A population pyramid is used to present the composition of a population by age and sex."
+  },
+  {
+    "question": "Which of the following is a natality rate?",
+    "choices": {
+      "A": "rude birth rate",
+      "B": "Neonatal mortality rate",
+      "C": "Infant mortality rate",
+      "D": "General fertility rate"
+    },
+    "correct_answer": "A",
+    "rationale": "Crude birth rate. Natality means birth. A natality rate is a birth rate."
+  },
+  {
+    "question": "You are computing the crude death rate of your municipality, with a total population of about 18,000, for last year. There were 94 deaths. Among those who died, 20 died because of diseases of the heart and 32 were aged 50 years or older. What is the crude death rate?",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "B",
+    "rationale": "5.2/1,000. To compute crude death rate divide total number of deaths (94) by total population (18,000) and multiply by 1,000."
+  },
+  {
+    "question": "2/1,000",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "1-4 year old children. Preschoolers are the most susceptible to PEM because they have generally been weaned. Also, this is the population who, unable to feed themselves, are often the victims of poor intrafamilial food distribution."
+  },
+  {
+    "question": "2/1,000",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "Swaroop\u2019s index. Swaroop\u2019s index is the proportion of deaths aged 50 years and above. The higher the Swaroop\u2019s index of a population, the greater the proportion of the deaths who were able to reach the age of at least 50 years, i.e., more people grew old before they died."
+  },
+  {
+    "question": "3/1,000",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "B",
+    "rationale": "43.5/1,000. To compute for neonatal mortality rate, divide the number of babies who died before reaching the age of 28 days by the total number of live births, then multiply by 1,000."
+  },
+  {
+    "question": "3/1,000",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "A",
+    "rationale": "1-4 year old age-specific mortality rate. Since preschoolers are the most susceptible to the effects of malnutrition, a population with poor nutritional status will most likely have a high 1-4 year old age-specific mortality rate, also known as child mortality rate."
+  },
+  {
+    "question": "Knowing that malnutrition is a frequent community health problem, you decided to conduct nutritional assessment. What population is particularly susceptible to protein energy malnutrition (PEM)?",
+    "choices": {
+      "A": "Pregnant women and the elderly",
+      "B": "Under-5 year old children",
+      "C": "1-4 year old children",
+      "D": "School age children"
+    },
+    "correct_answer": "B",
+    "rationale": "Number of registered live births. To compute for general or total fertility rate, divide the number of registered live births by the number of females of reproductive age (15-45 years), then multiply by 1,000."
+  },
+  {
+    "question": "Which statistic can give the most accurate reflection of the health status of a community?",
+    "choices": {
+      "A": "1-4 year old age-specific mortality rate",
+      "B": "Infant mortality rate",
+      "C": "Swaroop\u2019s index",
+      "D": "rude death rate"
+    },
+    "correct_answer": "B",
+    "rationale": "Survey. A survey, also called sample survey, is data gathering about a sample of the population."
+  },
+  {
+    "question": "In the past year, Barangay A had an average population of 1655. 46 babies were born in that year, 2 of whom died less than 4 weeks after they were born. There were 4 recorded stillbirths. What is the neonatal mortality rate?",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "De facto. The other method of population assignment, de jure, is based on the usual place of residence of the people."
+  },
+  {
+    "question": "8/1,000",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "A",
+    "rationale": "Tally report. A tally report is prepared monthly or quarterly by the RHU personnel and transmitted to the Provincial Health Office."
+  },
+  {
+    "question": "5/1,000",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "Target/client list. The MDT Client List is a record of clients enrolled in MDT and other relevant data, such as dates when clients collected their monthly supply of drugs."
+  },
+  {
+    "question": "9/1,000",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "A",
+    "rationale": "P.D. 651. P.D. 651 amended R.A. 3753, requiring the registry of births within 30 days from their occurrence."
+  },
+  {
+    "question": "4/1,000",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "D",
+    "rationale": "Any of these health professionals. D. R.A. 3753 states that any birth attendant may sign the certificate of live birth."
+  },
+  {
+    "question": "Which statistic best reflects the nutritional status of a population?",
+    "choices": {
+      "A": "1-4 year old age-specific mortality rate",
+      "B": "Proportionate mortality rate",
+      "C": "Infant mortality rate",
+      "D": "Swaroop\u2019s index"
+    },
+    "correct_answer": "C",
+    "rationale": "Magnitude of the health problem. Magnitude of the problem refers to the percentage of the population affected by a health problem. The other choices are criteria considered in both family and community health care."
+  },
+  {
+    "question": "What numerator is used in computing general fertility rate?",
+    "choices": {
+      "A": "Estimated midyear population",
+      "B": "Number of registered live births",
+      "C": "Number of pregnancies in the year",
+      "D": "Number of females of reproductive age"
+    },
+    "correct_answer": "D",
+    "rationale": "Its main strategy is certification of health centers able to comply with standards. Sentrong Sigla Movement is a joint project of the DOH and local government units. Its main strategy is certification of health centers that are able to comply with standards set by the DOH."
+  },
+  {
+    "question": "You will gather data for nutritional assessment of a purok. You will gather information only from families with members who belong to the target population for PEM. What method of data gathering is best for this purpose?",
+    "choices": {
+      "A": "ensus",
+      "B": "Survey",
+      "C": "Record review",
+      "D": "Review of civil registry"
+    },
+    "correct_answer": "D",
+    "rationale": "Those who just had a delivery within the past 15 months. The ideal birth spacing is at least two years. 15 months plus 9 months of pregnancy = 2 years."
+  },
+  {
+    "question": "In the conduct of a census, the method of population assignment based on the actual physical location of the people is termed",
+    "choices": {
+      "A": "e jure",
+      "B": "e locus",
+      "C": "e facto",
+      "D": "e novo"
+    },
+    "correct_answer": "C",
+    "rationale": "Adequate information for couples regarding the different methods. To enable the couple to choose freely among different methods of family planning, they must be given full information regarding the different methods that are available to them, considering the availability of quality services that can support their choice."
+  },
+  {
+    "question": "The Field Health Services and Information System (FHSIS) is the recording and reporting system in public health care in the Philippines. The Monthly Field Health Service Activity Report is a form used in which of the components of the FHSIS?",
+    "choices": {
+      "A": "Tally report",
+      "B": "Output report",
+      "C": "Target/client list",
+      "D": "Individual health record"
+    },
+    "correct_answer": "B",
+    "rationale": "Retinol 200,000 IU. Retinol 200,000 IU is a form of megadose Vitamin A. This may have a teratogenic effect."
+  },
+  {
+    "question": "To monitor clients registered in long-term regimens, such as the Multi-Drug Therapy, which component will be most useful?",
+    "choices": {
+      "A": "Tally report",
+      "B": "Output report",
+      "C": "Target/client list",
+      "D": "Individual health record"
+    },
+    "correct_answer": "A",
+    "rationale": "Her OB score is G5P3. Only women with less than 5 pregnancies are qualified for a home delivery. It is also advisable for a primigravida to have delivery at a childbirth facility."
+  },
+  {
+    "question": "Civil registries are important sources of data. Which law requires registration of births within 30 days from the occurrence of the birth?",
+    "choices": {
+      "A": "P.D. 651",
+      "B": "ct 3573",
+      "C": "R.A. 3753",
+      "D": "R.A. 3375"
+    },
+    "correct_answer": "C",
+    "rationale": "Folic acid. It is estimated that the incidence of neural tube defects can be reduced drastically if pregnant women have an adequate intake of folic acid."
+  },
+  {
+    "question": "Which of the following professionals can sign the birth certificate?",
+    "choices": {
+      "A": "Public health nurse",
+      "B": "Rural health midwife",
+      "C": "Municipal health officer",
+      "D": "ny of these health professionals"
+    },
+    "correct_answer": "D",
+    "rationale": "Note the interval, duration and intensity of labor contractions.. Assessment of the woman should be done first to determine whether she is having true labor and, if so, what stage of labor she is in."
+  },
+  {
+    "question": "Which criterion in priority setting of health problems is used only in community health care?",
+    "choices": {
+      "A": "Modifiability of the problem",
+      "B": "Nature of the problem presented",
+      "C": "Magnitude of the health problem",
+      "D": "Preventive potential of the health problem"
+    },
+    "correct_answer": "D",
+    "rationale": "Explain to her that putting the baby to breast will lessen blood loss after delivery. Suckling of the nipple stimulates the release of oxytocin by the posterior pituitary gland, which causes uterine contraction. Lactation begins 1 to 3 days after delivery. Nipple stretching exercises are done when the nipples are flat or inverted. Frequent washing dries up the nipples, making them prone to the formation of fissures."
+  },
+  {
+    "question": "The Sentrong Sigla Movement has been launched to improve health service delivery. Which of the following is/are true of this movement?",
+    "choices": {
+      "A": "This is a project spearheaded by local government units.",
+      "B": "It is a basis for increasing funding from local government units.",
+      "C": "It encourages health centers to focus on disease prevention and control.",
+      "D": "Its main strategy is certification of health centers able to comply with standards."
+    },
+    "correct_answer": "B",
+    "rationale": "To stimulate milk production by the mammary acini. Suckling of the nipple stimulates prolactin reflex (the release of prolactin by the anterior pituitary gland), which initiates lactation."
+  },
+  {
+    "question": "Which of the following women should be considered as special targets for family planning?",
+    "choices": {
+      "A": "Those who have two children or more",
+      "B": "Those with medical conditions such as anemia",
+      "C": "Those younger than 20 years and older than 35 years",
+      "D": "Those who just had a delivery within the past 15 months"
+    },
+    "correct_answer": "B",
+    "rationale": "The mother does not feel nipple pain.. When the baby has properly latched on to the breast, he takes deep, slow sucks; his mouth is wide open; and much of the areola is inside his mouth. And, you\u2019re right! The mother does not feel nipple pain."
+  },
+  {
+    "question": "Freedom of choice is one of the policies of the Family Planning Program of the Philippines. Which of the following illustrates this principle?",
+    "choices": {
+      "A": "Information dissemination about the need for family planning",
+      "B": "Support of research and development in family planning methods",
+      "C": "dequate information for couples regarding the different methods",
+      "D": "Encouragement of couples to take family planning as a joint responsibility"
+    },
+    "correct_answer": "B",
+    "rationale": "6 months. After 6 months, the baby\u2019s nutrient needs, especially the baby\u2019s iron requirement, can no longer be provided by mother\u2019s milk alone."
+  },
+  {
+    "question": "A woman, 6 months pregnant, came to the center for consultation. Which of the following substances is contraindicated?",
+    "choices": {
+      "A": "Tetanus toxoid",
+      "B": "Retinol 200,000 IU",
+      "C": "Ferrous sulfate 200 mg",
+      "D": "Potassium iodate 200 mg. capsule"
+    },
+    "correct_answer": "C",
+    "rationale": "Retinol 200,000 I.U., 1 capsule. A capsule of Retinol 200,000 IU is given within 1 month after delivery. Potassium iodate is given during pregnancy; malunggay capsule is not routinely administered after delivery; and ferrous sulfate is taken for two months after delivery."
+  },
+  {
+    "question": "During prenatal consultation, a client asked you if she can have her delivery at home. After history taking and physical examination, you advised her against a home delivery. Which of the following findings disqualifies her for a home delivery?",
+    "choices": {
+      "A": "Her OB score is G5P3.",
+      "B": "She has some palmar pallor.",
+      "C": "Her blood pressure is 130/80.",
+      "D": "Her baby is in cephalic presentation."
+    },
+    "correct_answer": "C",
+    "rationale": "Measles vaccine. Among the biologicals used in the Expanded Program on Immunization, measles vaccine and OPV are highly sensitive to heat, requiring storage in the freezer."
+  },
+  {
+    "question": "Inadequate intake by the pregnant woman of which vitamin may cause neural tube defects?",
+    "choices": {
+      "A": "Niacin",
+      "B": "Riboflavin",
+      "C": "Folic acid",
+      "D": "Thiamine"
+    },
+    "correct_answer": "B",
+    "rationale": "4. While the unused portion of other biologicals in EPI may be given until the end of the day, only BCG is discarded 4 hours after reconstitution. This is why BCG immunization is scheduled only in the morning."
+  }
+]

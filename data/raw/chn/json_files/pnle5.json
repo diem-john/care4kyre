@@ -1,0 +1,310 @@
+[
+  {
+    "question": "In the Philippines, which condition is the most frequent cause of death associated with schistosomiasis?",
+    "choices": {
+      "A": "Liver cancer",
+      "B": "Liver cirrhosis",
+      "C": "Bladder cancer",
+      "D": "Intestinal perforation"
+    },
+    "correct_answer": "B",
+    "rationale": "Liver cirrhosis. The etiologic agent of schistosomiasis in the Philippines is Schistosoma japonicum, which affects the small intestine and the liver. Liver damage is a consequence of fibrotic reactions to schistosoma eggs in the liver."
+  },
+  {
+    "question": "What is the most effective way of controlling schistosomiasis in an endemic area?",
+    "choices": {
+      "A": "Use of molluscicides",
+      "B": "Building of foot bridges",
+      "C": "Proper use of sanitary toilets",
+      "D": "Use of protective footwear, such as rubber boots"
+    },
+    "correct_answer": "C",
+    "rationale": "Proper use of sanitary toilets. The ova of the parasite get out of the human body together with feces. Cutting the cycle at this stage is the most effective way of preventing the spread of the disease to susceptible hosts."
+  },
+  {
+    "question": "When residents obtain water from an artesian well in the neighborhood, the level of this approved type of water facility is",
+    "choices": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "correct_answer": "B",
+    "rationale": "II. A communal faucet or water standpost is classified as Level II."
+  },
+  {
+    "question": "For prevention of hepatitis A, you decided to conduct health education activities. Which of the following is IRRELEVANT?",
+    "choices": {
+      "A": "Use of sterile syringes and needles",
+      "B": "Safe food preparation and food handling by vendors",
+      "C": "Proper disposal of human excreta and personal hygiene",
+      "D": "Immediate reporting of water pipe leaks and illegal water connections"
+    },
+    "correct_answer": "A",
+    "rationale": "Use of sterile syringes and needles. Hepatitis A is transmitted through the fecal oral route. Hepatitis B is transmitted through infected body secretions like blood and semen."
+  },
+  {
+    "question": "Which biological used in Expanded Program on Immunization (EPI) should NOT be stored in the freezer?",
+    "choices": {
+      "A": "DPT",
+      "B": "Oral polio vaccine",
+      "C": "Measles vaccine",
+      "D": "MMR"
+    },
+    "correct_answer": "A",
+    "rationale": "DPT. DPT is sensitive to freezing. The appropriate storage temperature of DPT is 2 to 8° C only. OPV and measles vaccine are highly sensitive to heat and require freezing. MMR is not an immunization in the Expanded Program on Immunization."
+  },
+  {
+    "question": "You will conduct outreach immunization in a barangay with a population of about 1500. Estimate the number of infants in the barangay.",
+    "choices": {
+      "A": "45",
+      "B": "50",
+      "C": "55",
+      "D": "60"
+    },
+    "correct_answer": "A",
+    "rationale": "45. To estimate the number of infants, multiply total population by 3%."
+  },
+  {
+    "question": "In Integrated Management of Childhood Illness, severe conditions generally require urgent referral to a hospital. Which of the following severe conditions DOES NOT always require urgent referral to a hospital?",
+    "choices": {
+      "A": "Mastoiditis",
+      "B": "Severe dehydration",
+      "C": "Severe pneumonia",
+      "D": "Severe febrile disease"
+    },
+    "correct_answer": "B",
+    "rationale": "Severe dehydration. The order of priority in the management of severe dehydration is as follows: intravenous fluid therapy, referral to a facility where IV fluids can be initiated within 30 minutes, Oresol/nasogastric tube, Oresol/orem. When the foregoing measures are not possible or effective, tehn urgent referral to the hospital is done."
+  },
+  {
+    "question": "A client was diagnosed as having Dengue fever. You will say that there is slow capillary refill when the color of the nailbed that you pressed does not return within how many seconds?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "8",
+      "D": "10"
+    },
+    "correct_answer": "A",
+    "rationale": "3. Adequate blood supply to the area allows the return of the color of the nailbed within 3 seconds."
+  },
+  {
+    "question": "A 3-year old child was brought by his mother to the health center because of fever of 4-day duration. The child had a positive tourniquet test result. In the absence of other signs, which is the most appropriate measure that the PHN may carry out to prevent Dengue shock syndrome?",
+    "choices": {
+      "A": "Insert an NGT and give fluids per NGT.",
+      "B": "Instruct the mother to give the child Oresol.",
+      "C": "Start the patient on intravenous fluids STAT.",
+      "D": "Refer the client to the physician for appropriate management."
+    },
+    "correct_answer": "B",
+    "rationale": "Instruct the mother to give the child Oresol. Since the child does not manifest any other danger sign, maintenance of fluid balance and replacement of fluid loss may be done by giving the client Oresol."
+  },
+  {
+    "question": "The pathognomonic sign of measles is Koplik’s spot. You may see Koplik’s spot by inspecting the _____.",
+    "choices": {
+      "A": "Nasal mucosa",
+      "B": "Buccal mucosa",
+      "C": "Skin on the abdomen",
+      "D": "Skin on the antecubital surface"
+    },
+    "correct_answer": "B",
+    "rationale": "Buccal mucosa. Koplik’s spot may be seen on the mucosa of the mouth or the throat."
+  },
+  {
+    "question": "Among the following diseases, which is airborne?",
+    "choices": {
+      "A": "Viral conjunctivitis",
+      "B": "Acute poliomyelitis",
+      "C": "Diphtheria",
+      "D": "Measles"
+    },
+    "correct_answer": "D",
+    "rationale": "Measles. Viral conjunctivitis is transmitted by direct or indirect contact with discharges from infected eyes. Acute poliomyelitis is spread through the fecal-oral route and contact with throat secretions, whereas diphtheria is through direct and indirect contact with respiratory secretions."
+  },
+  {
+    "question": "Among children aged 2 months to 3 years, the most prevalent form of meningitis is caused by which microorganism?",
+    "choices": {
+      "A": "Hemophilus influenzae",
+      "B": "Morbillivirus",
+      "C": "Steptococcus pneumoniae",
+      "D": "Neisseria meningitidis"
+    },
+    "correct_answer": "A",
+    "rationale": "Hemophilus influenzae. Hemophilus meningitis is unusual over the age of 5 years. In developing countries, the peak incidence is in children less than 6 months of age. Morbillivirus is the etiology of measles. Streptococcus pneumoniae and Neisseria meningitidis may cause meningitis, but age distribution is not specific in young children."
+  },
+  {
+    "question": "Human beings are the major reservoir of malaria. Which of the following strategies in malaria control is based on this fact?",
+    "choices": {
+      "A": "Stream seeding",
+      "B": "Stream clearing",
+      "C": "Destruction of breeding places",
+      "D": "Zooprophylaxis"
+    },
+    "correct_answer": "D",
+    "rationale": "Zooprophylaxis. Zooprophylaxis is done by putting animals like cattle or dogs close to windows or doorways just before nightfall. The Anopheles mosquito takes his blood meal from the animal and goes back to its breeding place, thereby preventing infection of humans."
+  },
+  {
+    "question": "The use of larvivorous fish in malaria control is the basis for which strategy of malaria control?",
+    "choices": {
+      "A": "Stream seeding",
+      "B": "Stream clearing",
+      "C": "Destruction of breeding places",
+      "D": "Zooprophylaxis"
+    },
+    "correct_answer": "A",
+    "rationale": "Stream seeding. Stream seeding is done by putting tilapia fry in streams or other bodies of water identified as breeding places of the Anopheles mosquito"
+  },
+  {
+    "question": "Mosquito-borne diseases are prevented mostly with the use of mosquito control measures. Which of the following is NOT appropriate for malaria control?",
+    "choices": {
+      "A": "Use of chemically treated mosquito nets",
+      "B": "Seeding of breeding places with larva-eating fish",
+      "C": "Destruction of breeding places of the mosquito vector",
+      "D": "Use of mosquito-repelling soaps, such as those with basil or citronella"
+    },
+    "correct_answer": "C",
+    "rationale": "Destruction of breeding places of the mosquito vector. Anopheles mosquitoes breed in slow-moving, clear water, such as mountain streams."
+  },
+  {
+    "question": "A 4-year old client was brought to the health center with the chief complaint of severe diarrhea and the passage of “rice water” stools. The client is most probably suffering from which condition?",
+    "choices": {
+      "A": "Giardiasis",
+      "B": "Cholera",
+      "C": "Amebiasis",
+      "D": "Dysentery"
+    },
+    "correct_answer": "B",
+    "rationale": "Cholera. Passage of profuse watery stools is the major symptom of cholera. Both amebic and bacillary dysentery are characterized by the presence of blood and/or mucus in the stools. Giardiasis is characterized by fat malabsorption and, therefore, steatorrhea."
+  },
+  {
+    "question": "In the Philippines, which specie of schistosoma is endemic in certain regions?",
+    "choices": {
+      "A": "S. mansoni",
+      "B": "S. japonicum",
+      "C": "S. malayensis",
+      "D": "S. haematobium"
+    },
+    "correct_answer": "B",
+    "rationale": "S. japonicum. S. mansoni is found mostly in Africa and South America; S. haematobium in Africa and the Middle East; and S. malayensis only in peninsular Malaysia."
+  },
+  {
+    "question": "A 32-year old client came for consultation at the health center with the chief complaint of fever for a week. Accompanying symptoms were muscle pains and body malaise. A week after the start of fever, the client noted yellowish discoloration of his sclera. History showed that he waded in flood waters about 2 weeks before the onset of symptoms. Based on his history, which disease condition will you suspect?",
+    "choices": {
+      "A": "Hepatitis A",
+      "B": "Hepatitis B",
+      "C": "Tetanus",
+      "D": "Leptospirosis"
+    },
+    "correct_answer": "D",
+    "rationale": "Leptospirosis. Leptospirosis is transmitted through contact with the skin or mucous membrane with water or moist soil contaminated with urine of infected animals, like rats."
+  },
+  {
+    "question": "MWSS provides water to Manila and other cities in Metro Manila. This is an example of which level of water facility?",
+    "choices": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "correct_answer": "C",
+    "rationale": "III. Waterworks systems, such as MWSS, are classified as level III."
+  },
+  {
+    "question": "You are the PHN in the city health center. A client underwent screening for AIDS using ELISA. His result was positive. What is the best course of action that you may take?",
+    "choices": {
+      "A": "Get a thorough history of the client, focusing on the practice of high risk behaviors.",
+      "B": "Ask the client to be accompanied by a significant person before revealing the result.",
+      "C": "Refer the client to the physician since he is the best person to reveal the result to the client.",
+      "D": "Refer the client for a supplementary test, such as Western blot, since the ELISA result may be false."
+    },
+    "correct_answer": "D",
+    "rationale": "Refer the client for a supplementary test, such as Western blot, since the ELISA result may be false. A client having a reactive ELISA result must undergo a more specific test, such as Western blot. A negative supplementary test result means that the ELISA result was false and that, most probably, the client is not infected."
+  },
+  {
+    "question": "Which is the BEST control measure for AIDS?",
+    "choices": {
+      "A": "Being faithful to a single sexual partner",
+      "B": "Using a condom during each sexual contact",
+      "C": "Avoiding sexual contact with commercial sex workers",
+      "D": "Making sure that one’s sexual partner does not have signs of AIDS"
+    },
+    "correct_answer": "A",
+    "rationale": "Being faithful to a single sexual partner. Sexual fidelity rules out the possibility of getting the disease by sexual contact with another infected person. Transmission occurs mostly through sexual intercourse and exposure to blood or tissues."
+  },
+  {
+    "question": "The most frequent causes of death among clients with AIDS are opportunistic diseases. Which of the following opportunistic infections is characterized by tonsillopharyngitis?",
+    "choices": {
+      "A": "Respiratory candidiasis",
+      "B": "Infectious mononucleosis",
+      "C": "Cytomegalovirus disease",
+      "D": "Pneumocystis carinii pneumonia"
+    },
+    "correct_answer": "B",
+    "rationale": "Infectious mononucleosis. Cytomegalovirus disease is an acute viral disease characterized by fever, sore throat and lymphadenopathy."
+  },
+  {
+    "question": "To determine possible sources of sexually transmitted infections, which is the BEST method that may be undertaken by the public health nurse?",
+    "choices": {
+      "A": "Contact tracing",
+      "B": "Community survey",
+      "C": "Mass screening tests",
+      "D": "Interview of suspects"
+    },
+    "correct_answer": "A",
+    "rationale": "Contact tracing. Contact tracing is the most practical and reliable method of finding possible sources of person-to-person transmitted infections, such as sexually transmitted diseases."
+  },
+  {
+    "question": "Antiretroviral agents, such as AZT, are used in the management of AIDS. Which of the following is NOT an action expected of these drugs.",
+    "choices": {
+      "A": "They prolong the life of the client with AIDS.",
+      "B": "They reduce the risk of opportunistic infections",
+      "C": "They shorten the period of communicability of the disease.",
+      "D": "They are able to bring about a cure of the disease condition."
+    },
+    "correct_answer": "D",
+    "rationale": "They are able to bring about a cure of the disease condition. There is no known treatment for AIDS. Antiretroviral agents reduce the risk of opportunistic infections and prolong life, but does not cure the underlying immunodeficiency."
+  },
+  {
+    "question": "A barangay had an outbreak of German measles. To prevent congenital rubella, what is the BEST advice that you can give to women in the first trimester of pregnancy in the barangay?",
+    "choices": {
+      "A": "Advice them on the signs of German measles.",
+      "B": "Avoid crowded places, such as markets and moviehouses.",
+      "C": "Consult at the health center where rubella vaccine may be given.",
+      "D": "Consult a physician who may give them rubella immunoglobulin."
+    },
+    "correct_answer": "D",
+    "rationale": "Consult a physician who may give them rubella immunoglobulin. Rubella vaccine is made up of attenuated German measles viruses. This is contraindicated in pregnancy. Immune globulin, a specific prophylactic against German measles, may be given to pregnant women."
+  },
+  {
+    "question": "You were invited to be the resource person in a training class for food handlers. Which of the following would you emphasize regarding prevention of staphylococcal food poisoning?",
+    "choices": {
+      "A": "All cooking and eating utensils must be thoroughly washed.",
+      "B": "Food must be cooked properly to destroy staphylococcal microorganisms.",
+      "C": "Food handlers and food servers must have a negative stool examination result.",
+      "D": "Proper handwashing during food preparation is the best way of preventing the condition."
+    },
+    "correct_answer": "D",
+    "rationale": "Proper handwashing during food preparation is the best way of preventing the condition. Symptoms of this food poisoning are due to staphylococcal enterotoxin, not the microorganisms themselves. Contamination is by food handling by persons with staphylococcal skin or eye infections."
+  },
+  {
+    "question": "In a mothers’ class, you discussed childhood diseases such as chicken pox. Which of the following statements about chicken pox is correct?",
+    "choices": {
+      "A": "The older one gets, the more susceptible he becomes to the complications of chicken pox.",
+      "B": "A single attack of chicken pox will prevent future episodes, including conditions such as shingles.",
+      "C": "To prevent an outbreak in the community, quarantine may be imposed by health authorities.",
+      "D": "Chicken pox vaccine is best given when there is an impending outbreak in the community."
+    },
+    "correct_answer": "A",
+    "rationale": "The older one gets, the more susceptible he becomes to the complications of chicken pox. Chicken pox is usually more severe in adults than in children. Complications, such as pneumonia, are higher in incidence in adults."
+  },
+  {
+    "question": "Complications to infectious parotitis (mumps) may be serious in which type of clients?",
+    "choices": {
+      "A": "Pregnant women",
+      "B": "Elderly clients",
+      "C": "Young adult males",
+      "D": "Young infants"
+    },
+    "correct_answer": "C",
+    "rationale": "Young adult males. Epididymitis and orchitis are possible complications of mumps. In post-adolescent males, bilateral inflammation of the testes and epididymis may cause sterility."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The student nurse is assigned to take the vital signs of the clients in the pediatric ward. The student nurse reports to the staff nurse that the parent of a toddler who is 2 days postoperative after a cleft palate repair has given the toddler a pacifier. What would be the best immediate action of the nurse?",
+    "choices": {
+      "A": "Notify the pediatrician of this finding",
+      "B": "Reassure the student that this is an acceptable action on the parent\u2019s part",
+      "C": "iscuss this action with the parents",
+      "D": "sk the student nurse to remove the pacifier from the toddler\u2019s mouth"
+    },
+    "correct_answer": "C",
+    "rationale": "Nothing must be placed in the mouth of a toddler who just undergone a cleft palate repair until the suture line has completely healed. It is the nurse\u2019s responsibility to inform the parent of the client. Spoon, forks, straws, and tongue blades are other unacceptable items to place in the mouth of a toddler who just undergone cleft palate repair. The general principle of care is that nothing should enter the mouth until the suture line has completely healed."
+  },
+  {
+    "question": "The nurse is providing a health teaching to the mother of an 8-year-old child with cystic fibrosis. Which of the following statement if made by the mother would indicate to the nurse the need for further teaching about the medication regimen of the child?",
+    "choices": {
+      "A": "\u201cMy child might need an extra capsule if the meal is high in fat\u201d",
+      "B": "\u201cI\u2019ll give the enzyme capsule before every snack\u201d",
+      "C": "\u201cI\u2019ll give the enzyme capsule before every meal\u201d",
+      "D": "\u201cMy child hates to take pills, so I\u2019ll mix the capsule into a cup of hot chocolate"
+    },
+    "correct_answer": "D",
+    "rationale": "The pancreatic capsules contain pancreatic enzyme that should be administered in a cold, not a hot, medium (example: chilled applesauce versus hot chocolate) to maintain the medication\u2019s integrity."
+  },
+  {
+    "question": "The mother brought her child to the clinic for follow-up check up. The mother tells the nurse that 14 days after starting an oral iron supplement, her child\u2019s stools are black. Which of the following is the best nursing response to the mother?",
+    "choices": {
+      "A": "\u201cI will notify the physician, who will probably decrease the dosage slightly\u201d",
+      "B": "\u201cThis is a normal side effect and means the medication is working\u201d",
+      "C": "\u201cYou sound quite concerned. Would you like to talk about this further?\u201d",
+      "D": "\u201cI will need a specimen to check the stool for possible bleeding\u201d"
+    },
+    "correct_answer": "B",
+    "rationale": "When oral iron preparations are given correctly, the stools normally turn dark green or black. Parents of children receiving this medication should be advised that this side effect indicates the medication is being absorbed and is working well."
+  },
+  {
+    "question": "An 8-year-old boy with asthma is brought to the clinic for check up. The mother asks the nurse if the treatment given to her son is effective. What would be the appropriate response of the nurse?",
+    "choices": {
+      "A": "I will review first the child\u2019s height on a growth chart to know if the treatment is working",
+      "B": "I will review first the child\u2019s weight on a growth chart to know if the treatment is working",
+      "C": "I will review first the number of prescriptions refills the child has required over the last 6 months to give you an accurate answer",
+      "D": "I will review first the number of times the child has seen the pediatrician during the last 6 months to give you an accurate answer"
+    },
+    "correct_answer": "C",
+    "rationale": "Reviewing the number of prescription refills the child has required over the last 6 months would be the best indicator of how well controlled and thus how effective the child\u2019s asthma treatment is. Breakthrough wheezing, shortness of breath, and upper respiratory infections would require that the child take additional medication. This would be reflected in the number of prescription refills."
+  },
+  {
+    "question": "The nurse is caring to a child client who is receiving tetracycline. The nurse is aware that in taking this medication, it is very important to:",
+    "choices": {
+      "A": "dminister the drug between meals",
+      "B": "Monitor the child\u2019s hearing",
+      "C": "Give the drug through a straw",
+      "D": "Keep the child out of the sunlight"
+    },
+    "correct_answer": "D",
+    "rationale": "Tetracycline may cause a phototoxic reaction."
+  },
+  {
+    "question": "A 14 day-old infant with a cyanotic heart defects and mild congestive heart failure is brought to the emergency department. During assessment, the nurse checks the apical pulse rate of the infant. The apical pulse rate is 130 beats per minute. Which of the following is the appropriate nursing action?",
+    "choices": {
+      "A": "Retake the apical pulse in 15 minutes",
+      "B": "Retake the apical pulse in 30 minutes",
+      "C": "Notify the pediatrician immediately",
+      "D": "dminister the medication as scheduled"
+    },
+    "correct_answer": "D",
+    "rationale": "The normal heart rate of an infant is 120-160 beats per minute."
+  },
+  {
+    "question": "The physician prescribed gentamicin (Garamycin) to a child who is also receiving chemotherapy. Before administering the drug, the nurse should check the results of the child\u2019s:",
+    "choices": {
+      "A": "BC and platelet count",
+      "B": "uditory tests",
+      "C": "Renal Function tests",
+      "D": "bdominal and chest x-rays"
+    },
+    "correct_answer": "C",
+    "rationale": "Both gentamicin and chemotherapeutic agents can cause renal impairment and acute renal failure; thus baseline renal function must be evaluated before initiating either medication."
+  },
+  {
+    "question": "Which of the following is the suited size of the needle would the nurse select to administer the IM injection to a preschool child?",
+    "choices": {
+      "A": "18 G, 1-1/2 inch",
+      "B": "25 G, 5/8 inch",
+      "C": "21 G, 1 inch",
+      "D": "18 G, 1inch"
+    },
+    "correct_answer": "C",
+    "rationale": "In selecting the correct needle to administer an IM injection to a preschooler, the nurse should always look at the child and use judgment in evaluating muscle mass and amount of subcutaneous fat. In this case, in the absence of further data, the nurse would be most correct in selecting a needle gauge and length appropriate for the \u201caverage\u2019 preschool child. A medium-gauge needle (21G) that is 1 inch long would be most appropriate."
+  },
+  {
+    "question": "A 9-year-old boy is admitted to the hospital. The boy is being treated with salicylates for the migratory polyarthritis accompanying the diagnosis of rheumatic fever. Which of the following activities performed by the child would give a best sign that the medication is effective?",
+    "choices": {
+      "A": "Listening to story of his mother",
+      "B": "Listening to the music in the radio",
+      "C": "Playing mini piano",
+      "D": "Watching movie in the dvd mini player"
+    },
+    "correct_answer": "C",
+    "rationale": "The purpose of the salicylate therapy is to relieve the pain associated with the migratory polyarthritis accompanying the rheumatic fever. Playing mini piano would require movement of the child\u2019s joints and would provide the nurse with a means of evaluating the child\u2019s level of pain."
+  },
+  {
+    "question": "The physician decided to schedule the 4-year-old client for repair of left undescended testicle. The Injection of a hormone, HCG finds it less successful for treatment. To administer a pentobarbital sodium (Nembutal) suppository preoperatively to this client, in which position should the nurse place him?",
+    "choices": {
+      "A": "Supine with foot of bed elevated",
+      "B": "Prone with legs abducted",
+      "C": "Sitting with foot of bed elevated",
+      "D": "Side-lying with upper leg flexed"
+    },
+    "correct_answer": "D",
+    "rationale": "The recommended position to administer rectal medications to children is side-lying with the upper leg flexed. This position allows the nurse to safely and effectively administer the medication while promoting comfort for the child."
+  },
+  {
+    "question": "The nurse is caring to a 24-month-old child diagnosed with congenital heart defect. The physician prescribed digoxin (Lanoxin) to the client. Before the administration of the drug, the nurse checks the apical pulse rate to be 110 beats per minute and regular. What would be the next nursing action?",
+    "choices": {
+      "A": "heck the other vital signs and level of consciousness",
+      "B": "Withhold the digoxin and notify the physician",
+      "C": "Give the digoxin as prescribed",
+      "D": "heck the apical and radial simultaneously, and if they are the same, give the digoxin."
+    },
+    "correct_answer": "C",
+    "rationale": "For a 12month-old child, 110 apical pulse rate is normal and therefore it is safe to give the digoxin. A toddler\u2019s normal pulse rate is slightly lower than an infant\u2019s (120)."
+  },
+  {
+    "question": "An 8-year-old client with cystic fibrosis is admitted to the hospital and will undergo a chest physiotherapy treatment. The therapy should be properly coordinated by the nurse with the respiratory therapy department so that treatments occur during:",
+    "choices": {
+      "A": "fter meals",
+      "B": "etween meals",
+      "C": "fter medication",
+      "D": "round the child\u2019s play schedule"
+    },
+    "correct_answer": "B",
+    "rationale": "Chest physiotherapy treatments are scheduled between meals to prevent aspiration of stomach contents, because the child is placed in a variety of positions during the treatment process."
+  },
+  {
+    "question": "The nurse is providing health teaching about the breastfeeding and family planning to the client who gave birth to a healthy baby girl. Which of the following statement would alert the nurse that the client needs further teaching?",
+    "choices": {
+      "A": "\u201cI understand that the hormones for breastfeeding may affect when my periods come\u201d",
+      "B": "\u201cBreastfeeding causes my womb to tighten and bleed less after birth\u201d",
+      "C": "\u201cI may not have periods while I am breastfeeding, so I don\u2019t need family planning\u201d",
+      "D": "\u201cI can get pregnant as early as one month after my baby was born\u201d"
+    },
+    "correct_answer": "C",
+    "rationale": "It is common misconception that breastfeeding may prevent pregnancy."
+  },
+  {
+    "question": "A toddler is brought to the hospital because of severe diarrhea and vomiting. The nurse assigned to the client enters the client\u2019s room and finds out that the client is using a soiled blanket brought in from home. The nurse attempts to remove the blanket and replace it with a new and clean blanket. The toddler refuses to give the soiled blanket. The nurse realizes that the best explanation for the toddler\u2019s behavior is:",
+    "choices": {
+      "A": "The toddler did not bond well with the maternal figure",
+      "B": "The blanket is an important transitional object",
+      "C": "The toddler is anxious about the hospital experience",
+      "D": "The toddler is resistive to nursing interventions"
+    },
+    "correct_answer": "B",
+    "rationale": "The \u201csecurity blanket\u201d is an important transitional object for the toddler. It provides a feeling of comfort and safety when the maternal figure is not present or when in a new situation for which the toddler was not prepared. Virtually any object (stuffed animal, doll, book etc) can become a security blanket for the toddler."
+  },
+  {
+    "question": "The nurse has knowledge about the developmental task of the child. In caring a 3-year-old-client, the nurse knows that the suited developmental task of this child is to:",
+    "choices": {
+      "A": "Learn to play with other children",
+      "B": "ble to trust others",
+      "C": "Express all needs through speaking",
+      "D": "Explore and manipulate the environment"
+    },
+    "correct_answer": "D",
+    "rationale": "Toddlers need to meet the developmental milestone of autonomy versus shame and doubt. In order to accomplish this, the toddler must be able to explore and manipulate the environment."
+  },
+  {
+    "question": "A mother who gave birth to her second daughter is so concerned about her 2-year old daughter. She tells the nurse, \u201cI am afraid that my 2-year-old daughter may not accept her newly born sister\u201d. It is appropriate to the nurse to response that:",
+    "choices": {
+      "A": "The older daughter be given more responsibility and assure her \u201cthat she is a big girl now, and doesn\u2019t need Mommy as much\u201d",
+      "B": "The older daughter not have interaction with the baby at the hospital, because she may harm her new sibling",
+      "C": "The older daughter stay with her grandmother for a few days until the parents and new baby are settled at home",
+      "D": "The mother spend time alone with her older daughter when the baby is sleeping"
+    },
+    "correct_answer": "D",
+    "rationale": "The introduction of a baby into a family with one or more children challenges parent to promote acceptance of the baby by siblings. The parent\u2019s attitudes toward the arrival of the baby can set the stage for the other children\u2019s reaction. Spending time with the older siblings alone will also reassure them of their place in the family, even though the older children will have to eventually assume new positions within the family hierarchy."
+  },
+  {
+    "question": "A 2-year-old client with cystic fibrosis is confined to bed and is not allowed to go to the playroom. Which of the following is an appropriate toy would the nurse select for the child:",
+    "choices": {
+      "A": "Puzzle",
+      "B": "Musical automobile",
+      "C": "rranging stickers in the album",
+      "D": "Pounding board and hammer"
+    },
+    "correct_answer": "D",
+    "rationale": "The autonomous toddler would be frustrated by being confined to be. The pounding board and hammer is developmentally appropriate and an excellent way for the toddler to release frustration."
+  },
+  {
+    "question": "Which of the following clients is at high risk for developmental problem?",
+    "choices": {
+      "A": "toddler with acute Glomerulonephritis on antihypertensive and antibiotics",
+      "B": "5-year-old with asthma on cromolyn sodium",
+      "C": "preschooler with tonsillitis",
+      "D": "2 1/2 \u2013year old boy with cystic fibrosis"
+    },
+    "correct_answer": "D",
+    "rationale": "It is the developmental task of an 18-month-old toddler to explore and learn about the environment. The respiratory complications associated with cystic fibrosis (which are present in almost all children with cystic fibrosis) could prevent this development task from occurring."
+  },
+  {
+    "question": "Which of the following would be the best divesionary activity for the nurse to select for a 2 weeks hospitalized 3-year-old girl?",
+    "choices": {
+      "A": "rayons and coloring books",
+      "B": "oll",
+      "C": "xylophone toy",
+      "D": "puzzles"
+    },
+    "correct_answer": "C",
+    "rationale": "The best diversion for a hospitalized child aged 2-3 years old would be anything that makes noise or makes a mess; xylophone which certainly makes noise or music would be the best choice."
+  },
+  {
+    "question": "A nurse is providing safety instructions to the parents of the 11-month-old child. Which of the following will the nurse includes in the instructions?",
+    "choices": {
+      "A": "Plugging all electrical outlets in the house",
+      "B": "Installing a gate at the top and bottom of any stairs in the home",
+      "C": "Purchasing an infant car seat as soon as possible",
+      "D": "egin to teach the child not to place small objects in the mouth"
+    },
+    "correct_answer": "B",
+    "rationale": "An 11-month-old child stands alone and can walk holding onto people or objects. Therefore the installation of a gate at the top and bottom of any stairs in the house is crucial for the child\u2019s safety."
+  },
+  {
+    "question": "An 8-year-old girl is in second grade and the parents decided to enroll her to a new school. While the child is focusing on adjusting to new environment and peers, her grades suffer. The child\u2019s father severely punishes the child and forces her daughter to study after school. The father does not allow also her daughter to play with other children. These data indicate to the nurse that this child is deprived of forming which normal phase of development?",
+    "choices": {
+      "A": "Heterosexual relationships",
+      "B": "love relationship with the father",
+      "C": "dependency relationship with the father",
+      "D": "lose relationship with peers"
+    },
+    "correct_answer": "D",
+    "rationale": "In second grade a child needs to form a close relationships with peers."
+  },
+  {
+    "question": "A 5-year-old boy client is scheduled for hernia surgery. The nurse is preparing to do preoperative teaching with the child. The nurse should knows that the 5-year-old would:",
+    "choices": {
+      "A": "Expect a simple yet logical explanation regarding the surgery",
+      "B": "sks many questions regarding the condition and the procedure",
+      "C": "Worry over the impending surgery",
+      "D": "e uninterested in the upcoming surgery"
+    },
+    "correct_answer": "B",
+    "rationale": "A 5-year-old is highly concerned with body integrity. The preschool-age child normally asks many questions and in a situation such as this, could be expected to ask even more."
+  },
+  {
+    "question": "The nine-year-old client is admitted in the hospital for almost 1 week and is on bed rest. The child complains of being bored and it seems tiresome to stay on bed and doing nothing. What activity selected by the nurse would the child most likely find stimulating?",
+    "choices": {
+      "A": "Watching a video",
+      "B": "Putting together a puzzle",
+      "C": "ssembling handouts with the nurse for an upcoming staff development meeting",
+      "D": "Listening to a compact disc"
+    },
+    "correct_answer": "C",
+    "rationale": "A 9-year-old enjoys working and feeling a sense of accomplishment. The school-age child also enjoys \u201cshowing off,\u201d and doing something with the nurse on the pediatric unit would allow this. This activity also provides the school-age child a needed opportunity to interact with others in the absence of school and personal friends."
+  },
+  {
+    "question": "The parent of a 16-year-old boy tells the nurse that his son is driving a motorbike very fast and with one hand. \u201cIt is making me crazy!\u201d What would be the best explanation of the nurse to the behavior of the boy?",
+    "choices": {
+      "A": "The adolescent might have an unconscious death wish",
+      "B": "The adolescent feels indestructible",
+      "C": "The adolescent lacks life experience to realize how dangerous the behavior is",
+      "D": "The adolescent has found a way to act out hostility toward the parent"
+    },
+    "correct_answer": "B",
+    "rationale": "Adolescents do feel indestructible, and this is reflected in many risk-taking behaviors."
+  },
+  {
+    "question": "An 8-month-old infant is admitted to the hospital due to diarrhea. The nurse caring for the client tells the mother to stay beside the infant while making assessment. Which of the following developmental milestones the infant has reached?",
+    "choices": {
+      "A": "Has a three-word vocabulary",
+      "B": "Interacts with other infants",
+      "C": "Stands alone",
+      "D": "Recognizes but is fearful of strangers"
+    },
+    "correct_answer": "D",
+    "rationale": "An 8-month-old infant both recognizes and is fearful of strangers. This developmental milestone is known as \u201cstranger anxiety\u201d."
+  },
+  {
+    "question": "The community nurse is conducting a health teaching in the group of married women. When teaching a woman about fertility awareness, the nurse should emphasize that the basal body temperature:",
+    "choices": {
+      "A": "Should be recorded each morning before any activity",
+      "B": "Is the average temperature taken each morning",
+      "C": "an be done with a mercury thermometer but not a digital one",
+      "D": "Has a lower degree of accuracy in predicting ovulation than the cervical mucus test"
+    },
+    "correct_answer": "A",
+    "rationale": "The basal body temperature (BBT) is the lowest body temperature of a healthy person that is taken immediately after waking and before getting out of bed. The BBT usually varies from 36.2 \u2013 36.3 degree Celsius during menses and for about 5-7 days afterward. About the time of ovulation, a slight drop approximately 0.05 degree Celsius in temperature may be seen; after ovulation, in concert with the increasing progesterone levels of the early luteal phase, the BBT rises 0.2-0.4 degree Celsius. This elevation remains until 2-3 days before menstruation, or if pregnancy has occurred."
+  },
+  {
+    "question": "The community nurse is providing an instruction to the clients in the health center about the use of diaphragm for family planning. To evaluate the understanding of the woman, the nurse asks her to demonstrate the use of the diaphragm. Which of following statement indicates a need for further health teaching?",
+    "choices": {
+      "A": "\u201cI should check the diaphragm carefully for holes every time I use it.\u201d",
+      "B": "\u201cThe diaphragm must be left in place for at least 6 hours after intercourse.\u201d",
+      "C": "\u201cI really need to use the diaphragm and jelly most during the middle of my menstrual cycle",
+      "D": "\u201cI may need a different size diaphragm if I gain or lose more than 20 pounds\u201d"
+    },
+    "correct_answer": "C",
+    "rationale": "The woman must understand that, although the \u201cfertile\u201d period is approximately midcycle, hormonal variations do occur and can result in early or late ovulations. To be effective, the diaphragm should be inserted before every intercourse."
+  },
+  {
+    "question": "The client visits the clinic for prenatal check-up. While waiting for the physician, the nurse decided to conduct health teaching to the client. The nurse informed the client that primigravida mother should go to the hospital when which patter is evident?",
+    "choices": {
+      "A": "ontractions are 2-3 minutes apart, lasting 90 seconds, and membranes have ruptured",
+      "B": "ontractions are 5-10 minutes apart, lasting 30 seconds, and are felt as strong menstrual cramps",
+      "C": "ontractions are 3-5 minutes apart, accompanied by rectal pressure and bloody show",
+      "D": "ontractions are 5 minutes apart, lasting 60 seconds, and increasing in intensity"
+    },
+    "correct_answer": "D",
+    "rationale": "Although instructions vary among birth centers, primigravidas should seek care when regular contractions are felt about 5 minutes apart, becoming longer and stronger."
+  },
+  {
+    "question": "A nurse is planning a home visit program to a new mother who is 2 weeks postpartum and breastfeeding, the nurse includes in her health teaching about the resumption of fertility, contraception and sexual activity. Which of the following statement indicates that the mother has understood the teaching?",
+    "choices": {
+      "A": "\u201cBecause breastfeeding speeds the healing process after birth, I can have sex right away and not worry about infection\u201d",
+      "B": "\u201cBecause I am breastfeeding and my hormones are decreased, I may need to use a vaginal lubricant when I have sex\u201d",
+      "C": "\u201cAfter birth, you have to have a period before you can get pregnant again\u2019",
+      "D": "\u201cBreastfeeding protects me from pregnancy because it keeps my hormones down, so I don\u2019t need any contraception until I stop breastfeeding\u201d"
+    },
+    "correct_answer": "B",
+    "rationale": "Prolactin suppresses estrogen, which is needed to stimulate vaginal lubrication during arousal."
+  },
+  {
+    "question": "A community nurse enters the home of the client for follow-up visit. Which of the following is the most appropriate area to place the nursing bag of the nurse when conducting a home visit?",
+    "choices": {
+      "A": "ushioned footstool",
+      "B": "edside wood table",
+      "C": "kitchen countertop",
+      "D": "living room sofa"
+    },
+    "correct_answer": "B",
+    "rationale": "A wood surface provides the least chance for organisms to be present."
+  },
+  {
+    "question": "The nurse in the health center is making an assessment to the infant client. The nurse notes some rashes and small fluid-filled bumps in the skin. The nurse suspects that the infant has eczema. Which of the following is the most important nursing goal:",
+    "choices": {
+      "A": "Preventing infection",
+      "B": "Providing for adequate nutrition",
+      "C": "ecreasing the itching",
+      "D": "Maintaining the comfort level"
+    },
+    "correct_answer": "A",
+    "rationale": "Preventing infection in the infant with eczema is the nurse\u2019s most important goal. The infant with eczema is at high risk for infection due to numerous breaks in the skin\u2019s integrity. Intact skin is always the infant\u2019s first line of defense against infection."
+  },
+  {
+    "question": "The nurse in the health center is providing immunization to the children. The nurse is carefully assessing the condition of the children before giving the vaccines. Which of the following would the nurse note to withhold the infant\u2019s scheduled immunizations?",
+    "choices": {
+      "A": "dry cough",
+      "B": "skin rash",
+      "C": "low-grade fever",
+      "D": "runny nose"
+    },
+    "correct_answer": "B",
+    "rationale": "A skin rash could indicate a concurrent infectious disease process in the infant. The scheduled immunizations should be withheld until the status of the infant\u2019s health can be determined. Fevers above 38.5 degrees Celsius, alteration in skin integrity, and infectious-appearing secretions are indications to withhold immunizations."
+  },
+  {
+    "question": "A mother brought her child in the health center for hepatitis B vaccination in a series. The mother informs the nurse that the child missed an appointment last month to have the third hepatitis B vaccination. Which of the following statements is the appropriate nursing response to the mother?",
+    "choices": {
+      "A": "\u201cI will examine the child for symptoms of hepatitis B\u201d",
+      "B": "\u201cYour child will start the series again\u201d",
+      "C": "\u201cYour child will get the next dose as soon as possible\u201d",
+      "D": "\u201cYour child will have a hepatitis titer done to determine if immunization has taken place.\u201d"
+    },
+    "correct_answer": "C",
+    "rationale": "Continuity is essential to promote active immunity and give hepatitis B lifelong prophylaxis. Optimally, the third vaccination is given 6 months after the first."
+  },
+  {
+    "question": "The community health nurse implemented a new program about effective breast cancer screening technique for the female personnel of the health department of Valenzuela. Which of the following technique should the nurse consider to be of the lowest priority?",
+    "choices": {
+      "A": "Yearly breast exam by a trained professional",
+      "B": "etailed health history to identify women at risk",
+      "C": "Screening mammogram every year for women over age 50",
+      "D": "Screening mammogram every 1-2 years for women over age of 40."
+    },
+    "correct_answer": "B",
+    "rationale": "Because of the high incidence of breast cancer, all women are considered to be at risk regardless of health history."
+  },
+  {
+    "question": "Which of the following technique is considered an aseptic practice during the home visit of the community health nurse?",
+    "choices": {
+      "A": "Wrapping used dressing in a plastic bag before placing them in the nursing bag",
+      "B": "Washing hands before removing equipment from the nursing bag",
+      "C": "Using the client\u2019s soap and cloth towel for hand washing",
+      "D": "Placing the contaminated needles and syringes in a labeled container inside the nursing bag"
+    },
+    "correct_answer": "B",
+    "rationale": "Handwashing is the best way to prevent the spread of infection."
+  },
+  {
+    "question": "The nurse is planning to conduct a home visit in a small community. Which of the following is the most important factor when planning the best time for a home care visit?",
+    "choices": {
+      "A": "Purpose of the home visit",
+      "B": "Preference of the patient\u2019s family",
+      "C": "Location of the patient\u2019s home",
+      "D": "Length of time of the visit will take"
+    },
+    "correct_answer": "A",
+    "rationale": "The purpose of the visit takes priority."
+  },
+  {
+    "question": "The nurse assigned in the health center is counseling a 30-year-old client requesting oral contraceptives. The client tells the nurse that she has an active yeast infection that has recurred several times in the past year. Which statement by the nurse is inaccurate concerning health promotion actions to prevent recurring yeast infection?",
+    "choices": {
+      "A": "\u201cDuring treatment for yeast, avoid vaginal intercourse for one week\u201d",
+      "B": "\u201cWear loose-fitting cotton underwear\u201d",
+      "C": "\u201cAvoid eating large amounts of sugar or sugar-bingeing\u201d",
+      "D": "\u201cDouche once a day with a mild vinegar and water solution\u201d"
+    },
+    "correct_answer": "D",
+    "rationale": "Frequent douching interferes with the natural protective barriers in the vagina that resist yeast infection and should be avoided."
+  },
+  {
+    "question": "During immunization week in the health center, the parent of a 6-month-old infant asks the health nurse, \u201cWhy is our baby going to receive so many immunizations over a long time period?\u201d The best nursing response would be:",
+    "choices": {
+      "A": "\u201cThe number of immunizations your baby will receive shows how many pediatric communicable and infectious diseases can now be prevented.\u201d",
+      "B": "\u201cYou need to ask the physician\u201d",
+      "C": "\u201cThe number of immunizations your baby will receive is determined by your baby\u2019s health history and age\u201d",
+      "D": "\u201cIt is easier on your baby to receive several immunizations rather than one at a time\u201d"
+    },
+    "correct_answer": "A",
+    "rationale": "Completion for the recommended schedule of infant immunizations does not require a large number of immunizations, but it also provides protection against multiple pediatric communicable and infectious diseases."
+  },
+  {
+    "question": "The community health nurse is conducting a health teaching about nutrition to a group of pregnant women who are anemic and are lactose intolerant. Which of the following foods should the nurse especially encourage during the third trimester?",
+    "choices": {
+      "A": "heese, yogurt, and fish for protein and calcium needs plus prenatal vitamins and iron supplements",
+      "B": "Prenatal iron and calcium supplements plus a regular adult diet",
+      "C": "Red beans, green leafy vegetables, and fish for iron and calcium needs plus prenatal vitamins and iron supplements",
+      "D": "Red meat, milk and eggs for iron and calcium needs plus prenatal vitamins and iron supplements"
+    },
+    "correct_answer": "C",
+    "rationale": "This is appropriate foods that are high in iron and calcium but would not affect lactose intolerance."
+  },
+  {
+    "question": "A woman with active tuberculosis (TB) and has visited the health center for regular therapy for five months wants to become pregnant. The nurse knows that further information is necessary when the woman states:",
+    "choices": {
+      "A": "\u201cSpontaneous abortion may occur in one out of five women who are infected\u201d",
+      "B": "\u201cPulmonary TB may jeopardize my pregnancy\u201d",
+      "C": "\u201cI know that I may not be able to have close contact with my baby until contagious is no longer a problem",
+      "D": "\u201cI can get pregnant after I have been free of TB for 6 months\u201d"
+    },
+    "correct_answer": "D",
+    "rationale": "Intervention is needed when the woman thinks that she needs to wait only 6 months after being free of TB before she can get pregnant. She needs to wait 1.5-2years after she is declared to be free of TB before she should attempt pregnancy."
+  },
+  {
+    "question": "The Department of Health is alarmed that almost 33 million people suffer from food poisoning every year. Salmonella enteritis is responsible for almost 4 million cases of food poisoning. One of the major goals is to promote proper food preparation. The community health nurse is tasks to conduct health teaching about the prevention of food poisoning to a group of mother everyday. The nurse can help identify signs and symptoms of specific organisms to help patients get appropriate treatment. Typical symptoms of salmonella include:",
+    "choices": {
+      "A": "Nausea, vomiting and paralysis",
+      "B": "loody diarrhea",
+      "C": "iarrhea and abdominal cramps",
+      "D": "Nausea, vomiting and headache"
+    },
+    "correct_answer": "C",
+    "rationale": "Salmonella organisms cause lower GI symptoms"
+  },
+  {
+    "question": "A community health nurse makes a home visit to an elderly person living alone in a small house. Which of the following observation would be a great concern?",
+    "choices": {
+      "A": "ig mirror in a wall",
+      "B": "Scattered and unwashed dishes in the sink",
+      "C": "Shiny floors with scattered rugs",
+      "D": "rightly lit rooms"
+    },
+    "correct_answer": "C",
+    "rationale": "It is a safety hazard to have shiny floors and scattered rugs because they can cause falls and rugs should be removed."
+  },
+  {
+    "question": "The health nurse is conducting health teaching about \u201csafe\u201d sex to a group of high school students. Which of the following statement about the use of condoms should the nurse avoid making?",
+    "choices": {
+      "A": "\u201cCondoms should be used because they can prevent infection and because they may prevent pregnancy\u201d",
+      "B": "\u201cCondoms should be used even if you have recently tested negative for HIV\u201d",
+      "C": "\u201cCondoms should be used every time you have sex because condoms prevent all forms of sexually transmitted diseases\u201d",
+      "D": "\u201cCondoms should be used every time you have sex even if you are taking the pill because condoms can prevent the spread of HIV and gonorrhea\u201d"
+    },
+    "correct_answer": "C",
+    "rationale": "Condoms do not prevent ALL forms of sexually transmitted diseases."
+  },
+  {
+    "question": "The department of health is promoting the breastfeeding program to all newly mothers. The nurse is formulating a plan of care to a woman who gave birth to a baby girl. The nursing care plan for a breast-feeding mother takes into account that breast-feeding is contraindicated when the woman:",
+    "choices": {
+      "A": "Is pregnant",
+      "B": "Has genital herpes infection",
+      "C": "evelops mastitis",
+      "D": "Has inverted nipples"
+    },
+    "correct_answer": "A",
+    "rationale": "Pregnancy is one contraindication to breast-feeding. Milk secretion is inhibited and the baby\u2019s sucking may stimulate uterine contractions."
+  },
+  {
+    "question": "The City health department conducted a medical mission in Barangay Marulas. Majority of the children in the Barangay Marulas were diagnosed with pinworms. The community health nurse should anticipate that the children\u2019s chief complaint would be:",
+    "choices": {
+      "A": "Lack of appetite",
+      "B": "Severe itching of the scalp",
+      "C": "Perianal itching",
+      "D": "Severe abdominal pain"
+    },
+    "correct_answer": "C",
+    "rationale": "Perianal itching is the child\u2019s chief complaint associated with the diagnosis of pinworms. The itching, in this instance, is often described as being \u201cintense\u201d in nature. Pinworms infestation usually occurs because the child is in the anus-to-mouth stage of development (child uses the toilet, does not wash hands, places hands and pinworm eggs in mouth). Teaching the child hand washing before eating and after using the toilet can assist in breaking the cycle."
+  },
+  {
+    "question": "The mother brought her daughter to the health center. The child has head lice. The nurse anticipates that the nursing diagnosis most closely correlated with this is:",
+    "choices": {
+      "A": "Fluid volume deficit related to vomiting",
+      "B": "ltered body image related to alopecia",
+      "C": "ltered comfort related to itching",
+      "D": "iversional activity deficit related to hospitalization"
+    },
+    "correct_answer": "C",
+    "rationale": "Severe itching of the scalp is the classic sign and symptom of head lice in a child. In turn, this would lead to the nursing diagnosis of \u201caltered comfort\u201d."
+  },
+  {
+    "question": "The mother brings a child to the health care clinic because of severe headache and vomiting. During the assessment of the health care nurse, the temperature of the child is 40 degree Celsius, and the nurse notes the presence of nuchal rigidity. The nurse is suspecting that the child might be suffering from bacterial meningitis. The nurse continues to assess the child for the presence of Kernig\u2019s sign. Which finding would indicate the presence of this sign?",
+    "choices": {
+      "A": "Flexion of the hips when the neck is flexed from a lying position",
+      "B": "alf pain when the foot is dorsiflexed",
+      "C": "Inability of the child to extend the legs fully when lying supine",
+      "D": "Pain when the chin is pulled down to the chest"
+    },
+    "correct_answer": "C",
+    "rationale": "Kernig\u2019s sign is the inability of the child to extend the legs fully when lying supine. This sign is frequently present in bacterial meningitis. Nuchal rigidity is also present in bacterial meningitis and occurs when pain prevents the child from touching the chin to the chest."
+  },
+  {
+    "question": "A community health nurse makes a home visit to a child with an infectious and communicable disease. In planning care for the child, the nurse must determine that the primary goal is that the:",
+    "choices": {
+      "A": "hild will experience mild discomfort",
+      "B": "hild will experience only minor complications",
+      "C": "hild will not spread the infection to others",
+      "D": "Public health department will be notified"
+    },
+    "correct_answer": "C",
+    "rationale": "The primary goal is to prevent the spread of the disease to others. The child should experience no complication. Although the health department may need to be notified at some point, it is no the primary goal. It is also important to prevent discomfort as much as possible."
+  },
+  {
+    "question": "The mother brings her daughter to the health care clinic. The child was diagnosed with conjunctivitis. The nurse provides health teaching to the mother about the proper care of her daughter while at home. Which statement by the mother indicates a need for additional information?",
+    "choices": {
+      "A": "\u201cI do not need to be concerned about the spreading of this infection to others in my family\u201d",
+      "B": "\u201cI should apply warm compresses before instilling antibiotic drops if purulent discharge is present in my daughter\u2019s eye\u201d",
+      "C": "\u201cI can use an ophthalmic analgesic ointment at nighttime if I have eye discomfort\u201d",
+      "D": "\u201cI should perform a saline eye irrigation before instilling, the antibiotic drops into my daughter\u2019s eye if purulent discharge is present\u201d"
+    },
+    "correct_answer": "A",
+    "rationale": "Conjunctivitis is highly contagious. Antibiotic drops are usually administered four times a day. When purulent discharge is present, saline eye irrigations or eye applications of warm compresses may be necessary before instilling the medication. Ophthalmic analgesic ointment or drops may be instilled, especially at bedtime, because discomfort becomes more noticeable when the eyelids are closed."
+  },
+  {
+    "question": "A community health nurse is caring for a group of flood victims in Marikina area. In planning for the potential needs of this group, which is the most immediate concern?",
+    "choices": {
+      "A": "Finding affordable housing for the group",
+      "B": "Peer support through structured groups",
+      "C": "Setting up a 24-hour crisis center and hotline",
+      "D": "Meeting the basic needs to ensure that adequate food, shelter and clothing are available"
+    },
+    "correct_answer": "D",
+    "rationale": "The question asks about the immediate concern. The ABCs of community health care are always attending to people\u2019s basic needs of food, shelter, and clothing"
+  }
+]

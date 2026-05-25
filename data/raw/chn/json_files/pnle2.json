@@ -1,0 +1,332 @@
+[
+  {
+    "question": "In which step are plans formulated for solving community problems?",
+    "choices": {
+      "A": "Mobilization",
+      "B": "ommunity organization",
+      "C": "Follow-up/extension",
+      "D": "ore group formation"
+    },
+    "correct_answer": "B",
+    "rationale": "Community organization. Community organization is the step when community assemblies take place. During the community assembly, the people may opt to formalize the community organization and make plans for community action to resolve a community health problem."
+  },
+  {
+    "question": "The public health nurse takes an active role in community participation. What is the primary goal of community organizing?",
+    "choices": {
+      "A": "To educate the people regarding community health problems",
+      "B": "To mobilize the people to resolve community health problems",
+      "C": "To maximize the community\u2019s resources in dealing with health problems",
+      "D": "To maximize the community\u2019s resources in dealing with health problems"
+    },
+    "correct_answer": "D",
+    "rationale": "To maximize the community\u2019s resources in dealing with health problems. Community organizing is a developmental service, with the goal of developing the people\u2019s self-reliance in dealing with community health problems. A, B and C are objectives of contributory objectives to this goal."
+  },
+  {
+    "question": "An indicator of success in community organizing is when people are able to",
+    "choices": {
+      "A": "Participate in community activities for the solution of a community problem",
+      "B": "Implement activities for the solution of the community problem",
+      "C": "Plan activities for the solution of the community problem",
+      "D": "Identify the health problem as a common concern"
+    },
+    "correct_answer": "A",
+    "rationale": "Participate in community activities for the solution of a community problem. Participation in community activities in resolving a community problem may be in any of the processes mentioned in the other choices."
+  },
+  {
+    "question": "Tertiary prevention is needed in which stage of the natural history of disease?",
+    "choices": {
+      "A": "Pre-pathogenesis",
+      "B": "Pathogenesis",
+      "C": "Prodromal",
+      "D": "Terminal"
+    },
+    "correct_answer": "D",
+    "rationale": "Terminal. Tertiary prevention involves rehabilitation, prevention of permanent disability and disability limitation appropriate for convalescents, the disabled, complicated cases and the terminally ill (those in the terminal stage of a disease)"
+  },
+  {
+    "question": "Isolation of a child with measles belongs to what level of prevention?",
+    "choices": {
+      "A": "Primary",
+      "B": "Secondary",
+      "C": "Intermediate",
+      "D": "Tertiary"
+    },
+    "correct_answer": "A",
+    "rationale": "Primary. The purpose of isolating a client with a communicable disease is to protect those who are not sick (specific disease prevention)."
+  },
+  {
+    "question": "On the other hand, Operation Timbang is _____ prevention.",
+    "choices": {
+      "A": "Primary",
+      "B": "Secondary",
+      "C": "Intermediate",
+      "D": "Tertiary"
+    },
+    "correct_answer": "B",
+    "rationale": "Secondary. Operation Timbang is done to identify members of the susceptible population who are malnourished. Its purpose is early diagnosis and, subsequently, prompt treatment."
+  },
+  {
+    "question": "Which type of family-nurse contact will provide you with the best opportunity to observe family dynamics?",
+    "choices": {
+      "A": "linic consultation",
+      "B": "Group conference",
+      "C": "Home visit",
+      "D": "Written communication"
+    },
+    "correct_answer": "C",
+    "rationale": "Home visit. Dynamics of family relationships can best be observed in the family\u2019s natural environment, which is the home."
+  },
+  {
+    "question": "The typology of family nursing problems is used in the statement of nursing diagnosis in the care of families. The youngest child of the de los Reyes family has been diagnosed as mentally retarded. This is classified as a:",
+    "choices": {
+      "A": "Health threat",
+      "B": "Health deficit",
+      "C": "Foreseeable crisis",
+      "D": "Stress point"
+    },
+    "correct_answer": "B",
+    "rationale": "Health deficit. Failure of a family member to develop according to what is expected, as in mental retardation, is a health deficit."
+  },
+  {
+    "question": "The de los Reyes couple have a 6-year old child entering school for the first time. The de los Reyes family has a:",
+    "choices": {
+      "A": "Health threat",
+      "B": "Health deficit",
+      "C": "Foreseeable crisis",
+      "D": "Stress point"
+    },
+    "correct_answer": "C",
+    "rationale": "Foreseeable crisis. Entry of the 6-year old into school is an anticipated period of unusual demand on the family."
+  },
+  {
+    "question": "Which of the following is an advantage of a home visit?",
+    "choices": {
+      "A": "It allows the nurse to provide nursing care to a greater number of people.",
+      "B": "It provides an opportunity to do first hand appraisal of the home situation.",
+      "C": "It allows sharing of experiences among people with similar health problems.",
+      "D": "It develops the family\u2019s initiative in providing for health needs of its members."
+    },
+    "correct_answer": "B",
+    "rationale": "It provides an opportunity to do first hand appraisal of the home situation.. Choice A is not correct since a home visit requires that the nurse spend so much time with the family. Choice C is an advantage of a group conference, while choice D is true of a clinic consultation."
+  },
+  {
+    "question": "Which is CONTRARY to the principles in planning a home visit?",
+    "choices": {
+      "A": "home visit should have a purpose or objective.",
+      "B": "The plan should revolve around family health needs.",
+      "C": "home visit should be conducted in the manner prescribed by the RHU.",
+      "D": "Planning of continuing care should involve a responsible family member."
+    },
+    "correct_answer": "C",
+    "rationale": "A home visit should be conducted in the manner prescribed by the RHU.The home visit plan should be flexible and practical, depending on factors, such as the family\u2019s needs and the resources available to the nurse and the family."
+  },
+  {
+    "question": "The PHN bag is an important tool in providing nursing care during a home visit. The most important principle of bag technique states that it",
+    "choices": {
+      "A": "Should save time and effort.",
+      "B": "Should minimize if not totally prevent the spread of infection.",
+      "C": "Should not overshadow concern for the patient and his family.",
+      "D": "May be done in a variety of ways depending on the home situation, etc."
+    },
+    "correct_answer": "B",
+    "rationale": "Should minimize if not totally prevent the spread of infection. Bag technique is performed before and after handling a client in the home to prevent transmission of infection to and from the client."
+  },
+  {
+    "question": "To maintain the cleanliness of the bag and its contents, which of the following must the nurse do?",
+    "choices": {
+      "A": "Wash his/her hands before and after providing nursing care to the family members.",
+      "B": "In the care of family members, as much as possible, use only articles taken from the bag.",
+      "C": "Put on an apron to protect her uniform and fold it with the right side out before putting it back into the bag.",
+      "D": "t the end of the visit, fold the lining on which the bag was placed, ensuring that the contaminated side is on the outside."
+    },
+    "correct_answer": "A",
+    "rationale": "Wash his/her hands before and after providing nursing care to the family members. Choice B goes against the idea of utilizing the family\u2019s resources, which is encouraged in CHN. Choices C and D goes against the principle of asepsis of confining the contaminated surface of objects."
+  },
+  {
+    "question": "The public health nurse conducts a study on the factors contributing to the high mortality rate due to heart disease in the municipality where she works. Which branch of epidemiology does the nurse practice in this situation?",
+    "choices": {
+      "A": "escriptive",
+      "B": "nalytical",
+      "C": "Therapeutic",
+      "D": "Evaluation"
+    },
+    "correct_answer": "B",
+    "rationale": "Analytical. Analytical epidemiology is the study of factors or determinants affecting the patterns of occurrence and distribution of disease in a community."
+  },
+  {
+    "question": "Which of the following is a function of epidemiology?",
+    "choices": {
+      "A": "Identifying the disease condition based on manifestations presented by a client",
+      "B": "etermining factors that contributed to the occurrence of pneumonia in a 3 year old",
+      "C": "etermining the efficacy of the antibiotic used in the treatment of the 3 year old client with pneumonia",
+      "D": "Evaluating the effectiveness of the implementation of the Integrated Management of Childhood Illness"
+    },
+    "correct_answer": "D",
+    "rationale": "Evaluating the effectiveness of the implementation of the Integrated Management of Childhood Illness. Epidemiology is used in the assessment of a community or evaluation of interventions in community health practice."
+  },
+  {
+    "question": "Which of the following is an epidemiologic function of the nurse during an epidemic?",
+    "choices": {
+      "A": "onducting assessment of suspected cases to detect the communicable disease",
+      "B": "Monitoring the condition of the cases affected by the communicable disease",
+      "C": "Participating in the investigation to determine the source of the epidemic",
+      "D": "Teaching the community on preventive measures against the disease"
+    },
+    "correct_answer": "C",
+    "rationale": "Participating in the investigation to determine the source of the epidemic. Epidemiology is the study of patterns of occurrence and distribution of disease in the community, as well as the factors that affect disease patterns. The purpose of an epidemiologic investigation is to identify the source of an epidemic, i.e., what brought about the epidemic."
+  },
+  {
+    "question": "The primary purpose of conducting an epidemiologic investigation is to",
+    "choices": {
+      "A": "elineate the etiology of the epidemic",
+      "B": "Encourage cooperation and support of the community",
+      "C": "Identify groups who are at risk of contracting the disease",
+      "D": "Identify geographical location of cases of the disease in the community"
+    },
+    "correct_answer": "A",
+    "rationale": "Delineate the etiology of the epidemic. Delineating the etiology of an epidemic is identifying its source."
+  },
+  {
+    "question": "Which is a characteristic of person-to-person propagated epidemics?",
+    "choices": {
+      "A": "There are more cases of the disease than expected.",
+      "B": "The disease must necessarily be transmitted through a vector.",
+      "C": "The spread of the disease can be attributed to a common vehicle.",
+      "D": "There is a gradual build up of cases before the epidemic becomes easily noticeable."
+    },
+    "correct_answer": "D",
+    "rationale": "There is a gradual build up of cases before the epidemic becomes easily noticeable. A gradual or insidious onset of the epidemic is usually observable in person-to-person propagated epidemics."
+  },
+  {
+    "question": "In the investigation of an epidemic, you compare the present frequency of the disease with the usual frequency at this time of the year in this community. This is done during which stage of the investigation?",
+    "choices": {
+      "A": "Establishing the epidemic",
+      "B": "Testing the hypothesis",
+      "C": "Formulation of the hypothesis",
+      "D": "ppraisal of facts"
+    },
+    "correct_answer": "A",
+    "rationale": "Establishing the epidemic. Establishing the epidemic is determining whether there is an epidemic or not. This is done by comparing the present number of cases with the usual number of cases of the disease at the same time of the year, as well as establishing the relatedness of the cases of the disease."
+  },
+  {
+    "question": "The number of cases of Dengue fever usually increases towards the end of the rainy season. This pattern of occurrence of Dengue fever is best described as",
+    "choices": {
+      "A": "Epidemic occurrence",
+      "B": "yclical variation",
+      "C": "Sporadic occurrence",
+      "D": "Secular variation"
+    },
+    "correct_answer": "B",
+    "rationale": "Cyclical variation. A cyclical variation is a periodic fluctuation in the number of cases of a disease in the community."
+  },
+  {
+    "question": "In the year 1980, the World Health Organization declared the Philippines, together with some other countries in the Western Pacific Region, \u201cfree\u201d of which disease?",
+    "choices": {
+      "A": "Pneumonic plague",
+      "B": "Poliomyelitis",
+      "C": "Small pox",
+      "D": "nthrax"
+    },
+    "correct_answer": "C",
+    "rationale": "Small pox. The last documented case of Small pox was in 1977 at Somalia."
+  },
+  {
+    "question": "In the census of the Philippines in 1995, there were about 35,299,000 males and about 34,968,000 females. What is the sex ratio?",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "B",
+    "rationale": "100.94:100. Sex ratio is the number of males for every 100 females in the population."
+  },
+  {
+    "question": "06:100",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "D",
+    "rationale": "Health programs are sustained according to the level of development of the community. Primary health care is essential health care that can be sustained in all stages of development of the community."
+  },
+  {
+    "question": "94:100",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "D",
+    "rationale": "Sensitivity. Sensitivity is the capacity of a diagnostic examination to detect cases of the disease. If a test is 100% sensitive, all the cases tested will have a positive result, i.e., there will be no false negative results."
+  },
+  {
+    "question": "23%",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "D",
+    "rationale": "Lagundi. Sambong is used as a diuretic. Tsaang gubat is used to relieve diarrhea. Akapulko is used for its antifungal property."
+  },
+  {
+    "question": "76%",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "A",
+    "rationale": "R.A. 8423"
+  },
+  {
+    "question": "Primary health care is a total approach to community development. Which of the following is an indicator of success in the use of the primary health care approach?",
+    "choices": {
+      "A": "Health services are provided free of charge to individuals and families.",
+      "B": "Local officials are empowered as the major decision makers in matters of health.",
+      "C": "Health workers are able to provide care based on identified health needs of the people.",
+      "D": "Health programs are sustained according to the level of development of the community."
+    },
+    "correct_answer": "A",
+    "rationale": "Yin. Yang is the male dominating, positive and masculine force."
+  },
+  {
+    "question": "Sputum examination is the major screening tool for pulmonary tuberculosis. Clients would sometimes get false negative results in this exam. This means that the test is not perfect in terms of which characteristic of a diagnostic examination?",
+    "choices": {
+      "A": "Effectiveness",
+      "B": "Efficacy",
+      "C": "Specificity",
+      "D": "Sensitivity"
+    },
+    "correct_answer": "B",
+    "rationale": "Letter of Instruction No. 949. Letter of Instruction 949 was issued by then President Ferdinand Marcos, directing the formerly called Ministry of Health, now the Department of Health, to utilize Primary Health Care approach in planning and implementing health programs."
+  },
+  {
+    "question": "Use of appropriate technology requires knowledge of indigenous technology. Which medicinal herb is given for fever, headache and cough?",
+    "choices": {
+      "A": "Sambong",
+      "B": "Tsaang gubat",
+      "C": "kapulko",
+      "D": "Lagundi"
+    },
+    "correct_answer": "D",
+    "rationale": "Cooperation between the PHN and public school teacher. Intersectoral linkages refer to working relationships between the health sector and other sectors involved in community development."
+  },
+  {
+    "question": "What law created the Philippine Institute of Traditional and Alternative Health Care?",
+    "choices": {
+      "A": "R.A. 8423",
+      "B": "R.A. 4823",
+      "C": "R.A. 2483",
+      "D": "R.A. 3482"
+    },
+    "correct_answer": "D",
+    "rationale": "2,300. Based on the Philippine population composition, to estimate the number of 1-4 year old children, multiply total population by 11.5%."
+  }
+]

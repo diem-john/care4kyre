@@ -1,0 +1,277 @@
+[
+  {
+    "question": "A patient is wearing a soft wrist-safety device. Which of the following nursing assessment is considered abnormal?",
+    "choices": {
+      "A": "Palpable radial pulse",
+      "B": "Palpable ulnar pulse",
+      "C": "apillary refill within 3 seconds",
+      "D": "luish fingernails, cool and pale fingers"
+    },
+    "correct_answer": "D",
+    "rationale": "Bluish fingernails, cool and pale fingers. A safety device on the wrist may impair blood circulation. Therefore, the nurse should assess the patient for signs of impaired circulation such as bluish fingernails, cool and pale fingers. Palpable radial and ulnar pulses, capillary refill within 3 seconds are all normal findings."
+  },
+  {
+    "question": "Pia\u2019s serum sodium level is 150 mEq/L. Which of the following food items does the nurse instruct Pia to avoid?",
+    "choices": {
+      "A": "roccoli",
+      "B": "sardines",
+      "C": "abbage",
+      "D": "tomatoes"
+    },
+    "correct_answer": "B",
+    "rationale": "sardines. The normal serum sodium level is 135 to 145 mEq/L, the client is having hypernatremia. Pia should avoid food high in sodium like processed food. Broccoli, cabbage and tomatoes are good source of Vitamin C."
+  },
+  {
+    "question": "Jason, 3 years old vomited. His mom stated, \u201cHe vomited 6 ounces of his formula this morning.\u201d This statement is an example of:",
+    "choices": {
+      "A": "objective data from a secondary source",
+      "B": "objective data from a primary source",
+      "C": "subjective data from a primary source",
+      "D": "subjective data from a secondary source"
+    },
+    "correct_answer": "A",
+    "rationale": "objective data from a secondary source. Jason is the primary source; his mother is a secondary source. The data is objective because it can be perceived by the senses, verified by another person observing the same patient, and tested against accepted standards or norms."
+  },
+  {
+    "question": "Which of the following is a nursing diagnosis?",
+    "choices": {
+      "A": "Hypethermia",
+      "B": "iabetes Mellitus",
+      "C": "ngina",
+      "D": "hronic Renal Failure"
+    },
+    "correct_answer": "A",
+    "rationale": "Hypethermia. Hyperthermia is a NANDA-approved nursing diagnosis. Diabetes Mellitus, Angina and Chronic Renal Failure are medical diagnoses."
+  },
+  {
+    "question": "What is the characteristic of the nursing process?",
+    "choices": {
+      "A": "stagnant",
+      "B": "inflexible",
+      "C": "systematic",
+      "D": "goal-oriented"
+    },
+    "correct_answer": "D",
+    "rationale": "goal-oriented. The nursing process is goal-oriented. It is also systematic, patient-centered, and dynamic."
+  },
+  {
+    "question": "A skin lesion which is fluid-filled, less than 1 cm in size is called:",
+    "choices": {
+      "A": "papule",
+      "B": "vesicle",
+      "C": "ulla",
+      "D": "macule"
+    },
+    "correct_answer": "B",
+    "rationale": "vesicle. Vesicle is a circumscribed circulation containing serous fluid or blood and less than 1 cm (ex. Blister, chicken pox)."
+  },
+  {
+    "question": "During application of medication into the ear, which of the following is inappropriate nursing action?",
+    "choices": {
+      "A": "In an adult, pull the pinna upward.",
+      "B": "Instill the medication directly into the tympanic membrane.",
+      "C": "Warm the medication at room or body temperature.",
+      "D": "Press the tragus of the ear a few times to assist flow of medication into the ear canal."
+    },
+    "correct_answer": "B",
+    "rationale": "Instill the medication directly into the tympanic membrane. During the application of medication it is inappropriate to instill the medication directly into the tympanic membrane. The right thing to do is instill the medication along the lateral wall of the auditory canal."
+  },
+  {
+    "question": "Which of the following is appropriate nursing intervention for a client who is grieving over the death of her child?",
+    "choices": {
+      "A": "Tell her not to cry and it will be better.",
+      "B": "Provide opportunity to the client to tell their story.",
+      "C": "Encourage her to accept or to replace the lost person.",
+      "D": "iscourage the client in expressing her emotions."
+    },
+    "correct_answer": "B",
+    "rationale": "Provide opportunity to the client to tell their story. Providing a grieving person an opportunity to tell their story allows the person to express feelings. This is therapeutic in assisting the client resolve grief."
+  },
+  {
+    "question": "It is the gradual decrease of the body\u2019s temperature after death.",
+    "choices": {
+      "A": "livor mortis",
+      "B": "rigor mortis",
+      "C": "lgor mortis",
+      "D": "none of the above"
+    },
+    "correct_answer": "C",
+    "rationale": "algor mortis. Algor mortis is the decrease of the body\u2019s temperature after death. Livor mortis is the discoloration of the skin after death. Rigor mortis is the stiffening of the body that occurs about 2-4 hours after death."
+  },
+  {
+    "question": "When performing an admission assessment on a newly admitted patient, the nurse percusses resonance. The nurse knows that resonance heard on percussion is most commonly heard over which organ?",
+    "choices": {
+      "A": "thigh",
+      "B": "liver",
+      "C": "intestine",
+      "D": "lung"
+    },
+    "correct_answer": "D",
+    "rationale": "lung. Resonance is loud, low-pitched and long duration that\u2019s heard most commonly over an air-filled tissue such as a normal lung."
+  },
+  {
+    "question": "The nurse is aware that Bell\u2019s palsy affects which cranial nerve?",
+    "choices": {
+      "A": "2nd CN (Optic)",
+      "B": "3rd CN (Occulomotor)",
+      "C": "4th CN (Trochlear)",
+      "D": "7th CN (Facial)"
+    },
+    "correct_answer": "D",
+    "rationale": "7th CN (Facial). Bells\u2019 palsy is the paralysis of the motor component of the 7th caranial nerve, resulting in facial sag, inability to close the eyelid or the mouth, drooling, flat nasolabial fold and loss of taste on the affected side of the face."
+  },
+  {
+    "question": "Prolonged deficiency of Vitamin B9 leads to:",
+    "choices": {
+      "A": "scurvy",
+      "B": "pellagra",
+      "C": "megaloblastic anemia",
+      "D": "pernicious anemia"
+    },
+    "correct_answer": "C",
+    "rationale": "megaloblastic anemia. Prolonged Vitamin B9 deficiency will lead to megaloblastic anemia while pernicious anemia results in deficiency in Vitamin B12. Prolonged deficiency of Vitamin C leads to scurvy and Pellagra results in deficiency in Vitamin B3."
+  },
+  {
+    "question": "Nurse Cherry is teaching a 72 year old patient about a newly prescribed medication. What could cause a geriatric patient to have difficulty retaining knowledge about the newly prescribed medication?",
+    "choices": {
+      "A": "bsence of family support",
+      "B": "ecreased sensory functions",
+      "C": "Patient has no interest on learning",
+      "D": "ecreased plasma drug levels"
+    },
+    "correct_answer": "B",
+    "rationale": "Decreased sensory functions. Decreased in sensory functions could cause a geriatric patient to have difficulty retaining knowledge about the newly prescribed medications. Absence of family support and no interest on learning may affect compliance, not knowledge retention. Decreased plasma levels do not alter patient\u2019s knowledge about the drug."
+  },
+  {
+    "question": "When assessing a patient\u2019s level of consciousness, which type of nursing intervention is the nurse performing?",
+    "choices": {
+      "A": "Independent",
+      "B": "ependent",
+      "C": "ollaborative",
+      "D": "Professional"
+    },
+    "correct_answer": "A",
+    "rationale": "Independent. Independent nursing interventions involve actions that nurses initiate based on their own knowledge and skills without the direction or supervision of another member of the health care team."
+  },
+  {
+    "question": "Claire is admitted with a diagnosis of chronic shoulder pain. By definition, the nurse understands that the patient has had pain for more than:",
+    "choices": {
+      "A": "3 months",
+      "B": "6 months",
+      "C": "9 months",
+      "D": "1 year"
+    },
+    "correct_answer": "B",
+    "rationale": "6 months. Chronic pain s usually defined as pain lasting longer than 6 months."
+  },
+  {
+    "question": "Which of the following statements regarding the nursing process is true?",
+    "choices": {
+      "A": "It is useful on outpatient settings.",
+      "B": "It progresses in separate, unrelated steps.",
+      "C": "It focuses on the patient, not the nurse.",
+      "D": "It provides the solution to all patient health problems."
+    },
+    "correct_answer": "C",
+    "rationale": "It focuses on the patient, not the nurse. The nursing process is patient-centered, not nurse-centered. It can be use in any setting, and the steps are related. The nursing process can\u2019t solve all patient health problems."
+  },
+  {
+    "question": "Which of the following is considered significant enough to require immediate communication to another member of the health care team?",
+    "choices": {
+      "A": "Weight loss of 3 lbs in a 120 lb female patient.",
+      "B": "iminished breath sounds in patient with previously normal breath sounds",
+      "C": "Patient stated, \u201cI feel less nauseated.\u201d",
+      "D": "hange of heart rate from 70 to 83 beats per minute."
+    },
+    "correct_answer": "B",
+    "rationale": "Diminished breath sounds in patient with previously normal breath sounds. Diminished breath sound is a life threatening problem therefore it is highly priority because they pose the greatest threat to the patient\u2019s well-being."
+  },
+  {
+    "question": "To assess the adequacy of food intake, which of the following assessment parameters is best used?",
+    "choices": {
+      "A": "food preferences",
+      "B": "regularity of meal times",
+      "C": "3-day diet recall",
+      "D": "eating style and habits"
+    },
+    "correct_answer": "C",
+    "rationale": "3-day diet recall. 3-day diet recall is an example of dietary history. This is used to indicate the adequacy of food intake of the client."
+  },
+  {
+    "question": "Van Fajardo is a 55 year old who was admitted to the hospital with newly diagnosed hepatitis. The nurse is doing a patient teaching with Mr. Fajardo. What kind of role does the nurse assume?",
+    "choices": {
+      "A": "talker",
+      "B": "teacher",
+      "C": "thinker",
+      "D": "oer"
+    },
+    "correct_answer": "B",
+    "rationale": "teacher. The nurse will assume the role of a teacher in this therapeutic relationship. The other roles are inappropriate in this situation."
+  },
+  {
+    "question": "When providing a continuous enteral feeding, which of the following action is essential for the nurse to do?",
+    "choices": {
+      "A": "Place the client on the left side of the bed.",
+      "B": "ttach the feeding bag to the current tubing.",
+      "C": "Elevate the head of the bed.",
+      "D": "old the formula before administering it."
+    },
+    "correct_answer": "C",
+    "rationale": "Elevate the head of the bed. Elevating the head of the bed during an enteral feeding prevents aspiration. The patient may be placed on the right side to prevent aspiration. Enteral feedings are given at room temperature to lessen GI distress. The enteral tubing should be changed every 24 hours to limit microbial growth."
+  },
+  {
+    "question": "Kussmaul\u2019s breathing is;",
+    "choices": {
+      "A": "Shallow breaths interrupted by apnea.",
+      "B": "Prolonged gasping inspiration followed by a very short, usually inefficient expiration.",
+      "C": "Marked rhythmic waxing and waning of respirations from very deep to very shallow breathing and temporary apnea.",
+      "D": "Increased rate and depth of respiration."
+    },
+    "correct_answer": "D",
+    "rationale": "Increased rate and depth of respiration. Kussmaul breathing is also called as hyperventilation. Seen in metabolic acidosis and renal failure. Option A refers to Biot\u2019s breathing. Option B is apneustic breathing and option C is the Cheyne-stokes breathing."
+  },
+  {
+    "question": "Presty has terminal cancer and she refuses to believe that loss is happening ans she assumes artificial cheerfulness. What stage of grieving is she in?",
+    "choices": {
+      "A": "epression",
+      "B": "argaining",
+      "C": "enial",
+      "D": "cceptance"
+    },
+    "correct_answer": "C",
+    "rationale": "denial. The client is in denial stage because she is unready to face the reality that loss is happening and she assumes artificial cheerfulness."
+  },
+  {
+    "question": "Immunization for healthy babies and preschool children is an example of what level of preventive health care?",
+    "choices": {
+      "A": "Primary",
+      "B": "Secondary",
+      "C": "Tertiary",
+      "D": "urative"
+    },
+    "correct_answer": "A",
+    "rationale": "Primary. The primary level focuses on health promotion. Secondary level focuses on health maintenance. Tertiary focuses on rehabilitation. There is n Curative level of preventive health care problems."
+  },
+  {
+    "question": "Which is an example of a subjective data?",
+    "choices": {
+      "A": "Temperature of 38 0C",
+      "B": "Vomiting for 3 days",
+      "C": "Productive cough",
+      "D": "Patient stated, \u201cMy arms still hurt.\u201d"
+    },
+    "correct_answer": "D",
+    "rationale": "Patient stated, \u201cMy arms still hurt.\u201d. Subjective data are apparent only to the person affected and can or verified only by that person."
+  },
+  {
+    "question": "The nurse is assessing the endocrine system. Which organ is part of the endocrine system?",
+    "choices": {
+      "A": "Heart",
+      "B": "Sinus",
+      "C": "Thyroid",
+      "D": "Thymus"
+    },
+    "correct_answer": "C",
+    "rationale": "Thyroid. The thyroid is part of the endocrine system. Heart, sinus and thymus are not."
+  }
+]

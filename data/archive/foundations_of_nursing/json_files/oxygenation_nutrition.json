@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Which one of the following is NOT a function of the Upper airway?",
+    "choices": {
+      "A": "For clearance mechanism such as coughing",
+      "B": "Transport gases to the lower airways",
+      "C": "Warming, Filtration and Humidification of inspired air",
+      "D": "Protect the lower airway from foreign mater"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: For clearance mechanism such as coughing"
+  },
+  {
+    "question": "It is the hair the lines the vestibule which function as a filtering mechanism for foreign objects",
+    "choices": {
+      "A": "Cilia",
+      "B": "Nares",
+      "C": "Carina",
+      "D": "Vibrissae"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Vibrissae"
+  },
+  {
+    "question": "This is the paranasal sinus found between the eyes and the nose that extends backward into the skull",
+    "choices": {
+      "A": "Ehtmoid",
+      "B": "Sphenoid",
+      "C": "Maxillary",
+      "D": "Frontal"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Ehtmoid"
+  },
+  {
+    "question": "Which paranasal sinus is found over the eyebrow?",
+    "choices": {
+      "A": "Ehtmoid",
+      "B": "Sphenoid",
+      "C": "Maxillary",
+      "D": "Frontal"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Frontal"
+  },
+  {
+    "question": "Gene De Vonne Katrouchuacheulujiki wants to change her surname to something shorter, The court denied her request which depresses her and find herself binge eating. She accidentally aspirate a large piece of nut and it passes the carina. Probabilty wise, Where will the nut go?",
+    "choices": {
+      "A": "Right main stem bronchus",
+      "B": "Left main stem bronchus",
+      "C": "Be dislodged in between the carina",
+      "D": "Be blocked by the closed epiglottis"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Right main stem bronchus"
+  },
+  {
+    "question": "Which cell secretes mucus that help protect the lungs by trapping debris in the respiratory tract?",
+    "choices": {
+      "A": "Type I pneumocytes",
+      "B": "Type II pneumocytes",
+      "C": "Goblet cells",
+      "D": "Adipose cells"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Goblet cells"
+  },
+  {
+    "question": "How many lobes are there in the RIGHT LUNG?",
+    "choices": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Three"
+  },
+  {
+    "question": "The presence of the liver causes which anatomical difference of the Kidneys and the Lungs?",
+    "choices": {
+      "A": "Left kidney slightly lower, Left lung slightly shorter",
+      "B": "Left kidney slightly higher, Left lung slightly shorter",
+      "C": "Right kidney lower, Right lung shorter",
+      "D": "Right kidney higher, Right lung shorter"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Right kidney lower, Right lung shorter"
+  },
+  {
+    "question": "Surfactant is produced by what cells in the alveoli?",
+    "choices": {
+      "A": "Type I pneumocytes",
+      "B": "Type II pneumocytes",
+      "C": "Goblet cells",
+      "D": "Adipose cells"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Type II pneumocytes"
+  },
+  {
+    "question": "The normal L:S Ratio to consider the newborn baby viable is",
+    "choices": {
+      "A": "1:2",
+      "B": "2:1",
+      "C": "3:1",
+      "D": "1:3"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: 2:1"
+  },
+  {
+    "question": "Refers to the extra air that can be inhaled beyond the normal tidal volume",
+    "choices": {
+      "A": "Inspiratory reserve volume",
+      "B": "Expiratory reserve volume",
+      "C": "Functional residual capacity",
+      "D": "Residual volume"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Inspiratory reserve volume"
+  },
+  {
+    "question": "This is the amount of air remained in the lungs after a forceful expiration",
+    "choices": {
+      "A": "Inspiratory reserve volume",
+      "B": "Expiratory reserve volume",
+      "C": "Functional residual capacity",
+      "D": "Residual volume"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Residual volume"
+  },
+  {
+    "question": "Casssandra, A 22 year old grade Agnostic, Asked you, how many spikes of bones are there in my ribs? Your best response is which of the following?",
+    "choices": {
+      "A": "We have 13 pairs of ribs Cassandra",
+      "B": "We have 12 pairs of ribs Cassandra",
+      "C": "Humans have 16 pairs of ribs, and that was noted by Vesalius in 1543",
+      "D": "Humans have 8 pairs of ribs. 4 of which are floating"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: We have 12 pairs of ribs Cassandra"
+  },
+  {
+    "question": "Which of the following is considered as the main muscle of respiration?",
+    "choices": {
+      "A": "Lungs",
+      "B": "Intercostal Muscles",
+      "C": "Diaphragm",
+      "D": "Pectoralis major"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Diaphragm"
+  },
+  {
+    "question": "Cassandra asked you : How many air is there in the oxygen and how many does human requires? Which of the following is the best response :",
+    "choices": {
+      "A": "God is good, Man requires 21% of oxygen and we have 21% available in our air",
+      "B": "Man requires 16% of oxygen and we have 35% available in our air",
+      "C": "Man requires 10% of oxygen and we have 50% available in our air",
+      "D": "Human requires 21% of oxygen and we have 21% available in our air"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Human requires 21% of oxygen and we have 21% available in our air"
+  },
+  {
+    "question": "Which of the following is TRUE about Expiration?",
+    "choices": {
+      "A": "A passive process",
+      "B": "The length of which is half of the length of Inspiration",
+      "C": "Stridor is commonly heard during expiration",
+      "D": "Requires energy to be carried out"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: A passive process"
+  },
+  {
+    "question": "Which of the following is TRUE in postural drainage?",
+    "choices": {
+      "A": "Patient assumes position for 10 to 15 minutes",
+      "B": "Should last only for 60 minutes",
+      "C": "Done best P.C",
+      "D": "An independent nursing action"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Patient assumes position for 10 to 15 minutes"
+  },
+  {
+    "question": "All but one of the following is a purpose of steam inhalation",
+    "choices": {
+      "A": "Mucolytic",
+      "B": "Warm and humidify air",
+      "C": "Administer medications",
+      "D": "Promote bronchoconstriction"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Promote bronchoconstriction"
+  },
+  {
+    "question": "Which of the following is NOT TRUE in steam inhalation?",
+    "choices": {
+      "A": "It is a dependent nursing action",
+      "B": "Spout is put 12-18 inches away from the nose",
+      "C": "Render steam inhalation for atleast 60 minutes",
+      "D": "Cover the client’s eye with wash cloth to prevent irritation"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Render steam inhalation for atleast 60 minutes"
+  },
+  {
+    "question": "When should a nurse suction a client?",
+    "choices": {
+      "A": "As desired",
+      "B": "As needed",
+      "C": "Every 1 hour",
+      "D": "Every 4 hours"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: As needed"
+  },
+  {
+    "question": "Ernest Arnold Hamilton, a 60 year old American client was mobbed by teen gangsters near New york, Cubao. He was rushed to John John Hopio Medical Center and was Unconscious. You are his nurse and you are to suction his secretions. In which position should you place Mr. Hamilton?",
+    "choices": {
+      "A": "High fowlers",
+      "B": "Semi fowlers",
+      "C": "Prone",
+      "D": "Side lying"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Side lying"
+  },
+  {
+    "question": "You are about to set the suction pressure to be used to Mr. Hamilton. You are using a Wall unit suction machine. How much pressure should you set the valve before suctioning Mr. Hamilton?",
+    "choices": {
+      "A": "50-95 mmHg",
+      "B": "200-350 mmHg",
+      "C": "100-120 mmHg",
+      "D": "10-15 mmHg"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 100-120 mmHg"
+  },
+  {
+    "question": "The wall unit is not functioning; You then try to use the portable suction equipment available. How much pressure of suction equipment is needed to prevent trauma to mucus membrane and air ways in case of portable suction units?",
+    "choices": {
+      "A": "2-5 mmHg",
+      "B": "5-10 mmHg",
+      "C": "10-15 mmHg",
+      "D": "15-25 mmHg"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 10-15 mmHg"
+  },
+  {
+    "question": "There are four catheter sizes available for use, which one of these should you use for Mr. Hamilton?",
+    "choices": {
+      "A": "Fr. 18",
+      "B": "Fr. 12",
+      "C": "Fr. 10",
+      "D": "Fr, 5"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Fr. 18"
+  },
+  {
+    "question": "Which of the following, if done by the nurse, indicates incompetence during suctioning an unconscious client?",
+    "choices": {
+      "A": "Measure the length of the suction catheter to be inserted by measuring from the tip of the nose, to the earlobe, to the xiphoid process",
+      "B": "Use KY Jelly if suctioning nasopharyngeal secretion",
+      "C": "The maximum time of suctioning should not exceed 15 seconds",
+      "D": "Allow 30 seconds interval between suctioning"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Measure the length of the suction catheter to be inserted by measuring from the tip of the nose, to the earlobe, to the xiphoid process"
+  },
+  {
+    "question": "Which of the following is the initial sign of hypoxemia in an adult client?",
+    "choices": {
+      "A": "Tachypnea",
+      "B": "Tachycardia",
+      "C": "Cyanosis",
+      "D": "Pallor"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Tachycardia"
+  },
+  {
+    "question": "Which method of oxygenation least likely produces anxiety and apprehension?",
+    "choices": {
+      "A": "Nasal Cannula",
+      "B": "Simple Face mask",
+      "C": "Non Rebreather mask",
+      "D": "Partial Rebreather mask"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Nasal Cannula"
+  },
+  {
+    "question": "Which of the following oxygen delivery method can deliver 100% Oxygen at 15 LPM?",
+    "choices": {
+      "A": "Nasal Cannula",
+      "B": "Simple Face mask",
+      "C": "Non Rebreather mask",
+      "D": "Partial Rebreather mask"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Non Rebreather mask"
+  },
+  {
+    "question": "Which of the following is not true about OXYGEN?",
+    "choices": {
+      "A": "Oxygen is odorless, tasteless and colorless gas.",
+      "B": "Oxygen can irritate mucus membrane",
+      "C": "Oxygen supports combustion",
+      "D": "Excessive oxygen administration results in respiratory acidosis"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Excessive oxygen administration results in respiratory acidosis"
+  },
+  {
+    "question": "Roberto San Andres, A new nurse in the hospital is about to administer oxygen on patient with Respiratory distress. As his senior nurse, you should intervene if Roberto will:",
+    "choices": {
+      "A": "Uses venture mask in oxygen administration",
+      "B": "Put a non rebreather mask in the patient before opening the oxygen source",
+      "C": "Use a partial rebreather mask to deliver oxygen",
+      "D": "Check for the doctor’s order for Oxygen administration"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Put a non rebreather mask in the patient before opening the oxygen source"
+  },
+  {
+    "question": "Which of the following will alert the nurse as an early sign of hypoxia?",
+    "choices": {
+      "A": "Client is tired and dyspneic",
+      "B": "The client is coughing out blood",
+      "C": "The client’s heart rate is 50 BPM",
+      "D": "Client is frequently turning from side to side"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Client is frequently turning from side to side"
+  },
+  {
+    "question": "Miguelito de balboa, An OFW presents at the admission with an A:P Diameter ratio of 2:1, Which of the following associated finding should the nurse expect?",
+    "choices": {
+      "A": "Pancytopenia",
+      "B": "Anemia",
+      "C": "Fingers are Club-like",
+      "D": "Hematocrit of client is decreased"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Fingers are Club-like"
+  },
+  {
+    "question": "The best method of oxygen administration for client with COPD uses:",
+    "choices": {
+      "A": "Cannula",
+      "B": "Simple Face mask",
+      "C": "Non rebreather mask",
+      "D": "Venturi mask"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Cannula"
+  },
+  {
+    "question": "Mang dagul, a 50 year old chronic smoker was brought to the E.R because of difficulty in breathing. Pleural effusion was the diagnosis and CTT was ordered. What does C.T.T Stands for?",
+    "choices": {
+      "A": "Chest tube thoracotomy",
+      "B": "Chest tube thoracostomy",
+      "C": "Closed tube thoracotomy",
+      "D": "Closed tube thoracostmy"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Closed tube thoracotomy"
+  },
+  {
+    "question": "Where will the CTT be inserted if we are to drain fluids accumulated in Mang dagul’s pleura?",
+    "choices": {
+      "A": "2nd ICS",
+      "B": "4th ICS",
+      "C": "5th ICS",
+      "D": "8th ICS"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: 8th ICS"
+  },
+  {
+    "question": "There is a continuous bubbling in the water sealed drainage system with suction. And oscillation is observed. As a nurse, what should you do?",
+    "choices": {
+      "A": "Consider this as normal findings",
+      "B": "Notify the physician",
+      "C": "Check for tube leak",
+      "D": "Prepare a petrolatum gauze dressing"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Consider this as normal findings"
+  },
+  {
+    "question": "Which of the following is true about nutrition?",
+    "choices": {
+      "A": "It is the process in which food are broken down, for the body to use in growth and development",
+      "B": "It is a process in which digested proteins, fats, minerals, vitamins and carbohydrates are transported into the circulation",
+      "C": "It is a chemical process that occurs in the cell that allows for energy production, energy use, growth and tissue repair",
+      "D": "It is the study of nutrients and the process in which they are use by the body"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: It is the study of nutrients and the process in which they are use by the body"
+  },
+  {
+    "question": "The majority of the digestion processes take place in the",
+    "choices": {
+      "A": "Mouth",
+      "B": "Small intestine",
+      "C": "Large intestine",
+      "D": "Stomach"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Small intestine"
+  },
+  {
+    "question": "All of the following is true about digestion that occurs in the Mouth except",
+    "choices": {
+      "A": "It is where the digestion process starts",
+      "B": "Mechanical digestion is brought about by mastication",
+      "C": "The action of ptyalin or the salivary tyrpsin breaks down starches into maltose",
+      "D": "Deglutition occurs after food is broken down into small pieces and well mixed with saliva"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: The action of ptyalin or the salivary tyrpsin breaks down starches into maltose"
+  },
+  {
+    "question": "Which of the following foods lowers the cardiac sphincter pressure?",
+    "choices": {
+      "A": "Roast beef, Steamed cauliflower and Rice",
+      "B": "Orange juice, Non fat milk, Dry crackers",
+      "C": "Decaffeinated coffee, Sky flakes crackers, Suman",
+      "D": "Coffee with coffee mate, Bacon and Egg"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Coffee with coffee mate, Bacon and Egg"
+  },
+  {
+    "question": "Where does the digestion of carbohydrates start?",
+    "choices": {
+      "A": "Mouth",
+      "B": "Esophagus",
+      "C": "Small intestine",
+      "D": "Stomach"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Mouth"
+  },
+  {
+    "question": "Protein and Fat digestion begins where?",
+    "choices": {
+      "A": "Mouth",
+      "B": "Esophagus",
+      "C": "Small intestine",
+      "D": "Stomach"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Stomach"
+  },
+  {
+    "question": "All but one is true about digestion that occurs in the Stomach",
+    "choices": {
+      "A": "Carbohydrates are the fastest to be digested, in about an hour",
+      "B": "Fat is the slowest to be digested, in about 5 hours",
+      "C": "HCl inhibits absorption of Calcium in the gastric mucosa",
+      "D": "HCl converts pepsinogen to pepsin, which starts the complex process of protein digestion"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: HCl inhibits absorption of Calcium in the gastric mucosa"
+  },
+  {
+    "question": "Which of the following is NOT an enzyme secreted by the small intestine?",
+    "choices": {
+      "A": "Sucrase",
+      "B": "Enterokinase",
+      "C": "Amylase",
+      "D": "Enterokinase"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Amylase"
+  },
+  {
+    "question": "The hormone secreted by the Small intestine that stimulates the production of pancreatic juice which primarily aids in buffering the acidic bolus passed by the Stomach",
+    "choices": {
+      "A": "Enterogastrone",
+      "B": "Cholecystokinin",
+      "C": "Pancreozymin",
+      "D": "Enterokinase"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Pancreozymin"
+  },
+  {
+    "question": "When the duodenal enzyme sucrase acts on SUCROSE, which 2 monosaccharides are formed?",
+    "choices": {
+      "A": "Galactose + Galactose",
+      "B": "Glucose + Fructose",
+      "C": "Glucose + Galactose",
+      "D": "Fructose + Fructose"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Glucose + Fructose"
+  },
+  {
+    "question": "This is the enzyme secreted by the pancrease that completes the protein digestion",
+    "choices": {
+      "A": "Trypsin",
+      "B": "Enterokinase",
+      "C": "Enterogastrone",
+      "D": "Amylase"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Trypsin"
+  },
+  {
+    "question": "The end product of protein digestion or the “Building blocks of Protein” is what we call",
+    "choices": {
+      "A": "Nucleotides",
+      "B": "Fatty acids",
+      "C": "Glucose",
+      "D": "Amino Acids"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Amino Acids"
+  },
+  {
+    "question": "Enzyme secreted by the small intestine after it detects a bolus of fatty food. This will contract the gallbladder to secrete bile and relax the sphincter of Oddi to aid in the emulsification of fats and its digestion.",
+    "choices": {
+      "A": "Lipase",
+      "B": "Amylase",
+      "C": "Cholecystokinin",
+      "D": "Pancreozymin"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Cholecystokinin"
+  },
+  {
+    "question": "Which of the following is not true about the Large Intestine?",
+    "choices": {
+      "A": "It absorbs around 1 L of water making the feces around 75% water and 25% solid",
+      "B": "The stool formed in the transverse colon is not yet well formed",
+      "C": "It is a sterile body cavity",
+      "D": "It is called large intestine because it is longer than the small intestine"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: It is a sterile body cavity"
+  },
+  {
+    "question": "This is the amount of heat required to raise the temperature of 1 kg water to 1 degree Celsius",
+    "choices": {
+      "A": "Calorie",
+      "B": "Joules",
+      "C": "Metabolism",
+      "D": "Basal metabolic rate"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Calorie"
+  },
+  {
+    "question": "Assuming a cup of rice provides 50 grams of carbohydrates. How many calories are there in that cup of rice?",
+    "choices": {
+      "A": "150 calories",
+      "B": "200 calories",
+      "C": "250 calories",
+      "D": "400 calories"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: 200 calories"
+  },
+  {
+    "question": "An average adult filipino requires how many calories in a day?",
+    "choices": {
+      "A": "1,000 calories",
+      "B": "1,500 calories",
+      "C": "2,000 calories",
+      "D": "2,500 calories"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 2,000 calories"
+  },
+  {
+    "question": "Which of the following is true about an individual’s caloric needs?",
+    "choices": {
+      "A": "All individual have the same caloric needs",
+      "B": "Females in general have higher BMR and therefore, require more calories",
+      "C": "During cold weather, people need more calories due to increase BMR",
+      "D": "Dinner should be the heaviest meal of the day"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: During cold weather, people need more calories due to increase BMR"
+  },
+  {
+    "question": "Among the following people, who requires the greatest caloric intake?",
+    "choices": {
+      "A": "An individual in a long state of gluconeogenesis",
+      "B": "An individual in a long state of glycogenolysis",
+      "C": "A pregnant individual",
+      "D": "An adolescent with a BMI of 25"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: An individual in a long state of gluconeogenesis"
+  },
+  {
+    "question": "Which nutrient deficiency is associated with the development of Pellagra, Dermatitis and Diarrhea?",
+    "choices": {
+      "A": "Vitamin B1",
+      "B": "Vitamin B2",
+      "C": "Vitamin B3",
+      "D": "Vitamin B6"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Vitamin B3"
+  },
+  {
+    "question": "Which Vitamin is not given in conjunction with the intake of LEVODOPA in cases of Parkinson’s Disease due to the fact that levodopa increases its level in the body?",
+    "choices": {
+      "A": "Vitamin B1",
+      "B": "Vitamin B2",
+      "C": "Vitamin B3",
+      "D": "Vitamin B6"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Vitamin B6"
+  },
+  {
+    "question": "A vitamin taken in conjunction with ISONIAZID to prevent peripheral neuritis",
+    "choices": {
+      "A": "Vitamin B1",
+      "B": "Vitamin B2",
+      "C": "Vitamin B3",
+      "D": "Vitamin B6"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Vitamin B6"
+  },
+  {
+    "question": "The inflammation of the Lips, Palate and Tongue is associated in the deficiency of this vitamin",
+    "choices": {
+      "A": "Vitamin B1",
+      "B": "Vitamin B2",
+      "C": "Vitamin B3",
+      "D": "Vitamin B6"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Vitamin B2"
+  },
+  {
+    "question": "Beri beri is caused by the deficiency of which Vitamin?",
+    "choices": {
+      "A": "Vitamin B1",
+      "B": "Vitamin B2",
+      "C": "Vitamin B3",
+      "D": "Vitamin C"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Vitamin B1"
+  },
+  {
+    "question": "Which of the following is the best source of Vitamin E?",
+    "choices": {
+      "A": "Green leafy vegetables",
+      "B": "Vegetable oil",
+      "C": "Fortified Milk",
+      "D": "Fish liver oil"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Vegetable oil"
+  },
+  {
+    "question": "Among the following foods, which food should you emphasize giving on an Alcoholic client?",
+    "choices": {
+      "A": "Pork liver and organ meats, Pork",
+      "B": "Red meat, Eggs and Dairy products",
+      "C": "Green leafy vegetables, Yellow vegetables, Cantaloupe and Dairy products",
+      "D": "Chicken, Peanuts, Bananas, Wheat germs and yeasts"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Pork liver and organ meats, Pork"
+  },
+  {
+    "question": "Which food group should you emphasize giving on a pregnant mother in first trimester to prevent neural tube defects?",
+    "choices": {
+      "A": "Broccoli, Guava, Citrus fruits, Tomatoes",
+      "B": "Butter, Sardines, Tuna, Salmon, Egg yolk",
+      "C": "Wheat germ, Vegetable Oil, soybeans, corn, peanuts",
+      "D": "Organ meats, Green leafy vegetables, Liver, Eggs"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Organ meats, Green leafy vegetables, Liver, Eggs"
+  },
+  {
+    "question": "A client taking Coumadin is to be educated on his diet. As a nurse, which of the following food should you instruct the client to avoid?",
+    "choices": {
+      "A": "Spinach, Green leafy vegetables, Cabbage, Liver",
+      "B": "Salmon, Sardines, Tuna",
+      "C": "Butter, Egg yolk, breakfast cereals",
+      "D": "Banana, Yeast, Wheat germ, Chicken"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Spinach, Green leafy vegetables, Cabbage, Liver"
+  },
+  {
+    "question": "Vitamin E plus this mineral works as one of the best anti oxidant in the body according to the latest research. They are combined with 5 Alpha reductase inhibitor to reduce the risk of acquiring prostate cancer",
+    "choices": {
+      "A": "Zinc",
+      "B": "Iron",
+      "C": "Selenium",
+      "D": "Vanadium"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Selenium"
+  },
+  {
+    "question": "Incident of prostate cancer is found to have been reduced on a population exposed in tolerable amount of sunlight. Which vitamin is associated with this phenomenon?",
+    "choices": {
+      "A": "Vitamin A",
+      "B": "Vitamin B",
+      "C": "Vitamin C",
+      "D": "Vitamin D"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Vitamin D"
+  },
+  {
+    "question": "Micronutrients are those nutrients needed by the body in a very minute amount. Which of the following vitamin is considered as a MICRONUTRIENT",
+    "choices": {
+      "A": "Phosphorous",
+      "B": "Iron",
+      "C": "Calcium",
+      "D": "Sodium"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Iron"
+  },
+  {
+    "question": "Deficiency of this mineral results in tetany, osteomalacia, osteoporosis and rickets.",
+    "choices": {
+      "A": "Vitamin D",
+      "B": "Iron",
+      "C": "Calcium",
+      "D": "Sodium"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Calcium"
+  },
+  {
+    "question": "Among the following foods, which has the highest amount of potassium per area of their meat?",
+    "choices": {
+      "A": "Cantaloupe",
+      "B": "Avocado",
+      "C": "Raisin",
+      "D": "Banana"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Cantaloupe"
+  },
+  {
+    "question": "A client has HEMOSIDEROSIS. Which of the following drug would you expect to be given to the client?",
+    "choices": {
+      "A": "Acetazolamide",
+      "B": "Deferoxamine",
+      "C": "Calcium EDTA",
+      "D": "Activated charcoal"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Deferoxamine"
+  },
+  {
+    "question": "Which of the following provides the richest source of Iron per area of their meat?",
+    "choices": {
+      "A": "Pork meat",
+      "B": "Lean read meat",
+      "C": "Pork liver",
+      "D": "Green mongo"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Pork liver"
+  },
+  {
+    "question": "Which of the following is considered the best indicator of nutritional status of an individual?",
+    "choices": {
+      "A": "Height",
+      "B": "Weight",
+      "C": "Arm muscle circumference",
+      "D": "BMI"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Weight"
+  },
+  {
+    "question": "Jose Miguel, a 50 year old business man is 6’0 Tall and weights 179 lbs. As a nurse, you know that Jose Miguel is :",
+    "choices": {
+      "A": "Overweight",
+      "B": "Underweight",
+      "C": "Normal",
+      "D": "Obese"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Normal"
+  },
+  {
+    "question": "Jose Miguel is a little bit nauseous. Among the following beverages, Which could help relieve JM’s nausea?",
+    "choices": {
+      "A": "Coke",
+      "B": "Sprite",
+      "C": "Mirinda",
+      "D": "Orange Juice or Lemon Juice"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Coke"
+  },
+  {
+    "question": "Which of the following is the first sign of dehydration?",
+    "choices": {
+      "A": "Tachycardia",
+      "B": "Restlessness",
+      "C": "Thirst",
+      "D": "Poor skin turgor"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Thirst"
+  },
+  {
+    "question": "What Specific gravity lab result is compatible with a dehydrated client?",
+    "choices": {
+      "A": "1.007",
+      "B": "1.020",
+      "C": "1.039",
+      "D": "1.029"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 1.039"
+  },
+  {
+    "question": "Which hematocrit value is expected in a dehydrated male client?",
+    "choices": {
+      "A": "67%",
+      "B": "50%",
+      "C": "36%",
+      "D": "45%"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: 67%"
+  },
+  {
+    "question": "Which of the following statement by a client with prolonged vomiting indicates the initial onset of hypokalemia?",
+    "choices": {
+      "A": "My arm feels so weak",
+      "B": "I felt my heart beat just right now",
+      "C": "My face muscle is twitching",
+      "D": "Nurse, help! My legs are cramping"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Nurse, help! My legs are cramping"
+  },
+  {
+    "question": "Which of the following is not an anti-emetic?",
+    "choices": {
+      "A": "Marinol",
+      "B": "Dramamine",
+      "C": "Benadryl",
+      "D": "Alevaire"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Alevaire"
+  },
+  {
+    "question": "Which is not a clear liquid diet?",
+    "choices": {
+      "A": "Hard candy",
+      "B": "Gelatin",
+      "C": "Coffee with Coffee mate",
+      "D": "Bouillon"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Coffee with Coffee mate"
+  },
+  {
+    "question": "Which of the following is included in a full liquid diet?",
+    "choices": {
+      "A": "Popsicles",
+      "B": "Pureed vegetable meat",
+      "C": "Pineapple juice with pulps",
+      "D": "Mashed potato"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Popsicles"
+  },
+  {
+    "question": "Which food is included in a BLAND DIET?",
+    "choices": {
+      "A": "Steamed broccoli",
+      "B": "Creamed potato",
+      "C": "Spinach in garlic",
+      "D": "Sweet potato"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Creamed potato"
+  },
+  {
+    "question": "Which of the following if done by the nurse, is correct during NGT Insertion?",
+    "choices": {
+      "A": "Use an oil based lubricant",
+      "B": "Measure the amount of the tube to be inserted from the Tip of the nose, to the earlobe, to the xiphoid process",
+      "C": "Soak the NGT in a basin of ice water to facilitate easy insertion",
+      "D": "Check the placement of the tube by introducing 10 cc of sterile water and auscultating for bubbling sound"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Measure the amount of the tube to be inserted from the Tip of the nose, to the earlobe, to the xiphoid process"
+  },
+  {
+    "question": "Which of the following is the BEST method in assessing for the correct placement of the NGT?",
+    "choices": {
+      "A": "X-Ray",
+      "B": "Immerse tip of the tube in water to check for bubbles produced",
+      "C": "Aspirating gastric content to check if the content is acidic",
+      "D": "Instilling air in the NGT and listening for a gurgling sound at the epigastric area"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: X-Ray"
+  },
+  {
+    "question": "A terminally ill cancer patient is scheduled for an NGT feeding today. How should you position the patient?",
+    "choices": {
+      "A": "Semi fowlers in bed",
+      "B": "Bring the client into a chair",
+      "C": "Slightly elevated right side lying position",
+      "D": "Supine in bed"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Bring the client into a chair"
+  },
+  {
+    "question": "A client is scheduled for NGT Feeding. Checking the residual volume, you determined that he has 40 cc residual from the last feeding. You reinstill the 40 cc of residual volume and added the 250 cc of feeding ordered by the doctor. You then instill 60 cc of water to clear the lumen and the tube. How much will you put in the client’s chart as input?",
+    "choices": {
+      "A": "250 cc",
+      "B": "290 cc",
+      "C": "350 cc",
+      "D": "310 cc"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: 310 cc"
+  },
+  {
+    "question": "Which of the following if done by a nurse indicates deviation from the standards of NGT feeding?",
+    "choices": {
+      "A": "Do not give the feeding and notify the doctor of residual of the last feeding is greater than or equal to 50 ml",
+      "B": "Height of the feeding should be 12 inches about the tube point of insertion to allow slow introduction of feeding",
+      "C": "Ask the client to position in supine position immediately after feeding to prevent dumping syndrome",
+      "D": "Clamp the NGT before all of the water is instilled to prevent air entry in the stomach"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Ask the client to position in supine position immediately after feeding to prevent dumping syndrome"
+  },
+  {
+    "question": "What is the most common problem in TUBE FEEDING?",
+    "choices": {
+      "A": "Diarrhea",
+      "B": "Infection",
+      "C": "Hyperglycemia",
+      "D": "Vomiting"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Diarrhea"
+  },
+  {
+    "question": "Which of the following is TRUE in colostomy feeding?",
+    "choices": {
+      "A": "Hold the syringe 18 inches above the stoma and administer the feeding slowly",
+      "B": "Pour 30 ml of water before and after feeding administration",
+      "C": "Insert the ostomy feeding tube 1 inch towards the stoma",
+      "D": "A Pink stoma means that circulation towards the stoma is all well"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Pour 30 ml of water before and after feeding administration"
+  },
+  {
+    "question": "A client with TPN suddenly develops tremors, dizziness, weakness and diaphoresis. The client said “I feel weak” You saw that his TPN is already empty and another TPN is scheduled to replace the previous one but its provision is already 3 hours late. Which of the following is the probable complication being experienced by the client?",
+    "choices": {
+      "A": "Hyperglycemia",
+      "B": "Hypoglycemia",
+      "C": "Infection",
+      "D": "Fluid overload"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Hypoglycemia"
+  },
+  {
+    "question": "To assess the adequacy of food intake, which of the following assessment parameters is best used?",
+    "choices": {
+      "A": "Food likes and dislikes",
+      "B": "Regularity of meal times",
+      "C": "3 day diet recall",
+      "D": "Eating style and habits"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 3 day diet recall"
+  },
+  {
+    "question": "The vomiting center is found in the",
+    "choices": {
+      "A": "Medulla Oblongata",
+      "B": "Pons",
+      "C": "Hypothalamus",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Medulla Oblongata"
+  },
+  {
+    "question": "The most threatening complication of vomiting in client’s with stroke is",
+    "choices": {
+      "A": "Aspiration",
+      "B": "Dehydration",
+      "C": "Fluid and electrolyte imbalance",
+      "D": "Malnutrition"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Aspiration"
+  },
+  {
+    "question": "Which among this food is the richest source of Iron?",
+    "choices": {
+      "A": "Ampalaya",
+      "B": "Broccoli",
+      "C": "Mongo",
+      "D": "Malunggay leaves"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Mongo"
+  },
+  {
+    "question": "Which of the following is a good source of Vitamin A?",
+    "choices": {
+      "A": "Egg yolk",
+      "B": "Liver",
+      "C": "Fish",
+      "D": "Peanuts"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Liver"
+  },
+  {
+    "question": "The most important nursing action before gastrostomy feeding is",
+    "choices": {
+      "A": "Check V/S",
+      "B": "Assess for patency of the tube",
+      "C": "Measure residual feeding",
+      "D": "Check the placement of the tube"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Assess for patency of the tube"
+  },
+  {
+    "question": "The primary advantage of gastrostomy feeding is",
+    "choices": {
+      "A": "Ensures adequate nutrition",
+      "B": "It prevents aspiration",
+      "C": "Maintains Gastro esophageal sphincter integrity",
+      "D": "Minimizes fluid-electrolyte imbalance"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Maintains Gastro esophageal sphincter integrity"
+  },
+  {
+    "question": "What is the BMI Of Budek, weighing 120 lbs and has a height of 5 feet 7 inches.",
+    "choices": {
+      "A": "20",
+      "B": "19",
+      "C": "15",
+      "D": "25"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: 19"
+  },
+  {
+    "question": "Which finding is consistent with PERNICIOUS ANEMIA?",
+    "choices": {
+      "A": "Strawberry tongue",
+      "B": "Currant Jelly stool",
+      "C": "Beefy red tongue",
+      "D": "Pale [ HYPOCHROMIC ] RBC"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Beefy red tongue"
+  },
+  {
+    "question": "The nurse is browsing the chart of the patient and notes a normal serum lipase level. Which of the following is a normal serum lipase value?",
+    "choices": {
+      "A": "10 U/L",
+      "B": "100 U/L",
+      "C": "200 U/L",
+      "D": "350 U/L"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 200 U/L"
+  }
+]

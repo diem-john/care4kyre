@@ -587,6 +587,7 @@ Inability to drink
 High grade fever
 Signs of severe dehydration
 Cough for more than 30 days
+
 99. Food fortification is one of the strategies to prevent micronutrient deficiency conditions. R.A. 8976 mandates fortification of certain food items. Which of the following is among these food items?
 
 Sugar
@@ -599,6 +600,7 @@ Palms
 Nailbeds
 Around the lips
 Lower conjunctival sac
+
 Answers and Rationales
 C. Check for any change in responsiveness every two hours until the follow-up visit. Signs of an epidural hematoma in children usually do not appear for 24 hours or more hours; a follow-up visit usually is arranged for one to two days after the injury.
 A. Arteriolar constriction occurs.The early compensation of shock is cardiovascular and is seen in changes in pulse, BP, and pulse pressure; blood is shunted to vital centers, particularly heart and brain.

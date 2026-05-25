@@ -1,0 +1,1025 @@
+[
+  {
+    "question": "She is the first one to coin the term \u201cNURSING PROCESS\u201d She introduced 3 steps of nursing process which are Observation, Ministration and Validation.",
+    "choices": {
+      "A": "Nightingale",
+      "B": "Johnson",
+      "C": "Rogers",
+      "D": "Hall"
+    },
+    "correct_answer": "D",
+    "rationale": "Hall"
+  },
+  {
+    "question": "The American Nurses association formulated an innovation of the Nursing process. Today, how many distinct steps are there in the nursing process?",
+    "choices": {
+      "A": "PIE \u2013 4",
+      "B": "DPIE \u2013 5",
+      "C": "DOPIE \u2013 6",
+      "D": "DOPIER \u2013 7"
+    },
+    "correct_answer": "C",
+    "rationale": "ADOPIE \u2013 6"
+  },
+  {
+    "question": "They are the first one to suggest a 4 step nursing process which are : APIE , or assessment, planning, implementation and evaluation. Yura Walsh Roy Knowles",
+    "choices": {
+      "A": "1,2",
+      "B": "1,3",
+      "C": "3,4",
+      "D": "2,3"
+    },
+    "correct_answer": "A",
+    "rationale": "1,2"
+  },
+  {
+    "question": "Which characteristic of nursing process is responsible for proper utilization of human resources, time and cost resources?",
+    "choices": {
+      "A": "Organized and Systematic",
+      "B": "Humanistic",
+      "C": "Efficient",
+      "D": "Effective"
+    },
+    "correct_answer": "C",
+    "rationale": "Efficient"
+  },
+  {
+    "question": "Which characteristic of nursing process addresses the INDIVIDUALIZED care a client must receive?",
+    "choices": {
+      "A": "Organized and Systematic",
+      "B": "Humanistic",
+      "C": "Efficient",
+      "D": "Effective"
+    },
+    "correct_answer": "B",
+    "rationale": "Humanistic"
+  },
+  {
+    "question": "A characteristic of the nursing process that is essential to promote client satisfaction and progress. The care should also be relevant with the client\u2019s needs.",
+    "choices": {
+      "A": "Organized and Systematic",
+      "B": "Humanistic",
+      "C": "Efficient",
+      "D": "Effective"
+    },
+    "correct_answer": "D",
+    "rationale": "Effective"
+  },
+  {
+    "question": "Rhina, who has Menieres disease, said that her environment is moving. Which of the following is a valid assessment? Rhina is giving an objective data Rhina is giving a subjective data",
+    "choices": {
+      "A": "The source of the data is primary",
+      "B": "The source of the data is secondary",
+      "C": "1,3",
+      "D": "2,3"
+    },
+    "correct_answer": "B",
+    "rationale": "2,3"
+  },
+  {
+    "question": "4 1,4",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "A",
+    "rationale": "Actual"
+  },
+  {
+    "question": "Nurse Angela, observe Joel who is very apprehensive over the impending operation. The client is experiencing dyspnea, diaphoresis and asks lots of questions. Angela made a diagnosis of ANXIETY R/T INTRUSIVE PROCEDURE. This is what type of Nursing Diagnosis?",
+    "choices": {
+      "A": "ctual",
+      "B": "Probable",
+      "C": "Possible",
+      "D": "Risk"
+    },
+    "correct_answer": "D",
+    "rationale": "Risk"
+  },
+  {
+    "question": "Nurse Angela diagnosed Mrs. Delgado, who have undergone a BKA. Her diagnosis is SELF ESTEEM DISTURBANCE R/T CHANGE IN BODY IMAGE. Although the client has not yet seen her lost leg, Angela already anticipated the diagnosis. This is what type of Diagnosis?",
+    "choices": {
+      "A": "ctual",
+      "B": "Probable",
+      "C": "Possible",
+      "D": "Risk"
+    },
+    "correct_answer": "C",
+    "rationale": "Possible"
+  },
+  {
+    "question": "Nurse Angela is about to make a diagnosis but very unsure because the S/S the client is experiencing is not specific with her diagnosis of POWERLESSNESS R/T DIFFICULTY ACCEPTING LOSS OF LOVED ONE. She then focus on gathering data to refute or prove her diagnosis but her plans and interventions are already ongoing for the diagnosis. Which type of Diagnosis is this?",
+    "choices": {
+      "A": "ctual",
+      "B": "Probable",
+      "C": "Possible",
+      "D": "Risk"
+    },
+    "correct_answer": "D",
+    "rationale": "Risk  B. High risk for injury R/T Absence of side rails"
+  },
+  {
+    "question": "Nurse Angela knew that Stephen Lee Mu Chin, has just undergone an operation with an incision near the diaphragm. She knew that this will contribute to some complications later on. She then should develop what type of Nursing diagnosis?",
+    "choices": {
+      "A": "ctual",
+      "B": "Probable",
+      "C": "Possible",
+      "D": "Risk"
+    },
+    "correct_answer": "D",
+    "rationale": "Client is cyanotic"
+  },
+  {
+    "question": "Which of the following Nursing diagnosis is INCORRECT?",
+    "choices": {
+      "A": "Fluid volume deficit R/T Diarrhea",
+      "B": "High risk for injury R/T Absence of side rails",
+      "C": "Possible ineffective coping R/T Loss of loved one",
+      "D": "Self esteem disturbance R/T Effects of surgical removal of the leg"
+    },
+    "correct_answer": "D",
+    "rationale": "The client is thirsty and dehydrated"
+  },
+  {
+    "question": "Among the following statements, which should be given the HIGHEST priority?",
+    "choices": {
+      "A": "lient is in extreme pain",
+      "B": "lient\u2019s blood pressure is 60/40",
+      "C": "lient\u2019s temperature is 40 deg. Centigrade",
+      "D": "lient is cyanotic"
+    },
+    "correct_answer": "B",
+    "rationale": "They are general and broadly stated"
+  },
+  {
+    "question": "Which of the following need is given a higher priority among others?",
+    "choices": {
+      "A": "The client has attempted suicide and safety precaution is needed",
+      "B": "The client has disturbance in his body image because of the recent operation",
+      "C": "The client is depressed because her boyfriend left her all alone",
+      "D": "The client is thirsty and dehydrated"
+    },
+    "correct_answer": "D",
+    "rationale": "Reestablishes a normal pattern of elimination"
+  },
+  {
+    "question": "Which of the following is TRUE with regards to Client Goals?",
+    "choices": {
+      "A": "They are specific, measurable, attainable and time bounded",
+      "B": "They are general and broadly stated",
+      "C": "They should answer for WHO, WHAT ACTIONS, WHAT CIRCUMSTANCES, HOW WELL and WHEN.",
+      "D": "Example is : After discharge planning, Client demonstrated the proper psychomotor skills for insulin injection."
+    },
+    "correct_answer": "D",
+    "rationale": "Blue nails"
+  },
+  {
+    "question": "Which of the following is a NOT a correct statement of an Outcome criteria?",
+    "choices": {
+      "A": "mbulates 30 feet with a cane before discharge",
+      "B": "iscusses fears and concerns regarding the surgical procedure",
+      "C": "emonstrates proper coughing and breathing technique after a teaching session",
+      "D": "Reestablishes a normal pattern of elimination"
+    },
+    "correct_answer": "B",
+    "rationale": "Secondary"
+  },
+  {
+    "question": "Which of the following is a OBJECTIVE data?",
+    "choices": {
+      "A": "izziness",
+      "B": "hest pain",
+      "C": "nxiety",
+      "D": "lue nails"
+    },
+    "correct_answer": "D",
+    "rationale": "Intrapersonal"
+  },
+  {
+    "question": "A patient\u2019s chart is what type of data source?",
+    "choices": {
+      "A": "Primary",
+      "B": "Secondary",
+      "C": "Tertiary",
+      "D": "an be A and B"
+    },
+    "correct_answer": "A",
+    "rationale": "It is nursing centered"
+  },
+  {
+    "question": "All of the following are characteristic of the Nursing process except",
+    "choices": {
+      "A": "ynamic",
+      "B": "yclical",
+      "C": "Universal",
+      "D": "Intrapersonal"
+    },
+    "correct_answer": "A",
+    "rationale": "Functional health framework"
+  },
+  {
+    "question": "Which of the following is true about the NURSING CARE PLAN?",
+    "choices": {
+      "A": "It is nursing centered",
+      "B": "Rationales are supported by interventions",
+      "C": "Verbal",
+      "D": "tleast 2 goals are needed for every nursing diagnosis"
+    },
+    "correct_answer": "C",
+    "rationale": "Body system framework"
+  },
+  {
+    "question": "A framework for health assessment that evaluates the effects of stressors to the mind, body and environment in relation with the ability of the client to perform ADL.",
+    "choices": {
+      "A": "Functional health framework",
+      "B": "Head to toe framework",
+      "C": "ody system framework",
+      "D": "ephalocaudal framework"
+    },
+    "correct_answer": "B",
+    "rationale": "The bulb used in Rectal temperature reading is pear shaped or round"
+  },
+  {
+    "question": "Client has undergone Upper GI and Lower GI series. Which type of health assessment framework is used in this situation?",
+    "choices": {
+      "A": "Functional health framework",
+      "B": "Head to toe framework",
+      "C": "ody system framework",
+      "D": "ephalocaudal framework"
+    },
+    "correct_answer": "A",
+    "rationale": "Convection"
+  },
+  {
+    "question": "Which of the following statement is true regarding temperature?",
+    "choices": {
+      "A": "Oral temperature is more accurate than rectal temperature",
+      "B": "The bulb used in Rectal temperature reading is pear shaped or round",
+      "C": "The older the person, the higher his BMR",
+      "D": "When the client is swimming, BMR Decreases"
+    },
+    "correct_answer": "A",
+    "rationale": "The highest temperature usually occurs later in a day, around 8 P.M to 12 M.N"
+  },
+  {
+    "question": "A type of heat loss that occurs when the heat is dissipated by air current",
+    "choices": {
+      "A": "onvection",
+      "B": "onduction",
+      "C": "Radiation",
+      "D": "Evaporation"
+    },
+    "correct_answer": "D",
+    "rationale": "105.8 degree Fahrenheit"
+  },
+  {
+    "question": "Which of the following is TRUE about temperature?",
+    "choices": {
+      "A": "The highest temperature usually occurs later in a day, around 8 P.M to 12 M.N",
+      "B": "The lowest temperature is usually in the Afternoon, Around 12 P.M",
+      "C": "Thyroxin decreases body temperature",
+      "D": "Elderly people are risk for hyperthermia due to the absence of fats, Decreased thermoregulatory control and sedentary lifestyle."
+    },
+    "correct_answer": "D",
+    "rationale": "At the high end of the normal range"
+  },
+  {
+    "question": "Hyperpyrexia is a condition in which the temperature is greater than 40 degree Celsius 39 degree Celsius 100 degree Fahrenheit",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "Remittent"
+  },
+  {
+    "question": "8 degree Fahrenheit",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "A",
+    "rationale": "Relapsing"
+  },
+  {
+    "question": "Tympanic temperature is taken from John, A client who was brought recently into the ER due to frequent barking cough. The temperature reads 37.9 Degrees Celsius. As a nurse, you conclude that this temperature is",
+    "choices": {
+      "A": "High",
+      "B": "Low",
+      "C": "t the low end of the normal range",
+      "D": "t the high end of the normal range"
+    },
+    "correct_answer": "B",
+    "rationale": "Intermittent"
+  },
+  {
+    "question": "John has a fever of 38.5 Deg. Celsius. It surges at around 40 Degrees and go back to 38.5 degrees 6 times today in a typical pattern. What kind of fever is John having?",
+    "choices": {
+      "A": "Relapsing",
+      "B": "Intermittent",
+      "C": "Remittent",
+      "D": "onstant"
+    },
+    "correct_answer": "C",
+    "rationale": "Biphasic"
+  },
+  {
+    "question": "John has a fever of 39.5 degrees 2 days ago, But yesterday, he has a normal temperature of 36.5 degrees. Today, his temperature surges to 40 degrees. What type of fever is John having?",
+    "choices": {
+      "A": "Relapsing",
+      "B": "Intermittent",
+      "C": "Remittent",
+      "D": "onstant"
+    },
+    "correct_answer": "D",
+    "rationale": "The goal has been met but not with the desired outcome criteria"
+  },
+  {
+    "question": "John\u2019s temperature 10 hours ago is a normal 36.5 degrees. 4 hours ago, He has a fever with a temperature of 38.9 Degrees. Right now, his temperature is back to normal. Which of the following best describe the fever john is having?",
+    "choices": {
+      "A": "Relapsing",
+      "B": "Intermittent",
+      "C": "Remittent",
+      "D": "onstant"
+    },
+    "correct_answer": "D",
+    "rationale": "Pale,cold skin"
+  },
+  {
+    "question": "The characteristic fever in Dengue Virus is characterized as:",
+    "choices": {
+      "A": "Tricyclic",
+      "B": "icyclic",
+      "C": "iphasic",
+      "D": "Triphasic"
+    },
+    "correct_answer": "D",
+    "rationale": "Sweating"
+  },
+  {
+    "question": "When John has been given paracetamol, his fever was brought down dramatically from 40 degrees Celsius to 36.7 degrees in a matter of 10 minutes. The nurse would assess this event as:",
+    "choices": {
+      "A": "The goal of reducing john\u2019s fever has been met with full satisfaction of the outcome criteria",
+      "B": "The desired goal has been partially met",
+      "C": "The goal is not completely met",
+      "D": "The goal has been met but not with the desired outcome criteria"
+    },
+    "correct_answer": "A",
+    "rationale": "Oral"
+  },
+  {
+    "question": "What can you expect from Marianne, who is currently at the ONSET stage of fever?",
+    "choices": {
+      "A": "Hot, flushed skin",
+      "B": "Increase thirst",
+      "C": "onvulsion",
+      "D": "Pale,cold skin"
+    },
+    "correct_answer": "D",
+    "rationale": "Axillary"
+  },
+  {
+    "question": "Marianne is now at the Defervescence stage of the fever, which of the following is expected?",
+    "choices": {
+      "A": "elirium",
+      "B": "Goose flesh",
+      "C": "yanotic nail beds",
+      "D": "Sweating"
+    },
+    "correct_answer": "A",
+    "rationale": "Quadriplegic"
+  },
+  {
+    "question": "Considered as the most accessible and convenient method for temperature taking",
+    "choices": {
+      "A": "Oral",
+      "B": "Rectal",
+      "C": "Tympanic",
+      "D": "xillary"
+    },
+    "correct_answer": "B",
+    "rationale": "Neutropenic"
+  },
+  {
+    "question": "Considered as Safest and most non invasive method of temperature taking",
+    "choices": {
+      "A": "Oral",
+      "B": "Rectal",
+      "C": "Tympanic",
+      "D": "xillary"
+    },
+    "correct_answer": "B",
+    "rationale": ".5 to 1.5 inches"
+  },
+  {
+    "question": "Which of the following is NOT a contraindication in taking ORAL temperature?",
+    "choices": {
+      "A": "Quadriplegic",
+      "B": "Presence of NGT",
+      "C": "yspnea",
+      "D": "Nausea and Vomitting"
+    },
+    "correct_answer": "B",
+    "rationale": "From stem to bulb"
+  },
+  {
+    "question": "Which of the following is a contraindication in taking RECTAL temperature?",
+    "choices": {
+      "A": "Unconscious",
+      "B": "Neutropenic",
+      "C": "NPO",
+      "D": "Very young children"
+    },
+    "correct_answer": "C",
+    "rationale": "7 minutes"
+  },
+  {
+    "question": "How long should the Rectal Thermometer be inserted to the clients anus?",
+    "choices": {
+      "A": "1 to 2 inches",
+      "B": "5 to 1.5 inches",
+      "C": "3 to 5 inches",
+      "D": "2 to 3 inches"
+    },
+    "correct_answer": "A",
+    "rationale": "Young person have higher pulse than older persons  B. Use the thumb to palpate the artery"
+  },
+  {
+    "question": "In cleaning the thermometer after use, The direction of the cleaning to follow Medical Asepsis is :",
+    "choices": {
+      "A": "From bulb to stem",
+      "B": "From stem to bulb",
+      "C": "From stem to stem",
+      "D": "From bulb to bulb"
+    },
+    "correct_answer": "D",
+    "rationale": "Pulse pressure"
+  },
+  {
+    "question": "How long should the thermometer stay in the Client\u2019s Axilla?",
+    "choices": {
+      "A": "3 minutes",
+      "B": "4 minutes",
+      "C": "7 minutes",
+      "D": "10 minutes"
+    },
+    "correct_answer": "B",
+    "rationale": "A greater-than-normal decrease in systolic blood pressure with inspiration"
+  },
+  {
+    "question": "Which of the following statement is TRUE about pulse?",
+    "choices": {
+      "A": "Young person have higher pulse than older persons",
+      "B": "Males have higher pulse rate than females after puberty",
+      "C": "igitalis has a positive chronotropic effect",
+      "D": "In lying position, Pulse rate is higher"
+    },
+    "correct_answer": "D",
+    "rationale": "I:E 1:2  B. Pons"
+  },
+  {
+    "question": "The following are correct actions when taking radial pulse except:",
+    "choices": {
+      "A": "Put the palms downward",
+      "B": "Use the thumb to palpate the artery",
+      "C": "Use two or three fingers to palpate the pulse at the inner wrist",
+      "D": "ssess the pulse rate, rhythm, volume and bilateral quality"
+    },
+    "correct_answer": "B",
+    "rationale": "Pons"
+  },
+  {
+    "question": "The difference between the systolic and diastolic pressure is termed as",
+    "choices": {
+      "A": "pical rate",
+      "B": "ardiac rate",
+      "C": "Pulse deficit",
+      "D": "Pulse pressure"
+    },
+    "correct_answer": "B",
+    "rationale": "Pons"
+  },
+  {
+    "question": "Which of the following completely describes PULSUS PARADOXICUS?",
+    "choices": {
+      "A": "greater-than-normal increase in systolic blood pressure with inspiration",
+      "B": "greater-than-normal decrease in systolic blood pressure with inspiration",
+      "C": "Pulse is paradoxically low when client is in standing position and high when supine.",
+      "D": "Pulse is paradoxically high when client is in standing position and low when supine."
+    },
+    "correct_answer": "A",
+    "rationale": "Medulla oblongata"
+  },
+  {
+    "question": "Which of the following is TRUE about respiration?",
+    "choices": {
+      "A": "I:E 2:1",
+      "B": "I:E : 4:3",
+      "C": "I:E 1:1",
+      "D": "I:E 1:2"
+    },
+    "correct_answer": "B",
+    "rationale": "If the BP is elevated, the RR decreases  C. Increase temperature of the environment, Increase RR  B. Diastole"
+  },
+  {
+    "question": "Contains the pneumotaxic and the apneutic centers",
+    "choices": {
+      "A": "Medulla oblongata",
+      "B": "Pons",
+      "C": "arotid bodies",
+      "D": "ortic bodies"
+    },
+    "correct_answer": "B",
+    "rationale": "BP = 160/120"
+  },
+  {
+    "question": "Which of the following is responsible for deep and prolonged inspiration",
+    "choices": {
+      "A": "Medulla oblongata",
+      "B": "Pons",
+      "C": "arotid bodies",
+      "D": "ortic bodies"
+    },
+    "correct_answer": "A",
+    "rationale": "Diastole"
+  },
+  {
+    "question": "Which of the following is responsible for the rhythm and quality of breathing?",
+    "choices": {
+      "A": "Medulla oblongata",
+      "B": "Pons",
+      "C": "arotid bodies",
+      "D": "ortic bodies"
+    },
+    "correct_answer": "D",
+    "rationale": "Epinephrine decreases BP"
+  },
+  {
+    "question": "The primary respiratory center",
+    "choices": {
+      "A": "Medulla oblongata",
+      "B": "Pons",
+      "C": "arotid bodies",
+      "D": "ortic bodies"
+    },
+    "correct_answer": "A",
+    "rationale": "Females, after the age 65 tends to have lower BP than males  D. 30  C. False high reading"
+  },
+  {
+    "question": "Which of the following is TRUE about the mechanism of action of the Aortic and Carotid bodies?",
+    "choices": {
+      "A": "If the BP is elevated, the RR increases",
+      "B": "If the BP is elevated, the RR decreases",
+      "C": "Elevated BP leads to Metabolic alkalosis",
+      "D": "Low BP leads to Metabolic acidosis"
+    },
+    "correct_answer": "D",
+    "rationale": "The left arm"
+  },
+  {
+    "question": "All of the following factors correctly influence respiration except one. Which of the following is incorrect?",
+    "choices": {
+      "A": "Hydrocodone decreases RR",
+      "B": "Stress increases RR",
+      "C": "Increase temperature of the environment, Increase RR",
+      "D": "Increase altitude, Increase RR"
+    },
+    "correct_answer": "A",
+    "rationale": "Read the mercury at the upper meniscus, preferably at the eye level to prevent error of parallax"
+  },
+  {
+    "question": "When does the heart receives blood from the coronary artery?",
+    "choices": {
+      "A": "Systole",
+      "B": "iastole",
+      "C": "When the valves opens",
+      "D": "When the valves closes"
+    },
+    "correct_answer": "B",
+    "rationale": "If the eye level is higher than the level of the meniscus, it will cause a false low reading"
+  },
+  {
+    "question": "Which of the following is more life threatening?",
+    "choices": {
+      "A": "P = 180/100",
+      "B": "P = 160/120",
+      "C": "P = 90/60",
+      "D": "P = 80/50"
+    },
+    "correct_answer": "A",
+    "rationale": "1"
+  },
+  {
+    "question": "Refers to the pressure when the ventricles are at rest",
+    "choices": {
+      "A": "iastole",
+      "B": "Systole",
+      "C": "Preload",
+      "D": "Pulse pressure"
+    },
+    "correct_answer": "B",
+    "rationale": "The bell of the stethoscope is use in auscultating BP"
+  },
+  {
+    "question": "Which of the following is TRUE about the blood pressure determinants?",
+    "choices": {
+      "A": "Hypervolemia lowers BP",
+      "B": "Hypervolemia increases GFR",
+      "C": "HCT of 70% might decrease or increase BP",
+      "D": "Epinephrine decreases BP"
+    },
+    "correct_answer": "A",
+    "rationale": "Inspection, Auscultation, Percussion, Palpation"
+  },
+  {
+    "question": "Which of the following do not correctly correlates the increase BP of Ms. Aida, a 70 year old diabetic?",
+    "choices": {
+      "A": "Females, after the age 65 tends to have lower BP than males",
+      "B": "isease process like Diabetes increase BP",
+      "C": "P is highest in the morning, and lowest during the night",
+      "D": "fricans, have a greater risk of hypertension than Caucasian and Asians."
+    },
+    "correct_answer": "D",
+    "rationale": "RLQ,RUQ,LUQ,LLQ"
+  },
+  {
+    "question": "How many minutes are allowed to pass if the client had engaged in strenuous activities, smoked or ingested caffeine before taking his/her BP?",
+    "choices": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "30"
+    },
+    "correct_answer": "B",
+    "rationale": "Knees and legs are straighten to relax the abdomen"
+  },
+  {
+    "question": "Too narrow cuff will cause what change in the Client\u2019s BP?",
+    "choices": {
+      "A": "True high reading",
+      "B": "True low reading",
+      "C": "False high reading",
+      "D": "False low reading"
+    },
+    "correct_answer": "D",
+    "rationale": "Darken the room to provide better illumination"
+  },
+  {
+    "question": "Which is a preferable arm for BP taking?",
+    "choices": {
+      "A": "n arm with the most contraptions",
+      "B": "The left arm of the client with a CVA affecting the right brain",
+      "C": "The right arm",
+      "D": "The left arm"
+    },
+    "correct_answer": "D",
+    "rationale": "To ensure that the procedure is done in an ethical manner"
+  },
+  {
+    "question": "Which of the following is INCORRECT in assessing client\u2019s BP?",
+    "choices": {
+      "A": "Read the mercury at the upper meniscus, preferably at the eye level to prevent error of parallax",
+      "B": "Inflate and deflate slowly, 2-3 mmHg at a time",
+      "C": "The sound heard during taking BP is known as KOROTKOFF sound",
+      "D": "If the BP is taken on the left leg using the popliteal artery pressure, a BP of 160/80 is normal."
+    },
+    "correct_answer": "A",
+    "rationale": "Supine"
+  },
+  {
+    "question": "Which of the following is the correct interpretation of the ERROR OF PARALLAX",
+    "choices": {
+      "A": "If the eye level is higher than the level of the meniscus, it will cause a false high reading",
+      "B": "If the eye level is higher than the level of the meniscus, it will cause a false low reading",
+      "C": "If the eye level is lower than the level of the meniscus, it will cause a false low reading",
+      "D": "If the eye level is equal to that of the level of the upper meniscus, the reading is accurate"
+    },
+    "correct_answer": "A",
+    "rationale": "Early morning"
+  },
+  {
+    "question": "How many minute/s is/are allowed to pass before making a re-reading after the first one?",
+    "choices": {
+      "A": "1",
+      "B": "5",
+      "C": "15",
+      "D": "30"
+    },
+    "correct_answer": "B",
+    "rationale": "Discard the first flow of urine to ensure that the urine is not contaminated"
+  },
+  {
+    "question": "Which of the following is TRUE about the auscultation of blood pressure?",
+    "choices": {
+      "A": "Pulse + 4 is considered as FULL",
+      "B": "The bell of the stethoscope is use in auscultating BP",
+      "C": "Sound produced by BP is considered as HIGH frequency sound",
+      "D": "Pulse +1 is considered as NORMAL"
+    },
+    "correct_answer": "A",
+    "rationale": "The nurse ask the client to urinate at 9:00 A.M, Friday and she included the urine in the 24 hour urine specimen"
+  },
+  {
+    "question": "In assessing the abdomen, Which of the following is the correct sequence of the physical assessment?",
+    "choices": {
+      "A": "Inspection, Auscultation, Percussion, Palpation",
+      "B": "Palpation, Auscultation, Percussion, Inspection",
+      "C": "Inspection, Palpation, Auscultation, Percussion",
+      "D": "Inspection, Auscultation, Palpation, Percussion"
+    },
+    "correct_answer": "D",
+    "rationale": "Second voided urine"
+  },
+  {
+    "question": "The sequence in examining the quadrants of the abdomen is:",
+    "choices": {
+      "A": "RUQ,RLQ,LUQ,LLQ",
+      "B": "RLQ,RUQ,LLQ,LUQ",
+      "C": "RUQ,RLQ,LLQ,LUQ",
+      "D": "RLQ,RUQ,LUQ,LLQ"
+    },
+    "correct_answer": "C",
+    "rationale": "Before meals"
+  },
+  {
+    "question": "In inspecting the abdomen, which of the following is NOT DONE?",
+    "choices": {
+      "A": "sk the client to void first",
+      "B": "Knees and legs are straighten to relax the abdomen",
+      "C": "The best position in assessing the abdomen is Dorsal recumbent",
+      "D": "The knees and legs are externally rotated"
+    },
+    "correct_answer": "B",
+    "rationale": "Clamp below the port for 30 to 60 minutes before drawing the urine from the port"
+  },
+  {
+    "question": "Dr. Fabian De Las Santas, is about to conduct an ophthalmoscope examination. Which of the following, if done by a nurse, is a Correct preparation before the procedure?",
+    "choices": {
+      "A": "Provide the necessary draping to ensure privacy",
+      "B": "Open the windows, curtains and light to allow better illumination",
+      "C": "Pour warm water over the ophthalmoscope to ensure comfort",
+      "D": "arken the room to provide better illumination"
+    },
+    "correct_answer": "C",
+    "rationale": "Benedict\u2019s test"
+  },
+  {
+    "question": "If the client is female, and the doctor is a male and the patient is about to undergo a vaginal and cervical examination, why is it necessary to have a female nurse in attendance?",
+    "choices": {
+      "A": "To ensure that the doctor performs the procedure safely",
+      "B": "To assist the doctor",
+      "C": "To assess the client\u2019s response to examination",
+      "D": "To ensure that the procedure is done in an ethical manner"
+    },
+    "correct_answer": "B",
+    "rationale": "The nurse heats the test tube after adding 1/3 part acetic acid"
+  },
+  {
+    "question": "In palpating the client\u2019s breast, Which of the following position is necessary for the patient to assume before the start of the procedure?",
+    "choices": {
+      "A": "Supine",
+      "B": "orsal recumbent",
+      "C": "Sitting",
+      "D": "Lithotomy"
+    },
+    "correct_answer": "D",
+    "rationale": "If the color remains BLUE, the result is POSITIVE"
+  },
+  {
+    "question": "When is the best time to collect urine specimen for routine urinalysis and C/S?",
+    "choices": {
+      "A": "Early morning",
+      "B": "Later afternoon",
+      "C": "Midnight",
+      "D": "efore breakfast"
+    },
+    "correct_answer": "D",
+    "rationale": "Orange"
+  },
+  {
+    "question": "Which of the following is among an ideal way of collecting a urine specimen for culture and sensitivity?",
+    "choices": {
+      "A": "Use a clean container",
+      "B": "iscard the first flow of urine to ensure that the urine is not contaminated",
+      "C": "ollect around 30-50 ml of urine",
+      "D": "dd preservatives, refrigerate the specimen or add ice according to the agency\u2019s protocol"
+    },
+    "correct_answer": "A",
+    "rationale": "Specimen is collected after meals"
+  },
+  {
+    "question": "In a 24 hour urine specimen started Friday, 9:00 A.M, which of the following if done by a Nurse indicate a NEED for further procedural debriefing?",
+    "choices": {
+      "A": "The nurse ask the client to urinate at 9:00 A.M, Friday and she included the urine in the 24 hour urine specimen",
+      "B": "The nurse discards the Friday 9:00 A M urine of the client",
+      "C": "The nurse included the Saturday 9:00 A.M urine of the client to the specimen collection",
+      "D": "The nurse added preservatives as per protocol and refrigerates the specimen"
+    },
+    "correct_answer": "A",
+    "rationale": "Avoid turnips, radish and horseradish 3 days before procedure"
+  },
+  {
+    "question": "This specimen is required to assess glucose levels and for the presence of albumin the the urine",
+    "choices": {
+      "A": "Midstream clean catch urine",
+      "B": "24 hours urine collection",
+      "C": "Postprandial urine collection",
+      "D": "Second voided urine"
+    },
+    "correct_answer": "C",
+    "rationale": "Ask the client to call her for the specimen after the client wiped off his anus with a tissue"
+  },
+  {
+    "question": "When should the client test his blood sugar levels for greater accuracy?",
+    "choices": {
+      "A": "uring meals",
+      "B": "In between meals",
+      "C": "efore meals",
+      "D": "2 Hours after meals"
+    },
+    "correct_answer": "C",
+    "rationale": "Rinse the client\u2019s mouth with Listerine after collection"
+  },
+  {
+    "question": "In collecting a urine from a catheterized patient, Which of the following statement indicates an accurate performance of the procedure?",
+    "choices": {
+      "A": "lamp above the port for 30 to 60 minutes before drawing the urine from the port",
+      "B": "lamp below the port for 30 to 60 minutes before drawing the urine from the port",
+      "C": "lamp above the port for 5 to 10 minutes before drawing the urine from the port",
+      "D": "lamp below the port for 5 to 10 minutes before drawing the urine from the port"
+    },
+    "correct_answer": "B",
+    "rationale": "Medical technologist"
+  },
+  {
+    "question": "A community health nurse should be resourceful and meet the needs of the client. A villager ask him, Can you test my urine for glucose? Which of the following technique allows the nurse to test a client\u2019s urine for glucose without the need for intricate instruments.",
+    "choices": {
+      "A": "cetic Acid test",
+      "B": "Nitrazine paper test",
+      "C": "enedict\u2019s test",
+      "D": "Litmus paper test"
+    },
+    "correct_answer": "B",
+    "rationale": "NPO for 12 hours pre procedure"
+  },
+  {
+    "question": "A community health nurse is assessing client\u2019s urine using the Acetic Acid solution. Which of the following, if done by a nurse, indicates lack of correct knowledge with the procedure?",
+    "choices": {
+      "A": "The nurse added the Urine as the 2/3 part of the solution",
+      "B": "The nurse heats the test tube after adding 1/3 part acetic acid",
+      "C": "The nurse heats the test tube after adding 2/3 part of Urine",
+      "D": "The nurse determines abnormal result if she noticed that the test tube becomes cloudy"
+    },
+    "correct_answer": "A",
+    "rationale": "Metabolism"
+  },
+  {
+    "question": "Which of the following is incorrect with regards to proper urine testing using Benedict\u2019s Solution?",
+    "choices": {
+      "A": "Heat around 5ml of Benedict\u2019s solution together with the urine in a test tube",
+      "B": "dd 8 to 10 drops of urine",
+      "C": "Heat the Benedict\u2019s solution without the urine to check if the solution is contaminated",
+      "D": "If the color remains BLUE, the result is POSITIVE"
+    },
+    "correct_answer": "C",
+    "rationale": "Hypothalamus"
+  },
+  {
+    "question": "+++ Positive result after Benedicts test is depicted by what color?",
+    "choices": {
+      "A": "lue",
+      "B": "Green",
+      "C": "Yellow",
+      "D": "Orange"
+    },
+    "correct_answer": "B",
+    "rationale": "Conduction"
+  },
+  {
+    "question": "Clinitest is used in testing the urine of a client for glucose. Which of the following, If committed by a nurse indicates error?",
+    "choices": {
+      "A": "Specimen is collected after meals",
+      "B": "The nurse puts 1 clinitest tablet into a test tube",
+      "C": "She added 5 drops of urine and 10 drops of water",
+      "D": "If the color becomes orange or red, It is considered postitive"
+    },
+    "correct_answer": "C",
+    "rationale": "Stress"
+  },
+  {
+    "question": "Which of the following nursing intervention is important for a client scheduled to have a Guaiac Test?",
+    "choices": {
+      "A": "void turnips, radish and horseradish 3 days before procedure",
+      "B": "ontinue iron preparation to prevent further loss of Iron",
+      "C": "o not eat read meat 12 hours before procedure",
+      "D": "Encourage caffeine and dark colored foods to produce accurate results"
+    },
+    "correct_answer": "A",
+    "rationale": "Patient\u2019s lifestyle"
+  },
+  {
+    "question": "In collecting a routine specimen for fecalysis, Which of the following, if done by a nurse, indicates inadequate knowledge and skills about the procedure?",
+    "choices": {
+      "A": "The nurse scoop the specimen specifically at the site with blood and mucus",
+      "B": "She took around 1 inch of specimen or a teaspoonful",
+      "C": "sk the client to call her for the specimen after the client wiped off his anus with a tissue",
+      "D": "sk the client to defecate in a bedpan, Secure a sterile container"
+    },
+    "correct_answer": "D",
+    "rationale": "Lithotomy"
+  },
+  {
+    "question": "In a routine sputum analysis, Which of the following indicates proper nursing action before sputum collection?",
+    "choices": {
+      "A": "Secure a clean container",
+      "B": "iscard the container if the outside becomes contaminated with the sputum",
+      "C": "Rinse the client\u2019s mouth with Listerine after collection",
+      "D": "Tell the client that 4 tablespoon of sputum is needed for each specimen for a routine sputum analysis"
+    },
+    "correct_answer": "A",
+    "rationale": "Dorsal recumbent"
+  },
+  {
+    "question": "Who collects Blood specimen?",
+    "choices": {
+      "A": "The nurse",
+      "B": "Medical technologist",
+      "C": "Physician",
+      "D": "Physical therapist"
+    },
+    "correct_answer": "A",
+    "rationale": "Dorsal recumbent"
+  },
+  {
+    "question": "David, 68 year old male client is scheduled for Serum Lipid analysis. Which of the following health teaching is important to ensure accurate reading?",
+    "choices": {
+      "A": "Tell the patient to eat fatty meals 3 days prior to the procedure",
+      "B": "NPO for 12 hours pre procedure",
+      "C": "sk the client to drink 1 glass of water 1 hour prior to the procedure",
+      "D": "Tell the client that the normal serum lipase level is 50 to 140 U/L"
+    },
+    "correct_answer": "B",
+    "rationale": "Sims position"
+  },
+  {
+    "question": "The primary factor responsible for body heat production is the",
+    "choices": {
+      "A": "Metabolism",
+      "B": "Release of thyroxin",
+      "C": "Muscle activity",
+      "D": "Stress"
+    },
+    "correct_answer": "C",
+    "rationale": "Use sterile syringe to aspirate urine specimen from the drainage port"
+  },
+  {
+    "question": "The heat regulating center is found in the",
+    "choices": {
+      "A": "Medulla oblongata",
+      "B": "Thalamus",
+      "C": "Hypothalamus",
+      "D": "Pons"
+    },
+    "correct_answer": "C",
+    "rationale": "Collect 5 to 10 ml for urine"
+  },
+  {
+    "question": "A process of heat loss which involves the transfer of heat from one surface to another is",
+    "choices": {
+      "A": "Radiation",
+      "B": "onduction",
+      "C": "onvection",
+      "D": "Evaporation"
+    },
+    "correct_answer": "A",
+    "rationale": "At the client\u2019s back"
+  },
+  {
+    "question": "Which of the following is a primary factor that affects the BP?",
+    "choices": {
+      "A": "Obesity",
+      "B": "ge",
+      "C": "Stress",
+      "D": "Gender"
+    },
+    "correct_answer": "A",
+    "rationale": "Standing"
+  },
+  {
+    "question": "The following are social data about the client except",
+    "choices": {
+      "A": "Patient\u2019s lifestyle",
+      "B": "Religious practices",
+      "C": "Family home situation",
+      "D": "Usual health status"
+    },
+    "correct_answer": "A",
+    "rationale": "Sitting"
+  }
+]

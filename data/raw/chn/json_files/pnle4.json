@@ -1,0 +1,332 @@
+[
+  {
+    "question": "In immunizing school entrants with BCG, you are not obliged to secure parental consent. This is because of which legal document?",
+    "choices": {
+      "A": "P.D. 996",
+      "B": "R.A. 7846",
+      "C": "Presidential Proclamation No. 6",
+      "D": "Presidential Proclamation No. 46"
+    },
+    "correct_answer": "A",
+    "rationale": "P.D. 996. Presidential Decree 996, enacted in 1976, made immunization in the EPI compulsory for children under 8 years of age. Hepatitis B vaccination was made compulsory for the same age group by R.A. 7846."
+  },
+  {
+    "question": "Which immunization produces a permanent scar?",
+    "choices": {
+      "A": "PT",
+      "B": "CG",
+      "C": "Measles vaccination",
+      "D": "Hepatitis B vaccination"
+    },
+    "correct_answer": "B",
+    "rationale": "BCG. BCG causes the formation of a superficial abscess, which begins 2 weeks after immunization. The abscess heals without treatment, with the formation of a permanent scar."
+  },
+  {
+    "question": "A 4-week old baby was brought to the health center for his first immunization. Which can be given to him?",
+    "choices": {
+      "A": "PT1",
+      "B": "OPV1",
+      "C": "Infant BCG",
+      "D": "Hepatitis B vaccine 1"
+    },
+    "correct_answer": "C",
+    "rationale": "Infant BCG. Infant BCG may be given at birth. All the other immunizations mentioned can be given at 6 weeks of age."
+  },
+  {
+    "question": "You will not give DPT 2 if the mother says that the infant had",
+    "choices": {
+      "A": "Seizures a day after DPT 1.",
+      "B": "Fever for 3 days after DPT 1.",
+      "C": "bscess formation after DPT 1.",
+      "D": "Local tenderness for 3 days after DPT 1."
+    },
+    "correct_answer": "A",
+    "rationale": "Seizures a day after DPT 1. Seizures within 3 days after administration of DPT is an indication of hypersensitivity to pertussis vaccine, a component of DPT. This is considered a specific contraindication to subsequent doses of DPT."
+  },
+  {
+    "question": "A 2-month old infant was brought to the health center for immunization. During assessment, the infant\u2019s temperature registered at 38.1\u00b0C. Which is the best course of action that you will take?",
+    "choices": {
+      "A": "Go on with the infant\u2019s immunizations.",
+      "B": "Give Paracetamol and wait for his fever to subside.",
+      "C": "Refer the infant to the physician for further assessment.",
+      "D": "dvise the infant\u2019s mother to bring him back for immunization when he is well."
+    },
+    "correct_answer": "A",
+    "rationale": "Go on with the infant\u2019s immunizations. In the EPI, fever up to 38.5\u00b0C is not a contraindication to immunization. Mild acute respiratory tract infection, simple diarrhea and malnutrition are not contraindications either."
+  },
+  {
+    "question": "A pregnant woman had just received her 4th dose of tetanus toxoid. Subsequently, her baby will have protection against tetanus for how long?",
+    "choices": {
+      "A": "1 year",
+      "B": "3 years",
+      "C": "10 years",
+      "D": "Lifetime"
+    },
+    "correct_answer": "A",
+    "rationale": "1 year. The baby will have passive natural immunity by placental transfer of antibodies. The mother will have active artificial immunity lasting for about 10 years. 5 doses will give the mother lifetime protection."
+  },
+  {
+    "question": "A 4-month old infant was brought to the health center because of cough. Her respiratory rate is 42/minute. Using the Integrated Management of Child Illness (IMCI) guidelines of assessment, her breathing is considered",
+    "choices": {
+      "A": "Fast",
+      "B": "Slow",
+      "C": "Normal",
+      "D": "Insignificant"
+    },
+    "correct_answer": "C",
+    "rationale": "Normal. In IMCI, a respiratory rate of 50/minute or more is fast breathing for an infant aged 2 to 12 months."
+  },
+  {
+    "question": "Which of the following signs will indicate that a young child is suffering from severe pneumonia?",
+    "choices": {
+      "A": "yspnea",
+      "B": "Wheezing",
+      "C": "Fast breathing",
+      "D": "hest indrawing"
+    },
+    "correct_answer": "D",
+    "rationale": "Chest indrawing. In IMCI, chest indrawing is used as the positive sign of dyspnea, indicating severe pneumonia."
+  },
+  {
+    "question": "Using IMCI guidelines, you classify a child as having severe pneumonia. What is the best management for the child?",
+    "choices": {
+      "A": "Prescribe an antibiotic.",
+      "B": "Refer him urgently to the hospital.",
+      "C": "Instruct the mother to increase fluid intake.",
+      "D": "Instruct the mother to continue breastfeeding."
+    },
+    "correct_answer": "B",
+    "rationale": "Refer him urgently to the hospital. Severe pneumonia requires urgent referral to a hospital. Answers A, C and D are done for a client classified as having pneumonia."
+  },
+  {
+    "question": "A 5-month old infant was brought by his mother to the health center because of diarrhea occurring 4 to 5 times a day. His skin goes back slowly after a skin pinch and his eyes are sunken. Using the IMCI guidelines, you will classify this infant in which category?",
+    "choices": {
+      "A": "No signs of dehydration",
+      "B": "Some dehydration",
+      "C": "Severe dehydration",
+      "D": "The data is insufficient."
+    },
+    "correct_answer": "B",
+    "rationale": "Some dehydration. Using the assessment guidelines of IMCI, a child (2 months to 5 years old) with diarrhea is classified as having SOME DEHYDRATION if he shows 2 or more of the following signs: restless or irritable, sunken eyes, the skin goes back slow after a skin pinch."
+  },
+  {
+    "question": "Based on assessment, you classified a 3-month old infant with the chief complaint of diarrhea in the category of SOME DEHYDRATION. Based on IMCI management guidelines, which of the following will you do?",
+    "choices": {
+      "A": "ring the infant to the nearest facility where IV fluids can be given.",
+      "B": "Supervise the mother in giving 200 to 400 ml. of Oresol in 4 hours.",
+      "C": "Give the infant\u2019s mother instructions on home management.",
+      "D": "Keep the infant in your health center for close observation."
+    },
+    "correct_answer": "B",
+    "rationale": "Supervise the mother in giving 200 to 400 ml. of Oresol in 4 hours. In the IMCI management guidelines, SOME DEHYDRATION is treated with the administration of Oresol within a period of 4 hours. The amount of Oresol is best computed on the basis of the child\u2019s weight (75 ml/kg body weight). If the weight is unknown, the amount of Oresol is based on the child\u2019s age."
+  },
+  {
+    "question": "A mother is using Oresol in the management of diarrhea of her 3-year old child. She asked you what to do if her child vomits. You will tell her to",
+    "choices": {
+      "A": "ring the child to the nearest hospital for further assessment.",
+      "B": "ring the child to the health center for intravenous fluid therapy.",
+      "C": "ring the child to the health center for assessment by the physician.",
+      "D": "Let the child rest for 10 minutes then continue giving Oresol more slowly."
+    },
+    "correct_answer": "D",
+    "rationale": "Let the child rest for 10 minutes then continue giving Oresol more slowly. If the child vomits persistently, that is, he vomits everything that he takes in, he has to be referred urgently to a hospital. Otherwise, vomiting is managed by letting the child rest for 10 minutes and then continuing with Oresol administration. Teach the mother to give Oresol more slowly."
+  },
+  {
+    "question": "A 1 \u00bd year old child was classified as having 3rd degree protein energy malnutrition, kwashiorkor. Which of the following signs will be most apparent in this child?",
+    "choices": {
+      "A": "Voracious appetite",
+      "B": "Wasting",
+      "C": "pathy",
+      "D": "Edema"
+    },
+    "correct_answer": "D",
+    "rationale": "Edema. Edema, a major sign of kwashiorkor, is caused by decreased colloidal osmotic pressure of the blood brought about by hypoalbuminemia. Decreased blood albumin level is due a protein-deficient diet."
+  },
+  {
+    "question": "Assessment of a 2-year old child revealed \u201cbaggy pants\u201d. Using the IMCI guidelines, how will you manage this child?",
+    "choices": {
+      "A": "Refer the child urgently to a hospital for confinement.",
+      "B": "oordinate with the social worker to enroll the child in a feeding program.",
+      "C": "Make a teaching plan for the mother, focusing on menu planning for her child.",
+      "D": "ssess and treat the child for health problems like infections and intestinal parasitism."
+    },
+    "correct_answer": "A",
+    "rationale": "Refer the child urgently to a hospital for confinement. \u201cBaggy pants\u201d is a sign of severe marasmus. The best management is urgent referral to a hospital."
+  },
+  {
+    "question": "During the physical examination of a young child, what is the earliest sign of xerophthalmia that you may observe?",
+    "choices": {
+      "A": "Keratomalacia",
+      "B": "orneal opacity",
+      "C": "Night blindness",
+      "D": "onjunctival xerosis"
+    },
+    "correct_answer": "D",
+    "rationale": "Conjunctival xerosis. The earliest sign of Vitamin A deficiency (xerophthalmia) is night blindness. However, this is a functional change, which is not observable during physical examination.The earliest visible lesion is conjunctival xerosis or dullness of the conjunctiva due to inadequate tear production."
+  },
+  {
+    "question": "To prevent xerophthalmia, young children are given Retinol capsule every 6 months. What is the dose given to preschoolers?",
+    "choices": {
+      "A": "10,000 IU",
+      "B": "20,000 IU",
+      "C": "100,000 IU",
+      "D": "200,000 IU"
+    },
+    "correct_answer": "D",
+    "rationale": "200,000 IU. Preschoolers are given Retinol 200,000 IU every 6 months. 100,000 IU is given once to infants aged 6 to 12 months. The dose for pregnant women is 10,000 IU."
+  },
+  {
+    "question": "The major sign of iron deficiency anemia is pallor. What part is best examined for pallor?",
+    "choices": {
+      "A": "Palms",
+      "B": "Nailbeds",
+      "C": "round the lips",
+      "D": "Lower conjunctival sac"
+    },
+    "correct_answer": "A",
+    "rationale": "Palms. The anatomic characteristics of the palms allow a reliable and convenient basis for examination for pallor."
+  },
+  {
+    "question": "Food fortification is one of the strategies to prevent micronutrient deficiency conditions. R.A. 8976 mandates fortification of certain food items. Which of the following is among these food items?",
+    "choices": {
+      "A": "Sugar",
+      "B": "read",
+      "C": "Margarine",
+      "D": "Filled milk"
+    },
+    "correct_answer": "A",
+    "rationale": "Sugar. R.A. 8976 mandates fortification of rice, wheat flour, sugar and cooking oil with Vitamin A, iron and/or iodine."
+  },
+  {
+    "question": "What is the best course of action when there is a measles epidemic in a nearby municipality?",
+    "choices": {
+      "A": "Give measles vaccine to babies aged 6 to 8 months.",
+      "B": "Give babies aged 6 to 11 months one dose of 100,000 I.U. of Retinol",
+      "C": "Instruct mothers to keep their babies at home to prevent disease transmission.",
+      "D": "Instruct mothers to feed their babies adequately to enhance their babies\u2019 resistance."
+    },
+    "correct_answer": "A",
+    "rationale": "Give measles vaccine to babies aged 6 to 8 months. Ordinarily, measles vaccine is given at 9 months of age. During an impending epidemic, however, one dose may be given to babies aged 6 to 8 months. The mother is instructed that the baby needs another dose when the baby is 9 months old."
+  },
+  {
+    "question": "A mother brought her daughter, 4 years old, to the RHU because of cough and colds. Following the IMCI assessment guide, which of the following is a danger sign that indicates the need for urgent referral to a hospital?",
+    "choices": {
+      "A": "Inability to drink",
+      "B": "High grade fever",
+      "C": "Signs of severe dehydration",
+      "D": "ough for more than 30 days"
+    },
+    "correct_answer": "A",
+    "rationale": "Inability to drink. A sick child aged 2 months to 5 years must be referred urgently to a hospital if he/she has one or more of the following signs: not able to feed or drink, vomits everything, convulsions, abnormally sleepy or difficult to awaken."
+  },
+  {
+    "question": "Management of a child with measles includes the administration of which of the following?",
+    "choices": {
+      "A": "Gentian violet on mouth lesions",
+      "B": "ntibiotics to prevent pneumonia",
+      "C": "Tetracycline eye ointment for corneal opacity",
+      "D": "Retinol capsule regardless of when the last dose was given"
+    },
+    "correct_answer": "D",
+    "rationale": "Retinol capsule regardless of when the last dose was given. An infant 6 to 12 months classified as a case of measles is given Retinol 100,000 IU; a child is given 200,000 IU regardless of when the last dose was given."
+  },
+  {
+    "question": "A mother brought her 10 month old infant for consultation because of fever, which started 4 days prior to consultation. To determine malaria risk, what will you do?",
+    "choices": {
+      "A": "o a tourniquet test.",
+      "B": "sk where the family resides.",
+      "C": "Get a specimen for blood smear.",
+      "D": "sk if the fever is present everyday."
+    },
+    "correct_answer": "B",
+    "rationale": "Ask where the family resides. Because malaria is endemic, the first question to determine malaria risk is where the client\u2019s family resides. If the area of residence is not a known endemic area, ask if the child had traveled within the past 6 months, where he/she was brought and whether he/she stayed overnight in that area."
+  },
+  {
+    "question": "The following are strategies implemented by the Department of Health to prevent mosquito-borne diseases. Which of these is most effective in the control of Dengue fever?",
+    "choices": {
+      "A": "Stream seeding with larva-eating fish",
+      "B": "estroying breeding places of mosquitoes",
+      "C": "hemoprophylaxis of non-immune persons going to endemic areas",
+      "D": "Teaching people in endemic areas to use chemically treated mosquito nets"
+    },
+    "correct_answer": "B",
+    "rationale": "Destroying breeding places of mosquitoes. Aedes aegypti, the vector of Dengue fever, breeds in stagnant, clear water. Its feeding time is usually during the daytime. It has a cyclical pattern of occurrence, unlike malaria which is endemic in certain parts of the country."
+  },
+  {
+    "question": "Secondary prevention for malaria includes",
+    "choices": {
+      "A": "Planting of neem or eucalyptus trees",
+      "B": "Residual spraying of insecticides at night",
+      "C": "etermining whether a place is endemic or not",
+      "D": "Growing larva-eating fish in mosquito breeding places"
+    },
+    "correct_answer": "C",
+    "rationale": "Determining whether a place is endemic or not. This is diagnostic and therefore secondary level prevention. The other choices are for primary prevention."
+  },
+  {
+    "question": "Scotch tape swab is done to check for which intestinal parasite?",
+    "choices": {
+      "A": "scaris",
+      "B": "Pinworm",
+      "C": "Hookworm",
+      "D": "Schistosoma"
+    },
+    "correct_answer": "B",
+    "rationale": "Pinworm. Pinworm ova are deposited around the anal orifice."
+  },
+  {
+    "question": "Which of the following signs indicates the need for sputum examination for AFB?",
+    "choices": {
+      "A": "Hematemesis",
+      "B": "Fever for 1 week",
+      "C": "ough for 3 weeks",
+      "D": "hest pain for 1 week"
+    },
+    "correct_answer": "C",
+    "rationale": "Cough for 3 weeks. A client is considered a PTB suspect when he has cough for 2 weeks or more, plus one or more of the following signs: fever for 1 month or more; chest pain lasting for 2 weeks or more not attributed to other conditions; progressive, unexplained weight loss; night sweats; and hemoptysis."
+  },
+  {
+    "question": "Which clients are considered targets for DOTS Category I?",
+    "choices": {
+      "A": "Sputum negative cavitary cases",
+      "B": "lients returning after a default",
+      "C": "Relapses and failures of previous PTB treatment regimens",
+      "D": "lients diagnosed for the first time through a positive sputum exam"
+    },
+    "correct_answer": "D",
+    "rationale": "Clients diagnosed for the first time through a positive sputum exam. Category I is for new clients diagnosed by sputum examination and clients diagnosed to have a serious form of extrapulmonary tuberculosis, such as TB osteomyelitis."
+  },
+  {
+    "question": "To improve compliance to treatment, what innovation is being implemented in DOTS?",
+    "choices": {
+      "A": "Having the health worker follow up the client at home",
+      "B": "Having the health worker or a responsible family member monitor drug intake",
+      "C": "Having the patient come to the health center every month to get his medications",
+      "D": "Having a target list to check on whether the patient has collected his monthly supply of drugs"
+    },
+    "correct_answer": "B",
+    "rationale": "Having the health worker or a responsible family member monitor drug intake. Directly Observed Treatment Short Course is so-called because a treatment partner, preferably a health worker accessible to the client, monitors the client\u2019s compliance to the treatment."
+  },
+  {
+    "question": "Diagnosis of leprosy is highly dependent on recognition of symptoms. Which of the following is an early sign of leprosy?",
+    "choices": {
+      "A": "Macular lesions",
+      "B": "Inability to close eyelids",
+      "C": "Thickened painful nerves",
+      "D": "Sinking of the nosebridge"
+    },
+    "correct_answer": "C",
+    "rationale": "Thickened painful nerves. The lesion of leprosy is not macular. It is characterized by a change in skin color (either reddish or whitish) and loss of sensation, sweating and hair growth over the lesion. Inability to close the eyelids (lagophthalmos) and sinking of the nosebridge are late symptoms."
+  },
+  {
+    "question": "Which of the following clients should be classified as a case of multibacillary leprosy?",
+    "choices": {
+      "A": "3 skin lesions, negative slit skin smear",
+      "B": "3 skin lesions, positive slit skin smear",
+      "C": "5 skin lesions, negative slit skin smear",
+      "D": "5 skin lesions, positive slit skin smear"
+    },
+    "correct_answer": "D",
+    "rationale": "5 skin lesions, positive slit skin smear. A multibacillary leprosy case is one who has a positive slit skin smear and at least 5 skin lesions."
+  }
+]

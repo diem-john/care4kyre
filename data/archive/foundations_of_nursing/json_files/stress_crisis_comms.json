@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "The coronary vessels, unlike any other blood vessels in the body, respond to sympathetic stimulation by",
+    "choices": {
+      "A": "Vasoconstriction",
+      "B": "Vasodilatation",
+      "C": "Decreases force of contractility",
+      "D": "Decreases cardiac output"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Vasodilatation"
+  },
+  {
+    "question": "What stress response can you expect from a patient with blood sugar of 50 mg / dl?",
+    "choices": {
+      "A": "Body will try to decrease the glucose level",
+      "B": "There will be a halt in release of sex hormones",
+      "C": "Client will appear restless",
+      "D": "Blood pressure will increase"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Blood pressure will increase"
+  },
+  {
+    "question": "All of the following are purpose of inflammation except",
+    "choices": {
+      "A": "Increase heat, thereby produce abatement of phagocytosis",
+      "B": "Localized tissue injury by increasing capillary permeability",
+      "C": "Protect the issue from injury by producing pain",
+      "D": "Prepare for tissue repair"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Increase heat, thereby produce abatement of phagocytosis"
+  },
+  {
+    "question": "The initial response of tissue after injury is",
+    "choices": {
+      "A": "Immediate Vasodilation",
+      "B": "Transient Vasoconstriction",
+      "C": "Immediate Vasoconstriction",
+      "D": "Transient Vasodilation"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Immediate Vasoconstriction"
+  },
+  {
+    "question": "The last expected process in the stages of inflammation is characterized by",
+    "choices": {
+      "A": "There will be sudden redness of the affected part",
+      "B": "Heat will increase on the affected part",
+      "C": "The affected part will loss its normal function",
+      "D": "Exudates will flow from the injured site"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: The affected part will loss its normal function"
+  },
+  {
+    "question": "What kind of exudates is expected when there is an antibody-antigen reaction as a result of microorganism infection?",
+    "choices": {
+      "A": "Serous",
+      "B": "Serosanguinous",
+      "C": "Purulent",
+      "D": "Sanguinous"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Purulent"
+  },
+  {
+    "question": "The first manifestation of inflammation is",
+    "choices": {
+      "A": "Redness on the affected area",
+      "B": "Swelling of the affected area",
+      "C": "Pain, which causes guarding of the area",
+      "D": "Increase heat due to transient vasodilation"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Redness on the affected area"
+  },
+  {
+    "question": "The client has a chronic tissue injury. Upon examining the client’s antibody for a particular cellular response, Which of the following WBC component is responsible for phagocytosis in chronic tissue injury?",
+    "choices": {
+      "A": "Neutrophils",
+      "B": "Basophils",
+      "C": "Eosinophils",
+      "D": "Monocytes"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Monocytes"
+  },
+  {
+    "question": "Which of the following WBC component proliferates in cases of Anaphylaxis?",
+    "choices": {
+      "A": "Neutrophils",
+      "B": "Basophils",
+      "C": "Eosinophil",
+      "D": "Monocytes"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Eosinophil"
+  },
+  {
+    "question": "Icheanne, ask you, her Nurse, about WBC Components. She got an injury yesterday after she twisted her ankle accidentally at her gymnastic class. She asked you, which WBC Component is responsible for proliferation at the injured site immediately following an injury. You answer:",
+    "choices": {
+      "A": "Neutrophils",
+      "B": "Basophils",
+      "C": "Eosinophils",
+      "D": "Monocytes"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Neutrophils"
+  },
+  {
+    "question": "Icheanne then asked you, what is the first process that occurs in the inflammatory response after injury, You tell her:",
+    "choices": {
+      "A": "Phagocytosis",
+      "B": "Emigration",
+      "C": "Pavementation",
+      "D": "Chemotaxis"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Pavementation"
+  },
+  {
+    "question": "Icheanne asked you again, What is that term that describes the magnetic attraction of injured tissue to bring phagocytes to the site of injury?",
+    "choices": {
+      "A": "Icheanne, you better sleep now, you asked a lot of questions",
+      "B": "It is Diapedesis",
+      "C": "We call that Emigration",
+      "D": "I don’t know the answer, perhaps I can tell you after I find it out later"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: I don’t know the answer, perhaps I can tell you after I find it out later"
+  },
+  {
+    "question": "This type of healing occurs when there is a delayed surgical closure of infected wound",
+    "choices": {
+      "A": "First intention",
+      "B": "Second intention",
+      "C": "Third intention",
+      "D": "Fourth intention"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Third intention"
+  },
+  {
+    "question": "Type of healing when scars are minimal due to careful surgical incision and good healing",
+    "choices": {
+      "A": "First intention",
+      "B": "Second intention",
+      "C": "Third intention",
+      "D": "Fourth intention"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: First intention"
+  },
+  {
+    "question": "Imelda, was slashed and hacked by an unknown suspects. She suffered massive tissue loss and laceration on her arms and elbow in an attempt to evade the criminal. As a nurse, you know that the type of healing that will most likely occur to Miss Imelda is",
+    "choices": {
+      "A": "First intention",
+      "B": "Second intention",
+      "C": "Third intention",
+      "D": "Fourth intention"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Second intention"
+  },
+  {
+    "question": "Imelda is in the recovery stage after the incident. As a nurse, you know that the diet that will be prescribed to Miss Imelda is",
+    "choices": {
+      "A": "Low calorie, High protein with Vitamin A and C rich foods",
+      "B": "High protein, High calorie with Vitamin A and C rich foods",
+      "C": "High calorie, Low protein with Vitamin A and C rich foods",
+      "D": "Low calorie, Low protein with Vitamin A and C rich foods"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: High protein, High calorie with Vitamin A and C rich foods"
+  },
+  {
+    "question": "Miss Imelda asked you, What is WET TO DRY Dressing method? Your best response is",
+    "choices": {
+      "A": "It is a type of mechanical debridement using Wet dressing that is applied and left to dry to remove dead tissues",
+      "B": "It is a type of surgical debridement with the use of Wet dressing to remove the necrotic tissues",
+      "C": "It is a type of dressing where in, The wound is covered with Wet or Dry dressing to prevent contamination",
+      "D": "It is a type of dressing where in, A cellophane or plastic is placed on the wound over a wet dressing to stimulate healing of the wound in a wet medium"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: It is a type of mechanical debridement using Wet dressing that is applied and left to dry to remove dead tissues"
+  },
+  {
+    "question": "The primary cause of pain in inflammation is",
+    "choices": {
+      "A": "Release of pain mediators",
+      "B": "Injury to the nerve endings",
+      "C": "Compression of the local nerve endings by the edema fluids",
+      "D": "Circulation is lessen, Supply of oxygen is insufficient"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Compression of the local nerve endings by the edema fluids"
+  },
+  {
+    "question": "The client is in stress because he was told by the physician he needs to undergo surgery for removal of tumor in his bladder. Which of the following are effects of sympatho-adreno-medullary response by the client?",
+    "choices": {
+      "A": "Constipation",
+      "B": "Urinary frequency",
+      "C": "Hyperglycemia",
+      "D": "Increased blood pressure"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Urinary frequency"
+  },
+  {
+    "question": "The client is on NPO post midnight. Which of the following, if done by the client, is sufficient to cancel the operation in the morning?",
+    "choices": {
+      "A": "Eat a full meal at 10:00 P.M",
+      "B": "Drink fluids at 11:50 P.M",
+      "C": "Brush his teeth the morning before operation",
+      "D": "Smoke cigarette around 3:00 A.M"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Smoke cigarette around 3:00 A.M"
+  },
+  {
+    "question": "The client place on NPO for preparation of the blood test. Adreno-cortical response is activated and which of the following below is an expected response?",
+    "choices": {
+      "A": "Low BP",
+      "B": "Decrease Urine output",
+      "C": "Warm, flushed, dry skin",
+      "D": "Low serum sodium levels"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Decrease Urine output"
+  },
+  {
+    "question": "Which of the following is true about therapeutic relationship?",
+    "choices": {
+      "A": "Directed towards helping an individual both physically and emotionally",
+      "B": "Bases on friendship and mutual trust",
+      "C": "Goals are set by the solely nurse",
+      "D": "Maintained even after the client doesn’t need anymore of the Nurse’s help"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Directed towards helping an individual both physically and emotionally"
+  },
+  {
+    "question": "According to her, A nurse patient relationship is composed of 4 stages : Orientation, Identification, Exploitation and Resolution",
+    "choices": {
+      "A": "Roy",
+      "B": "Peplau",
+      "C": "Rogers",
+      "D": "Travelbee"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Peplau"
+  },
+  {
+    "question": "In what phase of Nurse patient relationship does a nurse review the client’s medical records thereby learning as much as possible about the client?",
+    "choices": {
+      "A": "Pre Orientation",
+      "B": "Orientation",
+      "C": "Working",
+      "D": "Termination"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Pre Orientation"
+  },
+  {
+    "question": "Nurse Aida has seen her patient, Roger for the first time. She establish a contract about the frequency of meeting and introduce to Roger the expected termination. She started taking baseline assessment and set interventions and outcomes. On what phase of NPR Does Nurse Aida and Roger belong?",
+    "choices": {
+      "A": "Pre Orientation",
+      "B": "Orientation",
+      "C": "Working",
+      "D": "Termination"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Orientation"
+  },
+  {
+    "question": "Roger has been seen agitated, shouting and running. As Nurse Aida approaches, he shouts and swear, calling Aida names. Nurse Aida told Roger “That is an unacceptable behavior Roger, Stop and go to your room now.” The situation is most likely in what phase of NPR?",
+    "choices": {
+      "A": "Pre Orientation",
+      "B": "Orientation",
+      "C": "Working",
+      "D": "Termination"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Working"
+  },
+  {
+    "question": "Nurse Aida, in spite of the incident, still consider Roger as worthwhile simply because he is a human being. What major ingredient of a therapeutic communication is Nurse Aida using?",
+    "choices": {
+      "A": "Empathy",
+      "B": "Positive regard",
+      "C": "Comfortable sense of self",
+      "D": "Self awareness"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Positive regard"
+  },
+  {
+    "question": "Nurse Irma saw Roger and told Nurse Aida “ Oh look at that psychotic patient “ Nurse Aida should intervene and correct Nurse Irma because her statement shows that she is lacking?",
+    "choices": {
+      "A": "Empathy",
+      "B": "Positive regard",
+      "C": "Comfortable sense of self",
+      "D": "Self awareness"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Positive regard"
+  },
+  {
+    "question": "Which of the following statement is not true about stress?",
+    "choices": {
+      "A": "It is a nervous energy",
+      "B": "It is an essential aspect of existence",
+      "C": "It has been always a part of human experience",
+      "D": "It is something each person has to cope"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: It is a nervous energy"
+  },
+  {
+    "question": "Martina, a Tennis champ was devastated after many new competitors outpaced her in the Wimbledon event. She became depressed and always seen crying. Martina is clearly on what kind of situation?",
+    "choices": {
+      "A": "Martina is just stressed out",
+      "B": "Martina is Anxious",
+      "C": "Martina is in the exhaustion stage of GAS",
+      "D": "Martina is in Crisis"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Martina is in Crisis"
+  },
+  {
+    "question": "Which of the following statement is not true with regards to anxiety?",
+    "choices": {
+      "A": "It has physiologic component",
+      "B": "It has psychologic component",
+      "C": "The source of dread or uneasiness is from an unrecognized entity",
+      "D": "The source of dread or uneasiness is from a recognized entity"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: The source of dread or uneasiness is from a recognized entity"
+  },
+  {
+    "question": "Lorraine, a 27 year old executive was brought to the ER for an unknown reason. She is starting to speak but her speech is disorganized and cannot be understood. On what level of anxiety does this features belongs?",
+    "choices": {
+      "A": "Mild",
+      "B": "Moderate",
+      "C": "Severe",
+      "D": "Panic"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Panic"
+  },
+  {
+    "question": "Elton, 21 year old nursing student is taking the board examination. She is sweating profusely, has decreased awareness of his environment and is purely focused on the exam questions characterized by his selective attentiveness. What anxiety level is Elton exemplifying?",
+    "choices": {
+      "A": "Mild",
+      "B": "Moderate",
+      "C": "Severe",
+      "D": "Panic"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Moderate"
+  },
+  {
+    "question": "You noticed the patient chart : ANXIETY +3 What will you expect to see in this client?",
+    "choices": {
+      "A": "An optimal time for learning, Hearing and perception is greatly increased",
+      "B": "Dilated pupils",
+      "C": "Unable to communicate",
+      "D": "Palliative Coping Mechanism"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Dilated pupils"
+  },
+  {
+    "question": "When should the nurse starts giving XANAX?",
+    "choices": {
+      "A": "When anxiety is +1",
+      "B": "When the client starts to have a narrow perceptual field and selective inattentiveness",
+      "C": "When problem solving is not possible",
+      "D": "When the client is immobile and disorganized"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: When the client starts to have a narrow perceptual field and selective inattentiveness"
+  },
+  {
+    "question": "Which of the following behavior is not a sign or a symptom of Anxiety?",
+    "choices": {
+      "A": "Frequent hand movement",
+      "B": "Somatization",
+      "C": "The client asks a question",
+      "D": "The client is acting out"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: The client asks a question"
+  },
+  {
+    "question": "Which of the following intervention is inappropriate for client’s with anxiety?",
+    "choices": {
+      "A": "Offer choices",
+      "B": "Provide a quiet and calm environment",
+      "C": "Provide detailed explanation on each and every procedures and equipments",
+      "D": "Bring anxiety down to a controllable level"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Offer choices"
+  },
+  {
+    "question": "Which of the following statement, if made by the nurse, is considered not therapeutic?",
+    "choices": {
+      "A": "“How did you deal with your anxiety before?”",
+      "B": "“It must be awful to feel anxious.”",
+      "C": "“How does it feel to be anxious?”",
+      "D": "“What makes you feel anxious?”"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: “What makes you feel anxious?”"
+  },
+  {
+    "question": "Marissa Salva, Uses Benson’s relaxation. How is it done?",
+    "choices": {
+      "A": "Systematically tensing muscle groups from top to bottom for 5 seconds, and then releasing them",
+      "B": "Concentrating on breathing without tensing the muscle, Letting go and repeating a word or sound after each exhalation",
+      "C": "Using a strong positive, feeling-rich statement about a desired change",
+      "D": "Exercise combined with meditation to foster relaxation and mental alacrity"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Concentrating on breathing without tensing the muscle, Letting go and repeating a word or sound after each exhalation"
+  },
+  {
+    "question": "What type of relaxation technique does Lyza uses if a machine is showing her pulse rate, temperature and muscle tension which she can visualize and assess?",
+    "choices": {
+      "A": "Biofeedback",
+      "B": "Massage",
+      "C": "Autogenic training",
+      "D": "Visualization and Imagery"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Biofeedback"
+  },
+  {
+    "question": "This is also known as Self-suggestion or Self-hypnosis",
+    "choices": {
+      "A": "Biofeedback",
+      "B": "Meditation",
+      "C": "Autogenic training",
+      "D": "Visualization and Imagery"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Autogenic training"
+  },
+  {
+    "question": "Which among these drugs is NOT an anxiolytic?",
+    "choices": {
+      "A": "Valium",
+      "B": "Ativan",
+      "C": "Milltown",
+      "D": "Luvox"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Luvox"
+  },
+  {
+    "question": "Kenneth, 25 year old diagnosed with HIV felt that he had not lived up with God’s expectation. He fears that in the course of his illness, God will be punitive and not be supportive. What kind of spiritual crisis is Kenneth experiencing?",
+    "choices": {
+      "A": "Spiritual Pain",
+      "B": "Spiritual Anxiety",
+      "C": "Spiritual Guilt",
+      "D": "Spiritual Despair"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Spiritual Anxiety"
+  },
+  {
+    "question": "Grace, believes that her relationship with God is broken. She tried to go to church to ask forgiveness everyday to remedy her feelings. What kind of spiritual distress is Grace experiencing?",
+    "choices": {
+      "A": "Spiritual Pan",
+      "B": "Spiritual Alienation",
+      "C": "Spiritual Guilt",
+      "D": "Spiritual Despair"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Spiritual Alienation"
+  },
+  {
+    "question": "Remedios felt “EMPTY” She felt that she has already lost God’s favor and love because of her sins. This is a type of what spiritual crisis?",
+    "choices": {
+      "A": "Spiritual Anger",
+      "B": "Spiritual Loss",
+      "C": "Spiritual Despair",
+      "D": "Spiritual Anxiety"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Spiritual Loss"
+  },
+  {
+    "question": "Budek is working with a schizophrenic patient. He noticed that the client is agitated, pacing back and forth, restless and experiencing Anxiety +3. Budek said “You appear restless” What therapeutic technique did Budek used?",
+    "choices": {
+      "A": "Offering general leads",
+      "B": "Seeking clarification",
+      "C": "Making observation",
+      "D": "Encouraging description of perception"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Making observation"
+  },
+  {
+    "question": "Rommel told Budek “ I SEE DEAD PEOPLE “ Budek responded “You see dead people?” This Is an example of therapeutic communication technique?",
+    "choices": {
+      "A": "Reflecting",
+      "B": "Restating",
+      "C": "Exploring",
+      "D": "Seeking clarification"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Restating"
+  },
+  {
+    "question": "Rommel told Budek, “Do you think Im crazy?” Budek responded, “Do you think your crazy?” Budek uses what example of therapeutic communication?",
+    "choices": {
+      "A": "Reflecting",
+      "B": "Restating",
+      "C": "Exploring",
+      "D": "Seeking clarification"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Reflecting"
+  },
+  {
+    "question": "Myra, 21 year old nursing student has difficulty sleeping. She told Nurse Budek “I really think a lot about my x boyfriend recently” Budek told Myra “And that causes you difficulty sleeping?” Which therapeutic technique is used in this situation?",
+    "choices": {
+      "A": "Reflecting",
+      "B": "Restating",
+      "C": "Exploring",
+      "D": "Seeking clarification"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Restating"
+  },
+  {
+    "question": "Myra told Budek “I cannot sleep, I stay away all night” Budek told her “You have difficulty sleeping” This is what type of therapeutic communication technique?",
+    "choices": {
+      "A": "Reflecting",
+      "B": "Restating",
+      "C": "Exploring",
+      "D": "Seeking clarification"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Restating"
+  },
+  {
+    "question": "Myra said “I saw my dead grandmother here at my bedside a while ago” Budek responded “Really? That is hard to believe, How do you feel about it?” What technique did Budek used?",
+    "choices": {
+      "A": "Disproving",
+      "B": "Disagreeing",
+      "C": "Voicing Doubt",
+      "D": "Presenting Reality"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Voicing Doubt"
+  },
+  {
+    "question": "Which of the following is a therapeutic communication in response to “I am a GOD, bow before me Or ill summon the dreaded thunder to burn you and purge you to pieces!”",
+    "choices": {
+      "A": "“You are not a GOD, you are Professor Tadle and you are a PE Teacher, not a Nurse. I am Glen, Your nurse.”",
+      "B": "“Oh hail GOD Tadle, everyone bow or face his wrath!”",
+      "C": "“Hello Mr. Tadle, You are here in the hospital, I am your nurse and you are a patient here”",
+      "D": "“How can you be a GOD Mr. Tadle? Can you tell me more about it?”"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: “Hello Mr. Tadle, You are here in the hospital, I am your nurse and you are a patient here”"
+  },
+  {
+    "question": "Erik John Senna, Told Nurse Budek “ I don’t want to that, I don’t want that thing.. that’s too painful!” Which of the following response is NON THERAPEUTIC",
+    "choices": {
+      "A": "“ This must be difficult for you, But I need to inject you this for your own good”",
+      "B": "“ You sound afraid”",
+      "C": "“Are you telling me you don’t want this injection?”",
+      "D": "“Why are you so anxious? Please tell me more about your feelings Erik”"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: “Why are you so anxious? Please tell me more about your feelings Erik”"
+  },
+  {
+    "question": "Legrande De Salvaje Y Cobrador La Jueteng, was caught by the bacolod police because of his illegal activities. When he got home after paying for the bail, He shouted at his son. What defense mechanism did Mr. La Jueteng used?",
+    "choices": {
+      "A": "Restitution",
+      "B": "Projection",
+      "C": "Displacement",
+      "D": "Undoing"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Displacement"
+  },
+  {
+    "question": "Later that day, he bought his son ice cream and food. What defense mechanism is Legrande unconsciously doing?",
+    "choices": {
+      "A": "Restitution",
+      "B": "Conversion",
+      "C": "Redoing",
+      "D": "Reaction formation"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Restitution"
+  },
+  {
+    "question": "Crisis is a sudden event in ones life that disturbs a person’s homeostasis. Which of the following is NOT TRUE in crisis?",
+    "choices": {
+      "A": "The person experiences heightened feeling of stress",
+      "B": "Inability to function in the usual organized manner",
+      "C": "Lasts for 4 months",
+      "D": "Indicates unpleasant emotional feelings"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Lasts for 4 months"
+  },
+  {
+    "question": "Which of the following is a characteristic of crisis?",
+    "choices": {
+      "A": "Lasts for an unlimited period of time",
+      "B": "There is a triggering event",
+      "C": "Situation is not dangerous to the person",
+      "D": "Person totality is not involved"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: There is a triggering event"
+  },
+  {
+    "question": "Levito Devin, The Italian prime minister, is due to retire next week. He feels depressed due to the enormous loss of influence, power, fame and fortune. What type of crisis is Devin experiencing?",
+    "choices": {
+      "A": "Situational",
+      "B": "Maturational",
+      "C": "Social",
+      "D": "Phenomenal"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Maturational"
+  },
+  {
+    "question": "Estrada, The Philippine president, has been unexpectedly impeached and was out of office before the end of his term. He is in what type of crisis?",
+    "choices": {
+      "A": "Situational",
+      "B": "Maturational",
+      "C": "Social",
+      "D": "Phenomenal"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Situational"
+  },
+  {
+    "question": "The tsunami in Thailand and Indonesia took thousands of people and change million lives. The people affected by the Tsunami are saddened and do not know how to start all over again. What type of crisis is this?",
+    "choices": {
+      "A": "Situational",
+      "B": "Maturational",
+      "C": "Social",
+      "D": "Phenomenal"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Social"
+  },
+  {
+    "question": "Which of the following is the BEST goal for crisis intervention?",
+    "choices": {
+      "A": "Bring back the client in the pre crisis state",
+      "B": "Make sure that the client becomes better",
+      "C": "Achieve independence",
+      "D": "Provide alternate coping mechanism"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Provide alternate coping mechanism"
+  },
+  {
+    "question": "What is the best intervention when the client has just experienced the crisis and still at the first phase of the crisis?",
+    "choices": {
+      "A": "Behavior therapy",
+      "B": "Gestalt therapy",
+      "C": "Cognitive therapy",
+      "D": "Milieu Therapy"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Milieu Therapy"
+  },
+  {
+    "question": "Therapeutic nurse client relationship is describes as follows",
+    "choices": {
+      "A": "Based on friendship and mutual interest",
+      "B": "It is a professional relationship",
+      "C": "It is focused on helping the patient solve problems and achieve health-related goals",
+      "D": "Maintained only as long as the patient requires professional helpA. 1,2,3"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: It is focused on helping the patient solve problems and achieve health-related goals"
+  },
+  {
+    "question": "The client is scheduled to have surgical removal of the tumor on her left breast. Which of the following manifestation indicates that she is experiencing Mild Anxiety?",
+    "choices": {
+      "A": "She has increased awareness of her environmental details",
+      "B": "She focused on selected aspect of her illness",
+      "C": "She experiences incongruence of action, thoughts and feelings",
+      "D": "She experiences random motor activities"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: She has increased awareness of her environmental details"
+  },
+  {
+    "question": "Which of the following nursing intervention would least likely be effective when dealing with a client with aggressive behavior?",
+    "choices": {
+      "A": "Approach him in a calm manner",
+      "B": "Provide opportunities to express feelings",
+      "C": "Maintain eye contact with the client",
+      "D": "Isolate the client from others"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Provide opportunities to express feelings"
+  },
+  {
+    "question": "Whitney, a patient of nurse Budek, verbalizes… “I have nothing, nothing… nothing! Don’t make me close one more door, I don’t wanna hurt anymore!” Which of the following is the most appropriate response by Budek?",
+    "choices": {
+      "A": "Why are you singing?",
+      "B": "What makes you say that?",
+      "C": "Ofcourse you are everything!",
+      "D": "What is that you said?"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: What is that you said?"
+  },
+  {
+    "question": "Whitney verbalizes that she is anxious that the diagnostic test might reveal laryngeal cancer. Which of the following is the most appropriate nursing intervention?",
+    "choices": {
+      "A": "Tell the client not to worry until the results are in",
+      "B": "Ask the client to express feelings and concern",
+      "C": "Reassure the client everything will be alright",
+      "D": "Advice the client to divert his attention by watching television and reading newspapers"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Ask the client to express feelings and concern"
+  },
+  {
+    "question": "Considered as the most accurate expression of person’s thought and feelings",
+    "choices": {
+      "A": "Verbal communication",
+      "B": "Non verbal communication",
+      "C": "Written communication",
+      "D": "Oral communication"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Non verbal communication"
+  },
+  {
+    "question": "Represents inner feeling that a person do not like talking about.",
+    "choices": {
+      "A": "Overt communication",
+      "B": "Covert communication",
+      "C": "Verbal communication",
+      "D": "Non verbal communication"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Covert communication"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of an effective Nurse-Client relationship?",
+    "choices": {
+      "A": "Focused on the patient",
+      "B": "Based on mutual trust",
+      "C": "Conveys acceptance",
+      "D": "Discourages emotional bond"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Discourages emotional bond"
+  },
+  {
+    "question": "A type of record wherein , each person or department makes notation in separate records. A nurse will use the nursing notes, The doctor will use the Physician’s order sheet etc. Data is arranged according to information source.",
+    "choices": {
+      "A": "POMR",
+      "B": "POR",
+      "C": "Traditional",
+      "D": "Resource oriented"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Resource oriented"
+  },
+  {
+    "question": "Type of recording that integrates all data about the problem, gathered by members of the health team.",
+    "choices": {
+      "A": "POMR",
+      "B": "Traditional",
+      "C": "Resource oriented",
+      "D": "Source oriented"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: POMR"
+  },
+  {
+    "question": "These are data that are monitored by using graphic charts or graphs that indicated the progression or fluctuation of client’s Temperature and Blood pressure.",
+    "choices": {
+      "A": "Progress notes",
+      "B": "Kardex",
+      "C": "Flow chart",
+      "D": "Flow sheet"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Flow sheet"
+  },
+  {
+    "question": "Provides a concise method of organizing and recording data about the client. It is a series of flip cards kept in portable file used in change of shift reports.",
+    "choices": {
+      "A": "Kardex",
+      "B": "Progress Notes",
+      "C": "SOAPIE",
+      "D": "Change of shift report"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Kardex"
+  },
+  {
+    "question": "You are about to write an information on the Kardex. There are 4 available writing instruments to use. Which of the following should you use?",
+    "choices": {
+      "A": "Mongol #2",
+      "B": "Permanent Ink",
+      "C": "A felt or fountain pen",
+      "D": "Pilot Pentel Pen marker"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Mongol #2"
+  },
+  {
+    "question": "The client has an allergy to Iodine based dye. Where should you put this vital information in the client’s chart?",
+    "choices": {
+      "A": "In the first page of the client’s chart",
+      "B": "At the last page of the client’s chart",
+      "C": "At the front metal plate of the chart",
+      "D": "In the Kardex"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: At the front metal plate of the chart"
+  },
+  {
+    "question": "Which of the following is NOT TRUE about the Kardex",
+    "choices": {
+      "A": "It provides readily available information",
+      "B": "It is a tool of end of shift reports",
+      "C": "The primary basis of endorsement",
+      "D": "Where Allergies information are written"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: The primary basis of endorsement"
+  },
+  {
+    "question": "Which of the following, if seen on the Nurses notes, violates characteristic of good recording?",
+    "choices": {
+      "A": "The client has a blood pressure of 120/80, Temperature of 36.6 C Pulse rate of 120 and Respiratory rate of 22",
+      "B": "Ate 50% of food served",
+      "C": "Refused administration of betaxolol",
+      "D": "Visited and seen By Dr. Santiago"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: The client has a blood pressure of 120/80, Temperature of 36.6 C Pulse rate of 120 and Respiratory rate of 22"
+  },
+  {
+    "question": "The physician ordered : Mannerix a.c , what does a.c means?",
+    "choices": {
+      "A": "As desired",
+      "B": "Before meals",
+      "C": "After meals",
+      "D": "Before bed time"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Before meals"
+  },
+  {
+    "question": "The physician ordered, Maalox, 2 hours p.c, what does p.c means?",
+    "choices": {
+      "A": "As desired",
+      "B": "Before meals",
+      "C": "After meals",
+      "D": "Before bed time"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: After meals"
+  },
+  {
+    "question": "The physician ordered, Maxitrol, Od. What does Od means?",
+    "choices": {
+      "A": "Left eye",
+      "B": "Right eye",
+      "C": "Both eye",
+      "D": "Once a day"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Once a day"
+  },
+  {
+    "question": "The physician orderd, Magnesium Hydroxide cc Aluminum Hydroxide. What does cc means?",
+    "choices": {
+      "A": "without",
+      "B": "with",
+      "C": "one half",
+      "D": "With one half dose"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: with"
+  },
+  {
+    "question": "Physician ordered, Paracetamol tablet ss. What does ss means?",
+    "choices": {
+      "A": "without",
+      "B": "with",
+      "C": "one half",
+      "D": "With one half dose"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: one half"
+  },
+  {
+    "question": "Which of the following indicates that learning has been achieved?",
+    "choices": {
+      "A": "Matuts starts exercising every morning and eating a balance diet after you taught her mag HL tayo program",
+      "B": "Donya Delilah has been able to repeat the steps of insulin administration after you taught it to her",
+      "C": "Marsha said “ I understand “ after you a health teaching about family planning",
+      "D": "John rated 100% on your given quiz about smoking and alcoholism"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Matuts starts exercising every morning and eating a balance diet after you taught her mag HL tayo program"
+  },
+  {
+    "question": "In his theory of learning as a BEHAVIORISM, he stated that transfer of knowledge occurs if a new situation closely resembles an old one.",
+    "choices": {
+      "A": "Bloom",
+      "B": "Lewin",
+      "C": "Thorndike",
+      "D": "Skinner"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Thorndike"
+  },
+  {
+    "question": "Which of the following is TRUE with regards to learning?",
+    "choices": {
+      "A": "Start from complex to simple",
+      "B": "Goals should be hard to achieve so patient can strive to attain unrealistic goals",
+      "C": "Visual learning is the best for every individual",
+      "D": "Do not teach a client when he is in pain"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Do not teach a client when he is in pain"
+  },
+  {
+    "question": "According to Bloom, there are 3 domains in learning. Which of these domains is responsible for the ability of Donya Delilah to inject insulin?",
+    "choices": {
+      "A": "Cognitive",
+      "B": "Affective",
+      "C": "Psychomotor",
+      "D": "Motivative"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Psychomotor"
+  },
+  {
+    "question": "Which domains of learning is responsible for making John and Marsha understand the different kinds of family planning methods?",
+    "choices": {
+      "A": "Cognitive",
+      "B": "Affective",
+      "C": "Psychomotor",
+      "D": "Motivative"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Cognitive"
+  },
+  {
+    "question": "Which of the following statement clearly defines therapeutic communication?",
+    "choices": {
+      "A": "Therapeutic communication is an interaction process which is primarily directed by the nurse",
+      "B": "It conveys feeling of warmth, acceptance and empathy from the nurse to a patient in relaxed atmosphere",
+      "C": "Therapeutic communication is a reciprocal interaction based on trust and aimed at identifying patient needs and developing mutual goals",
+      "D": "Therapeutic communication is an assessment component of the nursing process"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Therapeutic communication is a reciprocal interaction based on trust and aimed at identifying patient needs and developing mutual goals"
+  },
+  {
+    "question": "Which of the following concept is most important in establishing a therapeutic nurse patient relationship?",
+    "choices": {
+      "A": "The nurse must fully understand the patient’s feelings, perception and reactions before goals can be established",
+      "B": "The nurse must be a role model for health fostering behavior",
+      "C": "The nurse must recognize that the patient may manifest maladaptive behavior after illness",
+      "D": "The nurse should understand that patients might test her before trust is established"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: The nurse should understand that patients might test her before trust is established"
+  },
+  {
+    "question": "Which of the following communication skill is most effective in dealing with covert communication?",
+    "choices": {
+      "A": "Validation",
+      "B": "Listening",
+      "C": "Evaluation",
+      "D": "Clarification"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Validation"
+  },
+  {
+    "question": "Which of the following are qualities of a good recording?",
+    "choices": {
+      "A": "Brevity",
+      "B": "Completeness and chronology",
+      "C": "Appropriateness",
+      "D": "Accuracy"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Accuracy"
+  },
+  {
+    "question": "All of the following chart entries are correct except",
+    "choices": {
+      "A": "V/S 36.8 C,80,16,120/80",
+      "B": "Complained of chest pain",
+      "C": "Seems agitated",
+      "D": "Able to ambulate without assistance"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Seems agitated"
+  },
+  {
+    "question": "Which of the following teaching method is effective in client who needs to be educated about self injection of insulin?",
+    "choices": {
+      "A": "Detailed explanation",
+      "B": "Demonstration",
+      "C": "Use of pamphlets",
+      "D": "Film showing"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Demonstration"
+  },
+  {
+    "question": "What is the most important characteristic of a nurse patient relationship?",
+    "choices": {
+      "A": "It is growth facilitating",
+      "B": "Based on mutual understanding",
+      "C": "Fosters hope and confidence",
+      "D": "Involves primarily emotional bond"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: It is growth facilitating"
+  },
+  {
+    "question": "Which of the following nursing intervention is needed before teaching a client post spleenectomy deep breathing and coughing exercises?",
+    "choices": {
+      "A": "Tell the patient that deep breathing and coughing exercises is needed to promote good breathing, circulation and prevent complication",
+      "B": "Tell the client that deep breathing and coughing exercises is needed to prevent Thrombophlebitis, hydrostatic pneumonia and atelectasis",
+      "C": "Medicate client for pain",
+      "D": "Tell client that cooperation is vital to improve recovery"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Tell the patient that deep breathing and coughing exercises is needed to promote good breathing, circulation and prevent complication"
+  },
+  {
+    "question": "The client has an allergy with penicillin. What is the best way to communicate this information?",
+    "choices": {
+      "A": "Place an allergy alert in the Kardex",
+      "B": "Notify the attending physician",
+      "C": "Write it on the patient’s chart",
+      "D": "Take note when giving medications"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Notify the attending physician"
+  },
+  {
+    "question": "An adult client is on extreme pain. He is moaning and grimacing. What is the best way to assess the client’s pain?",
+    "choices": {
+      "A": "Perform physical assessment",
+      "B": "Have the client rate his pain on the smiley pain rating scale",
+      "C": "Active listening on what the patient says",
+      "D": "Observe the client’s behavior"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Active listening on what the patient says"
+  },
+  {
+    "question": "Therapeutic communication begins with?",
+    "choices": {
+      "A": "Knowing your client",
+      "B": "Knowing yourself",
+      "C": "Showing empathy",
+      "D": "Encoding"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Knowing yourself"
+  },
+  {
+    "question": "The PCS gave new guidelines including leaflets to educate cancer patients. As a nurse, When using materials like this, what is your responsibility?",
+    "choices": {
+      "A": "Read it for the patient",
+      "B": "Give it for the patient to read himself",
+      "C": "Let the family member read the material for the patient",
+      "D": "Read it yourself then, Have the client read the material"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Read it yourself then, Have the client read the material"
+  }
+]

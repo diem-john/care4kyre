@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "As a registered nurse, Arthur knew that the first thing that he will do at the scene is",
+    "choices": {
+      "A": "Stay with the person, Encourage her to remain still and Immobilize the leg while While waiting for the ambulance.",
+      "B": "Leave the person for a few moments to call for help.",
+      "C": "Reduce the fracture manually.",
+      "D": "Move the person to a safer place."
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Move the person to a safer place."
+  },
+  {
+    "question": "Arthur suspects a hip fracture when he noticed that the old woman’s leg is",
+    "choices": {
+      "A": "A. Lengthened, Abducted and Internally Rotated.",
+      "B": "Shortened, Abducted and Externally Rotated.",
+      "C": "Shortened, Adducted and Internally Rotated.",
+      "D": "Shortened, Adducted and Externally Rotated."
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Shortened, Adducted and Externally Rotated."
+  },
+  {
+    "question": "The old woman complains of pain. John noticed that the knee is reddened, warm to touch and swollen. John interprets that this signs and symptoms are likely related to",
+    "choices": {
+      "A": "Infection",
+      "B": "Thrombophlebitis",
+      "C": "Inflammation",
+      "D": "Degenerative disease"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Inflammation"
+  },
+  {
+    "question": "The old woman told John that she has osteoporosis; Arthur knew that all of the following factors would contribute to osteoporosis except",
+    "choices": {
+      "A": "Hypothyroidism",
+      "B": "End stage renal disease",
+      "C": "Cushing’s Disease",
+      "D": "Taking Furosemide and Phenytoin."
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Hypothyroidism"
+  },
+  {
+    "question": "Martha, The old woman was now Immobilized and brought to the emergency room. The X-ray shows a fractured femur and pelvis. The ER Nurse would carefully monitor Martha for which of the following sign and symptoms?",
+    "choices": {
+      "A": "Tachycardia and Hypotension",
+      "B": "Fever and Bradycardia",
+      "C": "Bradycardia and Hypertension",
+      "D": "Fever and Hypertension"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Tachycardia and Hypotension"
+  },
+  {
+    "question": "As a nurse, you instructed Mr. Rojas how to use a cane. Mr. Rojas has a weakness on his right leg due to self immobilization and guarding. You plan to teach Mr. Rojas to hold the cane",
+    "choices": {
+      "A": "On his left hand, because his right side is weak.",
+      "B": "On his left hand, because of reciprocal motion.",
+      "C": "On his right hand, to support the right leg.",
+      "D": "On his right hand, because only his right leg is weak."
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: On his left hand, because of reciprocal motion."
+  },
+  {
+    "question": "You also told Mr. Rojas to hold the cane",
+    "choices": {
+      "A": "1 Inches in front of the foot.",
+      "B": "3 Inches at the lateral side of the foot.",
+      "C": "6 Inches at the lateral side of the foot.",
+      "D": "12 Inches at the lateral side of the foot."
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: 1 Inches in front of the foot."
+  },
+  {
+    "question": "Mr. Rojas was discharged and 6 months later, he came back to the emergency room of the hospital because he suffered a mild stroke. The right side of the brain was affected. At the rehabilitative phase of your nursing care, you observe Mr. Rojas use a cane and you intervene if you see him",
+    "choices": {
+      "A": "Moves the cane when the right leg is moved.",
+      "B": "Leans on the cane when the right leg swings through.",
+      "C": "keeps the cane 6 Inches out to the side of the right foot.",
+      "D": "Holds the cane on the right side."
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Moves the cane when the right leg is moved."
+  },
+  {
+    "question": "The nurse performs a Mantoux Test. The nurse knows that Mantoux Test is also known as",
+    "choices": {
+      "A": "PPD",
+      "B": "PDP",
+      "C": "PDD",
+      "D": "DPP"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: PDD"
+  },
+  {
+    "question": "The nurse would inject the solution in what route?",
+    "choices": {
+      "A": "IM",
+      "B": "IV",
+      "C": "ID",
+      "D": "SC"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: SC"
+  },
+  {
+    "question": "The nurse notes that a positive result for Alfred is",
+    "choices": {
+      "A": "5 mm wheal",
+      "B": "5 mm Induration",
+      "C": "10 mm Wheal",
+      "D": "10 mm Induration"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: 5 mm Induration"
+  },
+  {
+    "question": "The nurse told Alfred to come back after",
+    "choices": {
+      "A": "a week",
+      "B": "48 hours",
+      "C": "1 day",
+      "D": "4 days"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: a week"
+  },
+  {
+    "question": "Mang Alfred returns after the Mantoux Test. The test result read POSITIVE. What should be the nurse’s next action?",
+    "choices": {
+      "A": "Call the Physician",
+      "B": "Notify the radiology dept. for CXR evaluation",
+      "C": "Isolate the patient",
+      "D": "Order for a sputum exam"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Order for a sputum exam"
+  },
+  {
+    "question": "Why is Mantoux test not routinely done in the Philippines?",
+    "choices": {
+      "A": "It requires a highly skilled nurse to perform a Mantoux test",
+      "B": "The sputum culture is the gold standard of PTB Diagnosis and it will definitively determine the extent of the cavitary lesions",
+      "C": "Chest X Ray Can diagnose the specific microorganism responsible for the lesions",
+      "D": "Almost all Filipinos will test positive for Mantoux Test"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: It requires a highly skilled nurse to perform a Mantoux test"
+  },
+  {
+    "question": "Mang Alfred is now a new TB patient with an active disease. What is his category according to the DOH?",
+    "choices": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: III"
+  },
+  {
+    "question": "How long is the duration of the maintenance phase of his treatment?",
+    "choices": {
+      "A": "2 months",
+      "B": "3 months",
+      "C": "4 months",
+      "D": "5 months"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 4 months"
+  },
+  {
+    "question": "Which of the following drugs is UNLIKELY given to Mang Alfred during the maintenance phase?",
+    "choices": {
+      "A": "Rifampicin",
+      "B": "Isoniazid",
+      "C": "Ethambutol",
+      "D": "Pyridoxine"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Rifampicin"
+  },
+  {
+    "question": "According to the DOH, the most hazardous period for development of clinical disease is during the first",
+    "choices": {
+      "A": "6-12 months after",
+      "B": "3-6 months after",
+      "C": "1-2 months after",
+      "D": "2-4 weeks after"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: 3-6 months after"
+  },
+  {
+    "question": "This is the name of the program of the DOH to control TB in the country",
+    "choices": {
+      "A": "DOTS",
+      "B": "National Tuberculosis Control Program",
+      "C": "Short Coursed Chemotherapy",
+      "D": "Expanded Program for Immunization"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: DOTS"
+  },
+  {
+    "question": "Susceptibility for the disease [ TB ] is increased markedly in those with the following condition except",
+    "choices": {
+      "A": "23 Year old athlete with diabetes insipidus",
+      "B": "23 Year old athlete taking long term Decadron therapy and anabolic steroids",
+      "C": "23 Year old athlete taking illegal drugs and abusing substances",
+      "D": "Undernourished and Underweight individual who undergone gastrectomy"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: 23 Year old athlete taking long term Decadron therapy and anabolic steroids"
+  },
+  {
+    "question": "Direct sputum examination and Chest X ray of TB symptomatic is in what level of prevention?",
+    "choices": {
+      "A": "Primary",
+      "B": "Secondary",
+      "C": "Tertiary",
+      "D": "Quarterly"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Secondary"
+  },
+  {
+    "question": "Michiel shows the BEST adaptation with the new colostomy if he shows which of the following?",
+    "choices": {
+      "A": "Look at the ostomy site",
+      "B": "Participate with the nurse in his daily ostomy care",
+      "C": "Ask for leaflets and contact numbers of ostomy support groups",
+      "D": "Talk about his ostomy openly to the nurse and friends"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Look at the ostomy site"
+  },
+  {
+    "question": "The nurse plans to teach Michiel about colostomy irrigation. As the nurse prepares the materials needed, which of the following item indicates that the nurse needs further instruction?",
+    "choices": {
+      "A": "Plain NSS / Normal Saline",
+      "B": "K-Y Jelly",
+      "C": "Tap water",
+      "D": "Irrigation sleeve"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: K-Y Jelly"
+  },
+  {
+    "question": "The nurse should insert the colostomy tube for irrigation at approximately",
+    "choices": {
+      "A": "1-2 inches",
+      "B": "3-4 inches",
+      "C": "6-8 inches",
+      "D": "12-18 inches"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 6-8 inches"
+  },
+  {
+    "question": "The maximum height of irrigation solution for colostomy is",
+    "choices": {
+      "A": "5 inches",
+      "B": "12 inches",
+      "C": "18 inches",
+      "D": "24 inches"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 18 inches"
+  },
+  {
+    "question": "Which of the following behavior of the client indicates the best initial step in learning to care for his colostomy?",
+    "choices": {
+      "A": "Ask to defer colostomy care to another individual",
+      "B": "Promises he will begin to listen the next day",
+      "C": "Agrees to look at the colostomy",
+      "D": "States that colostomy care is the function of the nurse while he is in the hospital"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Ask to defer colostomy care to another individual"
+  },
+  {
+    "question": "While irrigating the client’s colostomy, Michiel suddenly complains of severe cramping. Initially, the nurse would",
+    "choices": {
+      "A": "Stop the irrigation by clamping the tube",
+      "B": "Slow down the irrigation",
+      "C": "Tell the client that cramping will subside and is normal",
+      "D": "Notify the physician"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Notify the physician"
+  },
+  {
+    "question": "The next day, the nurse will assess Michiel’s stoma. The nurse noticed that a prolapsed stoma is evident if she sees which of the following?",
+    "choices": {
+      "A": "A sunken and hidden stoma",
+      "B": "A dusky and bluish stoma",
+      "C": "A narrow and flattened stoma",
+      "D": "Protruding stoma with swollen appearance"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: A narrow and flattened stoma"
+  },
+  {
+    "question": "Michiel asked the nurse, what foods will help lessen the odor of his colostomy. The nurse best response would be",
+    "choices": {
+      "A": "Eat eggs",
+      "B": "Eat cucumbers",
+      "C": "Eat beet greens and parsley",
+      "D": "Eat broccoli and spinach"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Eat cucumbers"
+  },
+  {
+    "question": "The nurse will start to teach Michiel about the techniques for colostomy irrigation. Which of the following should be included in the nurse’s teaching plan?",
+    "choices": {
+      "A": "Use 500 ml to 1,000 ml NSS",
+      "B": "Suspend the irrigant 45 cm above the stoma",
+      "C": "Insert the cone 4 cm in the stoma",
+      "D": "If cramping occurs, slow the irrigation"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Use 500 ml to 1,000 ml NSS"
+  },
+  {
+    "question": "The nurse knew that the normal color of Michiel’s stoma should be",
+    "choices": {
+      "A": "Brick Red",
+      "B": "Gray",
+      "C": "Blue",
+      "D": "Pale Pink"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Pale Pink"
+  },
+  {
+    "question": "Wilma, His sister and a nurse is suctioning the tracheostomy tube of James. Which of the following, if made by Wilma indicates that she is committing an error?",
+    "choices": {
+      "A": "Hyperventilating James with 100% oxygen before and after suctioning",
+      "B": "Instilling 3 to 5 ml normal saline to loosen up secretion",
+      "C": "Applying suction during catheter withdrawal",
+      "D": "Suction the client every hour"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Suction the client every hour"
+  },
+  {
+    "question": "What size of suction catheter would Wilma use for James, who is 6 feet 5 inches in height and weighing approximately 145 lbs?",
+    "choices": {
+      "A": "Fr. 5",
+      "B": "Fr. 10",
+      "C": "Fr. 12",
+      "D": "Fr. 18"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Fr. 12"
+  },
+  {
+    "question": "Wilma is using a portable suction unit at home, What is the amount of suction required by James using this unit?",
+    "choices": {
+      "A": "2-5 mmHg",
+      "B": "5-10 mmHg",
+      "C": "10-15 mmHg",
+      "D": "20-25 mmHg"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 10-15 mmHg"
+  },
+  {
+    "question": "If a Wall unit is used, What should be the suctioning pressure required by James?",
+    "choices": {
+      "A": "50-95 mmHg",
+      "B": "95-110 mmHg",
+      "C": "100-120 mmHg",
+      "D": "155-175 mmHg"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: 100-120 mmHg"
+  },
+  {
+    "question": "Wilma was shocked to see that the Tracheostomy was dislodged. Both the inner and outer cannulas was removed and left hanging on James’ neck. What are the 2 equipment’s at james’ bedside that could help Wilma deal with this situation?",
+    "choices": {
+      "A": "New set of tracheostomy tubes and Oxygen tank",
+      "B": "Theophylline and Epinephrine",
+      "C": "Obturator and Kelly clamp",
+      "D": "Sterile saline dressing"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: New set of tracheostomy tubes and Oxygen tank"
+  },
+  {
+    "question": "Which of the following method if used by Wilma will best assure that the tracheostomy ties are not too tightly placed?",
+    "choices": {
+      "A": "Wilma places 2 fingers between the tie and neck",
+      "B": "The tracheotomy can be pulled slightly away from the neck",
+      "C": "James’ neck veins are not engorged",
+      "D": "Wilma measures the tie from the nose to the tip of the earlobe and to the xiphoid process."
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Wilma places 2 fingers between the tie and neck"
+  },
+  {
+    "question": "Wilma knew that James have an adequate respiratory condition if she notices that",
+    "choices": {
+      "A": "James’ respiratory rate is 18",
+      "B": "James’ Oxygen saturation is 91%",
+      "C": "There are frank blood suction from the tube",
+      "D": "There are moderate amount of tracheobronchial secretions"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: James’ respiratory rate is 18"
+  },
+  {
+    "question": "Wilma knew that the maximum time when suctioning James is",
+    "choices": {
+      "A": "10 seconds",
+      "B": "20 seconds",
+      "C": "30 seconds",
+      "D": "45 seconds"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: 45 seconds"
+  },
+  {
+    "question": "What specific manifestation would nurse Jet see in Acute close angle glaucoma that she would not see in an open angle glaucoma?",
+    "choices": {
+      "A": "Loss of peripheral vision",
+      "B": "Irreversible vision loss",
+      "C": "There is an increase in IOP",
+      "D": "Pain"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Loss of peripheral vision"
+  },
+  {
+    "question": "Nurse jet knew that Acute close angle glaucoma is caused by",
+    "choices": {
+      "A": "Sudden blockage of the anterior angle by the base of the iris",
+      "B": "Obstruction in trabecular meshwork",
+      "C": "Gradual increase of IOP",
+      "D": "An abrupt rise in IOP from 8 to 15 mmHg"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Obstruction in trabecular meshwork"
+  },
+  {
+    "question": "Nurse jet performed a TONOMETRY test to Mr. Batumbakal. What does this test measures",
+    "choices": {
+      "A": "It measures the peripheral vision remaining on the client",
+      "B": "Measures the Intra Ocular Pressure",
+      "C": "Measures the Client’s Visual Acuity",
+      "D": "Determines the Tone of the eye in response to the sudden increase in IOP."
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Determines the Tone of the eye in response to the sudden increase in IOP."
+  },
+  {
+    "question": "The Nurse notices that Mr. Batumbakal cannot anymore determine RED from BLUE. The nurse knew that which part of the eye is affected by this change?",
+    "choices": {
+      "A": "IRIS",
+      "B": "PUPIL",
+      "C": "RODS [RETINA]",
+      "D": "CONES [RETINA]"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: CONES [RETINA]"
+  },
+  {
+    "question": "Nurse Jet knows that Aqueous Humor is produce where?",
+    "choices": {
+      "A": "In the sub arachnoid space of the meninges",
+      "B": "In the Lateral ventricles",
+      "C": "In the Choroids",
+      "D": "In the Ciliary Body"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: In the sub arachnoid space of the meninges"
+  },
+  {
+    "question": "Nurse Jet knows that the normal IOP is",
+    "choices": {
+      "A": "8-21 mmHg",
+      "B": "2-7 mmHg",
+      "C": "31-35 mmHg",
+      "D": "15-30 mmHg"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: 2-7 mmHg"
+  },
+  {
+    "question": "Nurse Jet wants to measure Mr. Batumbakal’s CN II Function. What test would Nurse Jet implement to measure CN II’s Acuity?",
+    "choices": {
+      "A": "Slit lamp",
+      "B": "Snellen’s Chart",
+      "C": "Wood’s light",
+      "D": "Gonioscopy"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Slit lamp"
+  },
+  {
+    "question": "The Doctor orders pilocarpine. Nurse jet knows that the action of this drug is to",
+    "choices": {
+      "A": "Contract the Ciliary muscle",
+      "B": "Relax the Ciliary muscle",
+      "C": "Dilate the pupils",
+      "D": "Decrease production of Aqueous Humor"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Relax the Ciliary muscle"
+  },
+  {
+    "question": "The doctor orders timolol [timoptic]. Nurse jet knows that the action of this drug is",
+    "choices": {
+      "A": "Reduce production of CSF",
+      "B": "Reduce production of Aquesous Humor",
+      "C": "Constrict the pupil",
+      "D": "Relaxes the Ciliary muscle"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Reduce production of Aquesous Humor"
+  },
+  {
+    "question": "When caring for Mr. Batumbakal, Jet teaches the client to avoid",
+    "choices": {
+      "A": "Watching large screen TVs",
+      "B": "Bending at the waist",
+      "C": "Reading books",
+      "D": "Going out in the sun"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Watching large screen TVs"
+  },
+  {
+    "question": "Mr. Batumbakal has undergone eye angiography using an Intravenous dye and fluoroscopy. What activity is contraindicated immediately after procedure?",
+    "choices": {
+      "A": "Reading newsprint",
+      "B": "Lying down",
+      "C": "Watching TV",
+      "D": "Listening to the music"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Reading newsprint"
+  },
+  {
+    "question": "If Mr. Batumbakal is receiving pilocarpine, what drug should always be available in any case systemic toxicity occurs?",
+    "choices": {
+      "A": "Atropine Sulfate",
+      "B": "Pindolol [Visken]",
+      "C": "Naloxone Hydrochloride [Narcan]",
+      "D": "Mesoridazine Besylate [Serentil]"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Naloxone Hydrochloride [Narcan]"
+  },
+  {
+    "question": "Nurse Anna is doing a caloric testing to his patient, Aida, a 55 year old university professor who recently went into coma after being mauled by her disgruntled 3rd year nursing students whom she gave a failing mark. After instilling a warm water in the ear, Anna noticed a rotary nystagmus towards the irrigated ear. What does this means?",
+    "choices": {
+      "A": "Indicates a CN VIII Dysfunction",
+      "B": "Abnormal",
+      "C": "Normal",
+      "D": "Inconclusive"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Abnormal"
+  },
+  {
+    "question": "Ear drops are prescribed to an infant, The most appropriate method to administer the ear drops is",
+    "choices": {
+      "A": "Pull the pinna up and back and direct the solution towards the eardrum",
+      "B": "Pull the pinna down and back and direct the solution onto the wall of the canal",
+      "C": "Pull the pinna down and back and direct the solution towards the eardrum",
+      "D": "Pull the pinna up and back and direct the solution onto the wall of the canal"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Pull the pinna up and back and direct the solution onto the wall of the canal"
+  },
+  {
+    "question": "Nurse Jenny is developing a plan of care for a patient with Menieres disease. What is the priority nursing intervention in the plan of care for this particular patient?",
+    "choices": {
+      "A": "Air, Breathing, Circulation",
+      "B": "Love and Belongingness",
+      "C": "Food, Diet and Nutrition",
+      "D": "Safety"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Food, Diet and Nutrition"
+  },
+  {
+    "question": "After mastoidectomy, Nurse John should be aware that the cranial nerve that is usually damage after this procedure is",
+    "choices": {
+      "A": "CN I",
+      "B": "CN II",
+      "C": "CN VII",
+      "D": "CN VI"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: CN VII"
+  },
+  {
+    "question": "The physician orders the following for the client with Menieres disease. Which of the following should the nurse question?",
+    "choices": {
+      "A": "Dipenhydramine [Benadryl]",
+      "B": "Atropine sulfate",
+      "C": "Out of bed activities and ambulation",
+      "D": "Diazepam [Valium]"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Dipenhydramine [Benadryl]"
+  },
+  {
+    "question": "Nurse Anna is giving dietary instruction to a client with Menieres disease. Which statement if made by the client indicates that the teaching has been successful?",
+    "choices": {
+      "A": "I will try to eat foods that are low in sodium and limit my fluid intake",
+      "B": "I must drink atleast 3,000 ml of fluids per day",
+      "C": "I will try to follow a 50% carbohydrate, 30% fat and 20% protein diet",
+      "D": "I will not eat turnips, red meat and raddish"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: I will try to eat foods that are low in sodium and limit my fluid intake"
+  },
+  {
+    "question": "Peachy was rushed by his father, Steven into the hospital admission. Peachy is complaining of something buzzing into her ears. Nurse Joemar assessed peachy and found out It was an insect. What should be the first thing that Nurse Joemar should try to remove the insect out from peachy’s ear?",
+    "choices": {
+      "A": "Use a flashlight to coax the insect out of peachy’s ear",
+      "B": "Instill an antibiotic ear drops",
+      "C": "Irrigate the ear",
+      "D": "Pick out the insect using a sterile clean forceps"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Pick out the insect using a sterile clean forceps"
+  },
+  {
+    "question": "Following an ear surgery, which statement if heard by Nurse Oca from the patient indicates a correct understanding of the post operative instructions?",
+    "choices": {
+      "A": "Activities are resumed within 5 days",
+      "B": "I will make sure that I will clean my hair and face to prevent infection",
+      "C": "I will use straw for drinking",
+      "D": "I should avoid air travel for a while"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: I should avoid air travel for a while"
+  },
+  {
+    "question": "Nurse Oca will do a caloric testing to a client who sustained a blunt injury in the head. He instilled a cold water in the client’s right ear and he noticed that nystagmus occurred towards the left ear. What does this finding indicates?",
+    "choices": {
+      "A": "Indicating a Cranial Nerve VIII Dysfunction",
+      "B": "The test should be repeated again because the result is vague",
+      "C": "This is Grossly abnormal and should be reported to the neurosurgeon",
+      "D": "This indicates an intact and working vestibular branch of CN VIII"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: The test should be repeated again because the result is vague"
+  },
+  {
+    "question": "A client with Cataract is about to undergo surgery. Nurse Oca is preparing plan of care. Which of the following nursing diagnosis is most appropriate to address the long term need of this type of patient?",
+    "choices": {
+      "A": "Anxiety R/T to the operation and its outcome",
+      "B": "Sensory perceptual alteration R/T Lens extraction and replacement",
+      "C": "Knowledge deficit R/T the pre operative and post operative self care",
+      "D": "Body Image disturbance R/T the eye packing after surgery"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Knowledge deficit R/T the pre operative and post operative self care"
+  },
+  {
+    "question": "Nurse Joseph is performing a WEBERS TEST. He placed the tuning fork in the patients forehead after tapping it onto his knee. The client states that the fork is louder in the LEFT EAR. Which of the following is a correct conclusion for nurse Josph to make?",
+    "choices": {
+      "A": "He might have a sensory hearing loss in the left ear",
+      "B": "Conductive hearing loss is possible in the right ear",
+      "C": "He might have a sensory hearing loss in the right hear, and/or a conductive hearing loss in the left ear.",
+      "D": "He might have a conductive hearing loss in the right ear, and/or a sensory hearing loss in the left ear."
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: He might have a conductive hearing loss in the right ear, and/or a sensory hearing loss in the left ear."
+  },
+  {
+    "question": "Aling myrna has Menieres disease. What typical dietary prescription would nurse Oca expect the doctor to prescribe?",
+    "choices": {
+      "A": "A low sodium , high fluid intake",
+      "B": "A high calorie, high protein dietary intake",
+      "C": "low fat, low sodium and high calorie intake",
+      "D": "low sodium and restricted fluid intake"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: A high calorie, high protein dietary intake"
+  },
+  {
+    "question": "Which of the following is the appropriate nursing diagnosis?",
+    "choices": {
+      "A": "Fluid volume deficit R/T furrow tongue",
+      "B": "Fluid volume deficit R/T uncontrolled vomiting",
+      "C": "Dehydration R/T subnormal body temperature",
+      "D": "Dehydration R/T incessant vomiting"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Dehydration R/T subnormal body temperature"
+  },
+  {
+    "question": "Approximately how much fluid is lost in acute weight loss of .5kg?",
+    "choices": {
+      "A": "50 ml",
+      "B": "750 ml",
+      "C": "500 ml",
+      "D": "75 ml"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: 750 ml"
+  },
+  {
+    "question": "Postural Hypotension is",
+    "choices": {
+      "A": "A drop in systolic pressure less than 10 mmHg when patient changes position from lying to sitting.",
+      "B": "A drop in systolic pressure greater than 10 mmHg when patient changes position from lying to sitting",
+      "C": "A drop in diastolic pressure less than 10 mmHg when patient changes position from lying to sitting",
+      "D": "A drop in diastolic pressure greater than 10 mmHg when patient changes position from lying to sitting"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: A drop in systolic pressure less than 10 mmHg when patient changes position from lying to sitting."
+  },
+  {
+    "question": "Which of the following measures will not help correct the patient’s condition",
+    "choices": {
+      "A": "Offer large amount of oral fluid intake to replace fluid lost",
+      "B": "Give enteral or parenteral fluid",
+      "C": "Frequent oral care",
+      "D": "Give small volumes of fluid at frequent interval"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Give small volumes of fluid at frequent interval"
+  },
+  {
+    "question": "After nursing intervention, you will expect the patient to have",
+    "choices": {
+      "A": "Maintain body temperature at 36.5 C",
+      "B": "Exhibit return of BP and Pulse to normal",
+      "C": "Manifest normal skin turgor of skin and tongue",
+      "D": "Drinks fluids as prescribed"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Manifest normal skin turgor of skin and tongue"
+  },
+  {
+    "question": "Which of the following is a characteristic of a patient with advanced Parkinson’s disease?",
+    "choices": {
+      "A": "Disturbed vision",
+      "B": "Forgetfulness",
+      "C": "Mask like facial expression",
+      "D": "Muscle atrophy"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Muscle atrophy"
+  },
+  {
+    "question": "The onset of Parkinson’s disease is between 50-60 years old. This disorder is caused by",
+    "choices": {
+      "A": "Injurious chemical substances",
+      "B": "Hereditary factors",
+      "C": "Death of brain cells due to old age",
+      "D": "Impairment of dopamine producing cells in the brain"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Injurious chemical substances"
+  },
+  {
+    "question": "The patient was prescribed with levodopa. What is the action of this drug?",
+    "choices": {
+      "A": "Increase dopamine availability",
+      "B": "Activates dopaminergic receptors in the basal ganglia",
+      "C": "Decrease acetylcholine availability",
+      "D": "Release dopamine and other catecholamine from neurological storage sites"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Release dopamine and other catecholamine from neurological storage sites"
+  },
+  {
+    "question": "You are discussing with the dietician what food to avoid with patients taking levodopa?",
+    "choices": {
+      "A": "Vitamin C rich food",
+      "B": "Vitamin E rich food",
+      "C": "Thiamine rich food",
+      "D": "Vitamin B6 rich food"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Vitamin C rich food"
+  },
+  {
+    "question": "One day, the patient complained of difficulty in walking. Your response would be",
+    "choices": {
+      "A": "You will need a cane for support",
+      "B": "Walk erect with eyes on horizon",
+      "C": "I’ll get you a wheelchair",
+      "D": "Don’t force yourself to walk"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Walk erect with eyes on horizon"
+  },
+  {
+    "question": "The nurse will assess a loss of ability in which of the following areas?",
+    "choices": {
+      "A": "Balance",
+      "B": "Judgment",
+      "C": "Speech",
+      "D": "Endurance"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Endurance"
+  },
+  {
+    "question": "Mr. Dela Isla said he cannot comprehend what the nurse was saying. He suffers from:",
+    "choices": {
+      "A": "Insomnia",
+      "B": "Aphraxia",
+      "C": "Agnosia",
+      "D": "Aphasia"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Aphasia"
+  },
+  {
+    "question": "The nurse is aware that in communicating with an elderly client, the nurse will",
+    "choices": {
+      "A": "Lean and shout at the ear of the client",
+      "B": "Open mouth wide while talking to the client",
+      "C": "Use a low-pitched voice",
+      "D": "Use a medium-pitched voice"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Open mouth wide while talking to the client"
+  },
+  {
+    "question": "As the nurse talks to the daughter of Mr. Dela Isla, which of the following statement of the daughter will require the nurse to give further teaching?",
+    "choices": {
+      "A": "I know the hallucinations are parts of the disease",
+      "B": "I told her she is wrong and I explained to her what is right",
+      "C": "I help her do some tasks he cannot do for himself",
+      "D": "Ill turn off the TV when we go to another room"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: I told her she is wrong and I explained to her what is right"
+  },
+  {
+    "question": "Which of the following is most important discharge teaching for Mr. Dela Isla",
+    "choices": {
+      "A": "Emergency Numbers",
+      "B": "Drug Compliance",
+      "C": "Relaxation technique",
+      "D": "Dietary prescription"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Relaxation technique"
+  },
+  {
+    "question": "What is the action of this drug?",
+    "choices": {
+      "A": "Increases glandular secretion for clients affected with cystic fibrosis",
+      "B": "Dissolve blockage of the urinary tract due to obstruction of cystine stones",
+      "C": "Reduces secretion of the glandular organ of the body",
+      "D": "Stimulate peristalsis for treatment of constipation and obstruction"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Increases glandular secretion for clients affected with cystic fibrosis"
+  },
+  {
+    "question": "What should the nurse caution the client when using this medication",
+    "choices": {
+      "A": "Avoid hazardous activities like driving, operating machineries etc.",
+      "B": "Take the drug on empty stomach",
+      "C": "Take with a full glass of water in treatment of Ulcerative colitis",
+      "D": "I must take double dose if I missed the previous dose"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: I must take double dose if I missed the previous dose"
+  },
+  {
+    "question": "Which of the following drugs are not compatible when taking Probanthine?",
+    "choices": {
+      "A": "Caffeine",
+      "B": "NSAID",
+      "C": "Acetaminophen",
+      "D": "Alcohol"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Caffeine"
+  },
+  {
+    "question": "What should the nurse tell clients when taking Probanthine?",
+    "choices": {
+      "A": "Avoid hot weathers to prevent heat strokes",
+      "B": "Never swim on a chlorinated pool",
+      "C": "Make sure you limit your fluid intake to 1L a day",
+      "D": "Avoid cold weathers to prevent hypothermia"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Never swim on a chlorinated pool"
+  },
+  {
+    "question": "Which of the following disease would Probanthine exert the much needed action for control or treatment of the disorder?",
+    "choices": {
+      "A": "Urinary retention",
+      "B": "Peptic Ulcer Disease",
+      "C": "Ulcerative Colitis",
+      "D": "Glaucoma"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Glaucoma"
+  },
+  {
+    "question": "Which of the following is the most important assessment during the acute stage of an unconscious patient like Mr. Franco?",
+    "choices": {
+      "A": "Level of awareness and response to pain",
+      "B": "Papillary reflexes and response to sensory stimuli",
+      "C": "Coherence and sense of hearing",
+      "D": "Patency of airway and adequacy of respiration"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Patency of airway and adequacy of respiration"
+  },
+  {
+    "question": "Considering Mr. Franco’s conditions, which of the following is most important to include in preparing Franco’s bedside equipment?",
+    "choices": {
+      "A": "Hand bell and extra bed linen",
+      "B": "Sandbag and trochanter rolls",
+      "C": "Footboard and splint",
+      "D": "Suction machine and gloves"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Suction machine and gloves"
+  },
+  {
+    "question": "What is the rationale for giving Mr. Franco frequent mouth care?",
+    "choices": {
+      "A": "He will be thirsty considering that he is doesn’t drink enough fluids",
+      "B": "To remove dried blood when tongue is bitten during a seizure",
+      "C": "The tactile stimulation during mouth care will hasten return to consciousness",
+      "D": "Mouth breathing is used by comatose patient and it’ll cause oral mucosa dying and cracking."
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: To remove dried blood when tongue is bitten during a seizure"
+  },
+  {
+    "question": "One of the complications of prolonged bed rest is decubitus ulcer. Which of the following can best prevent its occurrence?",
+    "choices": {
+      "A": "Massage reddened areas with lotion or oils",
+      "B": "Turn frequently every 2 hours",
+      "C": "Use special water mattress",
+      "D": "Keep skin clean and dry"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Massage reddened areas with lotion or oils"
+  },
+  {
+    "question": "If Mr. Franco’s Right side is weak, What should be the most accurate analysis by the nurse?",
+    "choices": {
+      "A": "Expressive aphasia is prominent on clients with right sided weakness",
+      "B": "The affected lobe in the patient is the Right lobe",
+      "C": "The client will have problems in judging distance and proprioception",
+      "D": "Clients orientation to time and space will be much affected"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Clients orientation to time and space will be much affected"
+  },
+  {
+    "question": "Which result of the lab test will be significant to the diagnosis?",
+    "choices": {
+      "A": "RBC : 4.5 TO 5 Million / cu. mm.",
+      "B": "Hgb : 13 to 14 gm/dl.",
+      "C": "Platelets : 250,000 to 500,000 cu.mm.",
+      "D": "WBC : 12,000 to 13,000/cu.mm"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Hgb : 13 to 14 gm/dl."
+  },
+  {
+    "question": "Stat appendectomy was indicated. Pre op care would include all of the following except?",
+    "choices": {
+      "A": "Consent signed by the father",
+      "B": "Enema STAT",
+      "C": "Skin prep of the area including the pubis",
+      "D": "Remove the jewelries"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Consent signed by the father"
+  },
+  {
+    "question": "Pre-anesthetic med of Demerol and atrophine sulfate were ordered to :",
+    "choices": {
+      "A": "Allay anxiety and apprehension",
+      "B": "Reduce pain",
+      "C": "Prevent vomiting",
+      "D": "Relax abdominal muscle"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Allay anxiety and apprehension"
+  },
+  {
+    "question": "Common anesthesia for appendectomy is",
+    "choices": {
+      "A": "Spinal",
+      "B": "General",
+      "C": "Caudal",
+      "D": "Hypnosis"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: General"
+  },
+  {
+    "question": "Post op care for appendectomy include the following except",
+    "choices": {
+      "A": "Early ambulation",
+      "B": "Diet as tolerated after fully conscious",
+      "C": "Nasogastric tube connect to suction",
+      "D": "Deep breathing and leg exercise"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Deep breathing and leg exercise"
+  },
+  {
+    "question": "Peritonitis may occur in ruptured appendix and may cause serious problems which are",
+    "choices": {
+      "A": "Hypovolemia, electrolyte imbalance",
+      "B": "Elevated temperature, weakness and diaphoresis",
+      "C": "Nausea and vomiting, rigidity of the abdominal wall",
+      "D": "Pallor and eventually shock"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Elevated temperature, weakness and diaphoresis"
+  },
+  {
+    "question": "If after surgery the patient’s abdomen becomes distended and no bowel sounds appreciated, what would be the most suspected complication?",
+    "choices": {
+      "A": "Intussusception",
+      "B": "Paralytic Ileus",
+      "C": "Hemorrhage",
+      "D": "Ruptured colon"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Intussusception"
+  },
+  {
+    "question": "NGT was connected to suction. In caring for the patient with NGT, the nurse must",
+    "choices": {
+      "A": "Irrigate the tube with saline as ordered",
+      "B": "Use sterile technique in irrigating the tube",
+      "C": "advance the tube every hour to avoid kinks",
+      "D": "Offer some ice chips to wet lips"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: advance the tube every hour to avoid kinks"
+  },
+  {
+    "question": "When do you think the NGT tube be removed?",
+    "choices": {
+      "A": "When patient requests for it",
+      "B": "Abdomen is soft and patient asks for water",
+      "C": "Abdomen is soft and flatus has been expelled",
+      "D": "B and C only"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: B and C only"
+  },
+  {
+    "question": "What do you call a STROKE that manifests a bizarre behavior?",
+    "choices": {
+      "A": "Inorganic Stroke",
+      "B": "Inorganic Psychoses",
+      "C": "Organic Stroke",
+      "D": "Organic Psychoses"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Organic Stroke"
+  },
+  {
+    "question": "The main difference between chronic and organic brain syndrome is that the former",
+    "choices": {
+      "A": "Occurs suddenly and reversible",
+      "B": "Is progressive and reversible",
+      "C": "tends to be progressive and irreversible",
+      "D": "Occurs suddenly and irreversible"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Is progressive and reversible"
+  },
+  {
+    "question": "Which behavior results from organic psychoses?",
+    "choices": {
+      "A": "Memory deficit",
+      "B": "Disorientation",
+      "C": "Impaired Judgement",
+      "D": "Inappropriate affect"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is : Disorientation"
+  }
+]

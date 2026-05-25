@@ -1,0 +1,552 @@
+[
+      {
+        "question": "Marco who was diagnosed with brain tumor was scheduled for craniotomy. In preventing the development of cerebral edema after surgery, the nurse should expect the use of:",
+        "choices": {
+          "A": "Diuretics",
+          "B": "Antihypertensive",
+          "C": "Steroids",
+          "D": "Anticonvulsants"
+        },
+        "correct_answer": "C",
+        "rationale": "Glucocorticoids (steroids) are used for their anti-inflammatory action, which decreases the development of edema."
+      },
+      {
+        "question": "Halfway through the administration of blood, the female client complains of lumbar pain. After stopping the infusion Nurse Hazel should:",
+        "choices": {
+          "A": "Increase the flow of normal saline",
+          "B": "Assess the pain further",
+          "C": "Notify the blood bank",
+          "D": "Obtain vital signs."
+        },
+        "correct_answer": "A",
+        "rationale": "The blood must be stopped at once, and then normal saline should be infused to keep the line patent and maintain blood volume."
+      },
+      {
+        "question": "Nurse Maureen knows that the positive diagnosis for HIV infection is made based on which of the following:",
+        "choices": {
+          "A": "A history of high risk sexual behaviors.",
+          "B": "Positive ELISA and western blot tests",
+          "C": "Identification of an associated opportunistic infection",
+          "D": "Evidence of extreme weight loss and high fever"
+        },
+        "correct_answer": "B",
+        "rationale": "These tests confirm the presence of HIV antibodies that occur in response to the presence of the human immunodeficiency virus (HIV)."
+      },
+      {
+        "question": "Nurse Maureen is aware that a client who has been diagnosed with chronic renal failure recognizes an adequate amount of high-biologic-value protein when the food the client selected from the menu was:",
+        "choices": {
+          "A": "Raw carrots",
+          "B": "Apple juice",
+          "C": "Whole wheat bread",
+          "D": "Cottage cheese"
+        },
+        "correct_answer": "D",
+        "rationale": "One cup of cottage cheese contains approximately 225 calories, 27 g of protein, 9 g of fat, 30 mg cholesterol, and 6 g of carbohydrate. Proteins of high biologic value (HBV) contain optimal levels of amino acids essential for life."
+      },
+      {
+        "question": "Kenneth who has diagnosed with uremic syndrome has the potential to develop complications. Which among the following complications should the nurse anticipates:",
+        "choices": {
+          "A": "Flapping hand tremors",
+          "B": "An elevated hematocrit level",
+          "C": "Hypotension",
+          "D": "Hypokalemia"
+        },
+        "correct_answer": "A",
+        "rationale": "Elevation of uremic waste products causes irritation of the nerves, resulting in flapping hand tremors."
+      },
+      {
+        "question": "A client is admitted to the hospital with benign prostatic hyperplasia, the nurse most relevant assessment would be:",
+        "choices": {
+          "A": "Flank pain radiating in the groin",
+          "B": "Distention of the lower abdomen",
+          "C": "Perineal edema",
+          "D": "Urethral discharge"
+        },
+        "correct_answer": "B",
+        "rationale": "This indicates that the bladder is distended with urine, therefore palpable."
+      },
+      {
+        "question": "A client has undergone with penile implant. After 24 hrs of surgery, the client’s scrotum was edematous and painful. The nurse should:",
+        "choices": {
+          "A": "Assist the client with sitz bath",
+          "B": "Apply war soaks in the scrotum",
+          "C": "Elevate the scrotum using a soft support",
+          "D": "Prepare for a possible incision and drainage."
+        },
+        "correct_answer": "C",
+        "rationale": "Elevation increases lymphatic drainage, reducing edema and pain."
+      },
+      {
+        "question": "Nurse hazel receives emergency laboratory results for a client with chest pain and immediately informs the physician. An increased myoglobin level suggests which of the following?",
+        "choices": {
+          "A": "Liver disease",
+          "B": "Myocardial damage",
+          "C": "Hypertension",
+          "D": "Cancer"
+        },
+        "correct_answer": "B",
+        "rationale": "Detection of myoglobin is a diagnostic tool to determine whether myocardial damage has occurred."
+      },
+      {
+        "question": "Nurse Maureen would expect the a client with mitral stenosis would demonstrate symptoms associated with congestion in the:",
+        "choices": {
+          "A": "Right atrium",
+          "B": "Superior vena cava",
+          "C": "Aorta",
+          "D": "Pulmonary"
+        },
+        "correct_answer": "D",
+        "rationale": "When mitral stenosis is present, the left atrium has difficulty emptying its contents into the left ventricle because there is no valve to prevent back ward flow into the pulmonary vein, the pulmonary circulation is under pressure."
+      },
+      {
+        "question": "A client has been diagnosed with hypertension. The nurse priority nursing diagnosis would be:",
+        "choices": {
+          "A": "Ineffective health maintenance",
+          "B": "Impaired skin integrity",
+          "C": "Deficient fluid volume",
+          "D": "Pain"
+        },
+        "correct_answer": "A",
+        "rationale": "Managing hypertension is the priority for the client with hypertension. Clients with hypertension frequently do not experience pain, deficient volume, or impaired skin integrity. It is the asymptomatic nature of hypertension that makes it so difficult to treat."
+      },
+      {
+        "question": "Nurse Hazel teaches the client with angina about common expected side effects of nitroglycerin including:",
+        "choices": {
+          "A": "high blood pressure",
+          "B": "stomach cramps",
+          "C": "headache",
+          "D": "shortness of breath"
+        },
+        "correct_answer": "C",
+        "rationale": "Because of its widespread vasodilating effects, nitroglycerin often produces side effects such as headache, hypotension and dizziness."
+      },
+      {
+        "question": "The following are lipid abnormalities. Which of the following is a risk factor for the development of atherosclerosis and PVD?",
+        "choices": {
+          "A": "High levels of low density lipid (LDL) cholesterol",
+          "B": "High levels of high density lipid (HDL) cholesterol",
+          "C": "Low concentration triglycerides",
+          "D": "Low levels of LDL cholesterol."
+        },
+        "correct_answer": "A",
+        "rationale": "An increased in LDL cholesterol concentration has been documented at risk factor for the development of atherosclerosis. LDL cholesterol is not broken down into the liver but is deposited into the wall of the blood vessels."
+      },
+      {
+        "question": "Which of the following represents a significant risk immediately after surgery for repair of aortic aneurysm?",
+        "choices": {
+          "A": "Potential wound infection",
+          "B": "Potential ineffective coping",
+          "C": "Potential electrolyte balance",
+          "D": "Potential alteration in renal perfusion"
+        },
+        "correct_answer": "D",
+        "rationale": "There is a potential alteration in renal perfusion manifested by decreased urine output. The altered renal perfusion may be related to renal artery embolism, prolonged hypotension, or prolonged aortic cross-clamping during the surgery."
+      },
+      {
+        "question": "Nurse Josie should instruct the client to eat which of the following foods to obtain the best supply of Vitamin B12?",
+        "choices": {
+          "A": "dairy products",
+          "B": "vegetables",
+          "C": "Grains",
+          "D": "Broccoli"
+        },
+        "correct_answer": "A",
+        "rationale": "Good source of vitamin B12 are dairy products and meats."
+      },
+      {
+        "question": "Karen has been diagnosed with aplastic anemia. The nurse monitors for changes in which of the following physiologic functions?",
+        "choices": {
+          "A": "Bowel function",
+          "B": "Peripheral sensation",
+          "C": "Bleeding tendencies",
+          "D": "Intake and out put"
+        },
+        "correct_answer": "C",
+        "rationale": "Aplastic anemia decreases the bone marrow production of RBC’s, white blood cells, and platelets. The client is at risk for bruising and bleeding tendencies."
+      },
+      {
+        "question": "Lydia is scheduled for elective splenectomy. Before the clients goes to surgery, the nurse in charge final assessment would be:",
+        "choices": {
+          "A": "signed consent",
+          "B": "vital signs",
+          "C": "name band",
+          "D": "empty bladder"
+        },
+        "correct_answer": "B",
+        "rationale": "An elective procedure is scheduled in advance so that all preparations can be completed ahead of time. The vital signs are the final check that must be completed before the client leaves the room so that continuity of care and assessment is provided for."
+      },
+      {
+        "question": "What is the peak age range in acquiring acute lymphocytic leukemia (ALL)?",
+        "choices": {
+          "A": "4 to 12 years.",
+          "B": "20 to 30 years",
+          "C": "40 to 50 years",
+          "D": "60 60 70 years"
+        },
+        "correct_answer": "A",
+        "rationale": "The peak incidence of Acute Lymphocytic Leukemia (ALL) is 4 years of age. It is uncommon after 15 years of age."
+      },
+      {
+        "question": "Marie with acute lymphocytic leukemia suffers from nausea and headache. These clinical manifestations may indicate all of the following except",
+        "choices": {
+          "A": "effects of radiation",
+          "B": "chemotherapy side effects",
+          "C": "meningeal irritation",
+          "D": "gastric distension"
+        },
+        "correct_answer": "D",
+        "rationale": "Acute Lymphocytic Leukemia (ALL) does not cause gastric distention. It does invade the central nervous system, and clients experience headaches and vomiting from meningeal irritation."
+      },
+      {
+        "question": "A client has been diagnosed with Disseminated Intravascular Coagulation (DIC). Which of the following is contraindicated with the client?",
+        "choices": {
+          "A": "Administering Heparin",
+          "B": "Administering Coumadin",
+          "C": "Treating the underlying cause",
+          "D": "Replacing depleted blood products"
+        },
+        "correct_answer": "B",
+        "rationale": "Disseminated Intravascular Coagulation (DIC) has not been found to respond to oral anticoagulants such as Coumadin."
+      },
+      {
+        "question": "Which of the following findings is the best indication that fluid replacement for the client with hypovolemic shock is adequate?",
+        "choices": {
+          "A": "Urine output greater than 30ml/hr",
+          "B": "Respiratory rate of 21 breaths/minute",
+          "C": "Diastolic blood pressure greater than 90 mmhg",
+          "D": "Systolic blood pressure greater than 110 mmhg"
+        },
+        "correct_answer": "A",
+        "rationale": "Urine output provides the most sensitive indication of the client’s response to therapy for hypovolemic shock. Urine output should be consistently greater than 30 to 35 mL/hr."
+      },
+      {
+        "question": "Which of the following signs and symptoms would Nurse Maureen include in teaching plan as an early manifestation of laryngeal cancer?",
+        "choices": {
+          "A": "Stomatitis",
+          "B": "Airway obstruction",
+          "C": "Hoarseness",
+          "D": "Dysphagia"
+        },
+        "correct_answer": "C",
+        "rationale": "Early warning signs of laryngeal cancer can vary depending on tumor location. Hoarseness lasting 2 weeks should be evaluated because it is one of the most common warning signs."
+      },
+      {
+        "question": "Karina a client with myasthenia gravis is to receive immunosuppressive therapy. The nurse understands that this therapy is effective because it:",
+        "choices": {
+          "A": "Promotes the removal of antibodies that impair the transmission of impulses",
+          "B": "Stimulates the production of acetylcholine at the neuromuscular junction.",
+          "C": "Decreases the production of autoantibodies that attack the acetylcholine receptors.",
+          "D": "Inhibits the breakdown of acetylcholine at the neuromuscular junction."
+        },
+        "correct_answer": "C",
+        "rationale": "Steroids decrease the body’s immune response thus decreasing the production of antibodies that attack the acetylcholine receptors at the neuromuscular junction"
+      },
+      {
+        "question": "A female client is receiving IV Mannitol. An assessment specific to safe administration of the said drug is:",
+        "choices": {
+          "A": "Vital signs q4h",
+          "B": "Weighing daily",
+          "C": "Urine output hourly",
+          "D": "Level of consciousness q4h"
+        },
+        "correct_answer": "C",
+        "rationale": "The osmotic diuretic mannitol is contraindicated in the presence of inadequate renal function or heart failure because it increases the intravascular volume that must be filtered and excreted by the kidney."
+      },
+      {
+        "question": "Patricia a 20 year old college student with diabetes mellitus requests additional information about the advantages of using a pen like insulin delivery devices. The nurse explains that the advantages of these devices over syringes includes:",
+        "choices": {
+          "A": "Accurate dose delivery",
+          "B": "Shorter injection time",
+          "C": "Lower cost with reusable insulin cartridges",
+          "D": "Use of smaller gauge needle."
+        },
+        "correct_answer": "A",
+        "rationale": "These devices are more accurate because they are easily to used and have improved adherence in insulin regimens by young people because the medication can be administered discreetly."
+      },
+      {
+        "question": "A male client’s left tibia is fractures in an automobile accident, and a cast is applied. To assess for damage to major blood vessels from the fracture tibia, the nurse in charge should monitor the client for:",
+        "choices": {
+          "A": "Swelling of the left thigh",
+          "B": "Increased skin temperature of the foot",
+          "C": "Prolonged reperfusion of the toes after blanching",
+          "D": "Increased blood pressure"
+        },
+        "correct_answer": "C",
+        "rationale": "Damage to blood vessels may decrease the circulatory perfusion of the toes, this would indicate the lack of blood supply to the extremity."
+      },
+      {
+        "question": "After a long leg cast is removed, the male client should:",
+        "choices": {
+          "A": "Cleanse the leg by scrubbing with a brisk motion",
+          "B": "Put leg through full range of motion twice daily",
+          "C": "Report any discomfort or stiffness to the physician",
+          "D": "Elevate the leg when sitting for long periods of time."
+        },
+        "correct_answer": "D",
+        "rationale": "Elevation will help control the edema that usually occurs."
+      },
+      {
+        "question": "While performing a physical assessment of a male client with gout of the great toe, NurseVivian should assess for additional tophi (urate deposits) on the:",
+        "choices": {
+          "A": "Buttocks",
+          "B": "Ears",
+          "C": "Face",
+          "D": "Abdomen"
+        },
+        "correct_answer": "B",
+        "rationale": "Uric acid has a low solubility, it tends to precipitate and form deposits at various sites where blood flow is least active, including cartilaginous tissue such as the ears."
+      },
+      {
+        "question": "Nurse Katrina would recognize that the demonstration of crutch walking with tripod gait was understood when the client places weight on the:",
+        "choices": {
+          "A": "Palms of the hands and axillary regions",
+          "B": "Palms of the hand",
+          "C": "Axillary regions",
+          "D": "Feet, which are set apart"
+        },
+        "correct_answer": "B",
+        "rationale": "The palms should bear the client’s weight to avoid damage to the nerves in the axilla."
+      },
+      {
+        "question": "Mang Jose with rheumatoid arthritis states, “the only time I am without pain is when I lie in bed perfectly still”. During the convalescent stage, the nurse in charge with Mang Jose should encourage:",
+        "choices": {
+          "A": "Active joint flexion and extension",
+          "B": "Continued immobility until pain subsides",
+          "C": "Range of motion exercises twice daily",
+          "D": "Flexion exercises three times daily"
+        },
+        "correct_answer": "A",
+        "rationale": "Active exercises, alternating extension, flexion, abduction, and adduction, mobilize exudates in the joints relieves stiffness and pain."
+      },
+      {
+        "question": "A male client has undergone spinal surgery, the nurse should:",
+        "choices": {
+          "A": "Observe the client’s bowel movement and voiding patterns",
+          "B": "Log-roll the client to prone position",
+          "C": "Assess the client’s feet for sensation and circulation",
+          "D": "Encourage client to drink plenty of fluids"
+        },
+        "correct_answer": "C",
+        "rationale": "Alteration in sensation and circulation indicates damage to the spinal cord, if these occurs notify physician immediately."
+      },
+      {
+        "question": "Marina with acute renal failure moves into the diuretic phase after one week of therapy. During this phase the client must be assessed for signs of developing:",
+        "choices": {
+          "A": "Hypovolemia",
+          "B": "renal failure",
+          "C": "metabolic acidosis",
+          "D": "hyperkalemia"
+        },
+        "correct_answer": "A",
+        "rationale": "In the diuretic phase fluid retained during the oliguric phase is excreted and may reach 3 to 5 liters daily, hypovolemia may occur and fluids should be replaced."
+      },
+      {
+        "question": "Nurse Judith obtains a specimen of clear nasal drainage from a client with a head injury. Which of the following tests differentiates mucus from cerebrospinal fluid (CSF)?",
+        "choices": {
+          "A": "Protein",
+          "B": "Specific gravity",
+          "C": "Glucose",
+          "D": "Microorganism"
+        },
+        "correct_answer": "C",
+        "rationale": "The constituents of CSF are similar to those of blood plasma. An examination for glucose content is done to determine whether a body fluid is a mucus or a CSF. A CSF normally contains glucose."
+      },
+      {
+        "question": "A 22 year old client suffered from his first tonic-clonic seizure. Upon awakening the client asks the nurse, “What caused me to have a seizure? Which of the following would the nurse include in the primary cause of tonic clonic seizures in adults more the 20 years?",
+        "choices": {
+          "A": "Electrolyte imbalance",
+          "B": "Head trauma",
+          "C": "Epilepsy",
+          "D": "Congenital defect"
+        },
+        "correct_answer": "B",
+        "rationale": "Trauma is one of the primary cause of brain damage and seizure activity in adults. Other common causes of seizure activity in adults include neoplasms, withdrawal from drugs and alcohol, and vascular disease."
+      },
+      {
+        "question": "What is the priority nursing assessment in the first 24 hours after admission of the client with thrombotic CVA?",
+        "choices": {
+          "A": "Pupil size and papillary response",
+          "B": "cholesterol level",
+          "C": "Echocardiogram",
+          "D": "Bowel sounds"
+        },
+        "correct_answer": "A",
+        "rationale": "It is crucial to monitor the pupil size and papillary response to indicate changes around the cranial nerves."
+      },
+      {
+        "question": "Nurse Linda is preparing a client with multiple sclerosis for discharge from the hospital to home. Which of the following instruction is most appropriate?",
+        "choices": {
+          "A": "“Practice using the mechanical aids that you will need when future disabilities arise”.",
+          "B": "“Follow good health habits to change the course of the disease”.",
+          "C": "“Keep active, use stress reduction strategies, and avoid fatigue.",
+          "D": "“You will need to accept the necessity for a quiet and inactive lifestyle”."
+        },
+        "correct_answer": "C",
+        "rationale": "The nurse most positive approach is to encourage the client with multiple sclerosis to stay active, use stress reduction techniques and avoid fatigue because it is important to support the immune system while remaining active."
+      },
+      {
+        "question": "The nurse is aware the early indicator of hypoxia in the unconscious client is:",
+        "choices": {
+          "A": "Cyanosis",
+          "B": "Increased respirations",
+          "C": "Hypertension",
+          "D": "Restlessness"
+        },
+        "correct_answer": "D",
+        "rationale": "Restlessness is an early indicator of hypoxia. The nurse should suspect hypoxia in unconscious client who suddenly becomes restless."
+      },
+      {
+        "question": "A client is experiencing spinal shock. Nurse Myrna should expect the function of the bladder to be which of the following?",
+        "choices": {
+          "A": "Normal",
+          "B": "Atonic",
+          "C": "Spastic",
+          "D": "Uncontrolled"
+        },
+        "correct_answer": "B",
+        "rationale": "In spinal shock, the bladder becomes completely atonic and will continue to fill unless the client is catheterized."
+      },
+      {
+        "question": "Which of the following stage the carcinogen is irreversible?",
+        "choices": {
+          "A": "Progression stage",
+          "B": "Initiation stage",
+          "C": "Regression stage",
+          "D": "Promotion stage"
+        },
+        "correct_answer": "A",
+        "rationale": "Progression stage is the change of tumor from the preneoplastic state or low degree of malignancy to a fast growing tumor that cannot be reversed."
+      },
+      {
+        "question": "Among the following components thorough pain assessment, which is the most significant?",
+        "choices": {
+          "A": "Effect",
+          "B": "Cause",
+          "C": "Causing factors",
+          "D": "Intensity"
+        },
+        "correct_answer": "D",
+        "rationale": "Intensity is the major indicative of severity of pain and it is important for the evaluation of the treatment."
+      },
+      {
+        "question": "A 65 year old female is experiencing flare up of pruritus. Which of the client’s action could aggravate the cause of flare ups?",
+        "choices": {
+          "A": "Sleeping in cool and humidified environment",
+          "B": "Daily baths with fragrant soap",
+          "C": "Using clothes made from 100% cotton",
+          "D": "Increasing fluid intake"
+        },
+        "correct_answer": "B",
+        "rationale": "The use of fragrant soap is very drying to skin hence causing the pruritus."
+      },
+      {
+        "question": "Atropine sulfate (Atropine) is contraindicated in all but one of the following client?",
+        "choices": {
+          "A": "A client with high blood",
+          "B": "A client with bowel obstruction",
+          "C": "A client with glaucoma",
+          "D": "A client with U.T.I"
+        },
+        "correct_answer": "C",
+        "rationale": "Atropine sulfate is contraindicated with glaucoma patients because it increases intraocular pressure."
+      },
+      {
+        "question": "Among the following clients, which among them is high risk for potential hazards from the surgical experience?",
+        "choices": {
+          "A": "67-year-old client",
+          "B": "49-year-old client",
+          "C": "33-year-old client",
+          "D": "15-year-old client"
+        },
+        "correct_answer": "A",
+        "rationale": "A 67 year old client is greater risk because the older adult client is more likely to have a less-effective immune system."
+      },
+      {
+        "question": "Nurse Jon assesses vital signs on a client undergone epidural anesthesia. Which of the following would the nurse assess next?",
+        "choices": {
+          "A": "Headache",
+          "B": "Bladder distension",
+          "C": "Dizziness",
+          "D": "Ability to move legs"
+        },
+        "correct_answer": "B",
+        "rationale": "The last area to return sensation is in the perineal area, and the nurse in charge should monitor the client for distended bladder."
+      },
+      {
+        "question": "Nurse Katrina should anticipate that all of the following drugs may be used in the attempt to control the symptoms of Meniere’s disease except:",
+        "choices": {
+          "A": "Antiemetics",
+          "B": "Diuretics",
+          "C": "Antihistamines",
+          "D": "Glucocorticoids"
+        },
+        "correct_answer": "D",
+        "rationale": "Glucocorticoids play no significant role in disease treatment."
+      },
+      {
+        "question": "Which of the following complications associated with tracheostomy tube?",
+        "choices": {
+          "A": "Increased cardiac output",
+          "B": "Acute respiratory distress syndrome (ARDS)",
+          "C": "Increased blood pressure",
+          "D": "Damage to laryngeal nerves"
+        },
+        "correct_answer": "D",
+        "rationale": "Tracheostomy tube has several potential complications including bleeding, infection and laryngeal nerve damage."
+      },
+      {
+        "question": "Nurse Faith should recognize that fluid shift in an client with burn injury results from increase in the:",
+        "choices": {
+          "A": "Total volume of circulating whole blood",
+          "B": "Total volume of intravascular plasma",
+          "C": "Permeability of capillary walls",
+          "D": "Permeability of kidney tubules"
+        },
+        "correct_answer": "C",
+        "rationale": "In burn, the capillaries and small vessels dilate, and cell damage cause the release of a histamine-like substance. The substance causes the capillary walls to become more permeable and significant quantities of fluid are lost."
+      },
+      {
+        "question": "An 83-year-old woman has several ecchymotic areas on her right arm. The bruises are probably caused by:",
+        "choices": {
+          "A": "increased capillary fragility and permeability",
+          "B": "increased blood supply to the skin",
+          "C": "self inflicted injury",
+          "D": "elder abuse"
+        },
+        "correct_answer": "A",
+        "rationale": "Aging process involves increased capillary fragility and permeability. Older adults have a decreased amount of subcutaneous fat and cause an increased incidence of bruise like lesions caused by collection of extravascular blood inloosely structured dermis."
+      },
+      {
+        "question": "Nurse Anna is aware that early adaptation of client with renal carcinoma is:",
+        "choices": {
+          "A": "Nausea and vomiting",
+          "B": "flank pain",
+          "C": "weight gain",
+          "D": "intermittent hematuria"
+        },
+        "correct_answer": "D",
+        "rationale": "Intermittent pain is the classic sign of renal carcinoma. It is primarily due to capillary erosion by the cancerous growth."
+      },
+      {
+        "question": "A male client with tuberculosis asks Nurse Brian how long the chemotherapy must be continued. Nurse Brian’s accurate reply would be:",
+        "choices": {
+          "A": "1 to 3 weeks",
+          "B": "6 to 12 months",
+          "C": "3 to 5 months",
+          "D": "3 years and more"
+        },
+        "correct_answer": "B",
+        "rationale": "Tubercle bacillus is a drug resistant organism and takes a long time to be eradicated. Usually a combination of three drugs is used for minimum of 6 months and at least six months beyond culture conversion."
+      },
+      {
+        "question": "A client has undergone laryngectomy. The immediate nursing priority would be:",
+        "choices": {
+          "A": "Keep trachea free of secretions",
+          "B": "Monitor for signs of infection",
+          "C": "Provide emotional support",
+          "D": "Promote means of communication"
+        },
+        "correct_answer": "A",
+        "rationale": "Patent airway is the most priority; therefore removal of secretions is necessary."
+      }
+]

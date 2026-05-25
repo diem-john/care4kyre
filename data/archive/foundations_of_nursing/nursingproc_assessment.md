@@ -13,10 +13,11 @@ ADOPIE – 6
 ADOPIER – 7
 3. They are the first one to suggest a 4 step nursing process which are : APIE , or assessment, planning, implementation and evaluation.
 
-Yura
-Walsh
-Roy
-Knowles
+1) Yura
+2) Walsh
+3) Roy
+4) Knowles
+
 1,2
 1,3
 3,4

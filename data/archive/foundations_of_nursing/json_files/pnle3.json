@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Nurse Brenda is teaching a patient about a newly prescribed drug. What could cause a geriatric patient to have difficulty retaining knowledge about prescribed medications?",
+    "choices": {
+      "A": "ecreased plasma drug levels",
+      "B": "Sensory deficits",
+      "C": "Lack of family support",
+      "D": "History of Tourette syndrome"
+    },
+    "correct_answer": "B",
+    "rationale": "Sensory deficits. Sensory deficits could cause a geriatric patient to have difficulty retaining knowledge about prescribed medications. Decreased plasma drug levels do not alter the patient\u2019s knowledge about the drug. A lack of family support may affect compliance, not knowledge retention. Toilette syndrome is unrelated to knowledge retention."
+  },
+  {
+    "question": "When examining a patient with abdominal pain the nurse in charge should assess:",
+    "choices": {
+      "A": "ny quadrant first",
+      "B": "The symptomatic quadrant first",
+      "C": "The symptomatic quadrant last",
+      "D": "The symptomatic quadrant either second or third"
+    },
+    "correct_answer": "C",
+    "rationale": "The symptomatic quadrant last. The nurse should systematically assess all areas of the abdomen, if time and the patient\u2019s condition permit, concluding with the symptomatic area. Otherwise, the nurse may elicit pain in the symptomatic area, causing the muscles in other areas to tighten. This would interfere with further assessment."
+  },
+  {
+    "question": "The nurse is assessing a postoperative adult patient. Which of the following should the nurse document as subjective data?",
+    "choices": {
+      "A": "Vital signs",
+      "B": "Laboratory test result",
+      "C": "Patient\u2019s description of pain",
+      "D": "Electrocardiographic (ECG) waveforms"
+    },
+    "correct_answer": "C",
+    "rationale": "Patient\u2019s description of pain. Subjective data come directly from the patient and usually are recorded as direct quotations that reflect the patient\u2019s opinions or feelings about a situation. Vital signs, laboratory test result, and ECG waveforms are examples of objective data."
+  },
+  {
+    "question": "A male patient has a soft wrist-safety device. Which assessment finding should the nurse consider abnormal?",
+    "choices": {
+      "A": "palpable radial pulse",
+      "B": "palpable ulnar pulse",
+      "C": "ool, pale fingers",
+      "D": "Pink nail beds"
+    },
+    "correct_answer": "C",
+    "rationale": "Cool, pale fingers. A safety device on the wrist may impair circulation and restrict blood supply to body tissues. Therefore, the nurse should assess the patient for signs of impaired circulation, such as cool, pale fingers. A palpable radial or lunar pulse and pink nail beds are normal findings."
+  },
+  {
+    "question": "Which of the following planes divides the body longitudinally into anterior and posterior regions?",
+    "choices": {
+      "A": "Frontal plane",
+      "B": "Sagittal plane",
+      "C": "Midsagittal plane",
+      "D": "Transverse plane"
+    },
+    "correct_answer": "A",
+    "rationale": "Frontal plane. Frontal or coronal plane runs longitudinally at a right angle to a sagittal plane dividing the body in anterior and posterior regions. A sagittal plane runs longitudinally dividing the body into right and left regions; if exactly midline, it is called a midsagittal plane. A transverse plane runs horizontally at a right angle to the vertical axis, dividing the structure into superior and inferior regions."
+  },
+  {
+    "question": "A female patient with a terminal illness is in denial. Indicators of denial include:",
+    "choices": {
+      "A": "Shock dismay",
+      "B": "Numbness",
+      "C": "Stoicism",
+      "D": "Preparatory grief"
+    },
+    "correct_answer": "A",
+    "rationale": "Shock dismay. Shock and dismay are early signs of denial-the first stage of grief. The other options are associated with depression\u2014a later stage of grief."
+  },
+  {
+    "question": "The nurse in charge is transferring a patient from the bed to a chair. Which action does the nurse take during this patient transfer?",
+    "choices": {
+      "A": "Position the head of the bed flat",
+      "B": "Helps the patient dangle the legs",
+      "C": "Stands behind the patient",
+      "D": "Places the chair facing away from the bed"
+    },
+    "correct_answer": "B",
+    "rationale": "Helps the patient dangle the legs. After placing the patient in high Fowler\u2019s position and moving the patient to the side of the bed, the nurse helps the patient sit on the edge of the bed and dangle the legs; the nurse then faces the patient and places the chair next to and facing the head of the bed."
+  },
+  {
+    "question": "A female patient who speaks a little English has emergency gallbladder surgery, during discharge preparation, which nursing action would best help this patient understand wound care instruction?",
+    "choices": {
+      "A": "sking frequently if the patient understands the instruction",
+      "B": "sking an interpreter to replay the instructions to the patient.",
+      "C": "Writing out the instructions and having a family member read them to the patient",
+      "D": "emonstrating the procedure and having the patient return the demonstration"
+    },
+    "correct_answer": "D",
+    "rationale": "Demonstrating the procedure and having the patient return the demonstration. Demonstrating by the nurse with a return demonstration by the patient ensures that the patient can perform wound care correctly. Patients may claim to understand discharge instruction when they do not. An interpreter of family member may communicate verbal or written instructions inaccurately."
+  },
+  {
+    "question": "Before administering the evening dose of a prescribed medication, the nurse on the evening shift finds an unlabeled, filled syringe in the patient\u2019s medication drawer. What should the nurse in charge do?",
+    "choices": {
+      "A": "iscard the syringe to avoid a medication error",
+      "B": "Obtain a label for the syringe from the pharmacy",
+      "C": "Use the syringe because it looks like it contains the same medication the nurse was prepared to give",
+      "D": "all the day nurse to verify the contents of the syringe"
+    },
+    "correct_answer": "A",
+    "rationale": "Discard the syringe to avoid a medication error. As a safety precaution, the nurse should discard an unlabeled syringe that contains medication. The other options are considered unsafe because they promote error."
+  },
+  {
+    "question": "When administering drug therapy to a male geriatric patient, the nurse must stay especially alert for adverse effects. Which factor makes geriatric patients to adverse drug effects?",
+    "choices": {
+      "A": "Faster drug clearance",
+      "B": "ging-related physiological changes",
+      "C": "Increased amount of neurons",
+      "D": "Enhanced blood flow to the GI tract"
+    },
+    "correct_answer": "B",
+    "rationale": "Aging-related physiological changes. Aging-related physiological changes account for the increased frequency of adverse drug reactions in geriatric patients. Renal and hepatic changes cause drugs to clear more slowly in these patients. With increasing age, neurons are lost and blood flow to the GI tract decreases."
+  },
+  {
+    "question": "A female patient is being discharged after cataract surgery. After providing medication teaching, the nurse asks the patient to repeat the instructions. The nurse is performing which professional role?",
+    "choices": {
+      "A": "Manager",
+      "B": "Educator",
+      "C": "aregiver",
+      "D": "Patient advocate"
+    },
+    "correct_answer": "B",
+    "rationale": "Educator. When teaching a patient about medications before discharge, the nurse is acting as an educator. The nurse acts as a manager when performing such activities as scheduling and making patient care assignments. The nurse performs the care giving role when providing direct care, including bathing patients and administering medications and prescribed treatments. The nurse acts as a patient advocate when making the patient\u2019s wishes known to the doctor."
+  },
+  {
+    "question": "A female patient exhibits signs of heightened anxiety. Which response by the nurse is most likely to reduce the patient\u2019s anxiety?",
+    "choices": {
+      "A": "\u201cEverything will be fine. Don\u2019t worry.\u201d",
+      "B": "\u201cRead this manual and then ask me any questions you may have.\u201d",
+      "C": "\u201cWhy don\u2019t you listen to the radio?\u201d",
+      "D": "\u201cLet\u2019s talk about what\u2019s bothering you.\u201d"
+    },
+    "correct_answer": "D",
+    "rationale": "\u201cLet\u2019s talk about what\u2019s bothering you.\u201d Anxiety may result from feeling of helplessness, isolation, or insecurity. This response helps reduce anxiety by encouraging the patient to express feelings. The nurse should be supportive and develop goals together with the patient to give the patient some control over an anxiety-inducing situation. Because the other options ignore the patient\u2019s feeling and block communication, they would not reduce anxiety."
+  },
+  {
+    "question": "A scrub nurse in the operating room has which responsibility?",
+    "choices": {
+      "A": "Positioning the patient",
+      "B": "ssisting with gowning and gloving",
+      "C": "Handling surgical instruments to the surgeon",
+      "D": "pplying surgical drapes"
+    },
+    "correct_answer": "C",
+    "rationale": "Handling surgical instruments to the surgeon. The scrub nurse assist the surgeon by providing appropriate surgical instruments and supplies, maintaining strict surgical asepsis and, with the circulating nurse, accounting for all gauze, sponges, needles, and instruments. The circulating nurse assists the surgeon and scrub nurse, positions the patient, applies appropriate equipment and surgical drapes, assists with gowning and gloving, and provides the surgeon and scrub nurse with supplies."
+  },
+  {
+    "question": "A patient is in the bathroom when the nurse enters to give a prescribed medication. What should the nurse in charge do?",
+    "choices": {
+      "A": "Leave the medication at the patient\u2019s bedside",
+      "B": "Tell the patient to be sure to take the medication. And then leave it at the bedside",
+      "C": "Return shortly to the patient\u2019s room and remain there until the patient takes the medication",
+      "D": "Wait for the patient to return to bed, and then leave the medication at the bedside"
+    },
+    "correct_answer": "C",
+    "rationale": "Return shortly to the patient\u2019s room and remain there until the patient takes the medication. The nurse should return shortly to the patient\u2019s room and remain there until the patient takes the medication to verify that it was taken as directed. The nurse should never leave medication at the patient\u2019s bedside unless specifically requested to do so."
+  },
+  {
+    "question": "The physician orders heparin, 7,500 units, to be administered subcutaneously every 6 hours. The vial reads 10,000 units per millilitre. The nurse should anticipate giving how much heparin for each dose?",
+    "choices": {
+      "A": "\u00bc ml",
+      "B": "\u00bd ml",
+      "C": "\u00be ml",
+      "D": "1 \u00bc ml"
+    },
+    "correct_answer": "C",
+    "rationale": "\u00be ml. The nurse solves the problem as follows: 10,000 units/7,500 units = 1 ml/X 10,000 X = 7,500 X= 7,500/10,000 or \u00be ml"
+  },
+  {
+    "question": "The nurse in charge measures a patient\u2019s temperature at 102 degrees F. what is the equivalent Centigrade temperature? 39 degrees C 47 degrees C",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "38.9 degrees C. To convert Fahrenheit degrees to centigrade, use this formula: C degrees = (F degrees \u2013 32) x 5/9 C degrees = (102 \u2013 32) 5/9 + 70 x 5/9 38.9 degrees C"
+  },
+  {
+    "question": "9 degrees C",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "D",
+    "rationale": "Arterial blood gas (ABG) analysis. All of these test help evaluate a patient with respiratory problems. However, ABG analysis is the only test evaluates gas exchange in the lungs, providing information about patient\u2019s oxygenation status."
+  },
+  {
+    "question": "1 degrees C",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "B",
+    "rationale": "The diaphragm detects high-pitched sounds best. The diaphragm of a stethoscope detects high-pitched sound best; the bell detects low pitched sounds best. Palpation detects thrills best."
+  },
+  {
+    "question": "To evaluate a patient for hypoxia, the physician is most likely to order which laboratory test?",
+    "choices": {
+      "A": "Red blood cell count",
+      "B": "Sputum culture",
+      "C": "Total hemoglobin",
+      "D": "rterial blood gas (ABG) analysis"
+    },
+    "correct_answer": "C",
+    "rationale": "Within 6 months. In most cases, an outpatient must fill a prescription for a controlled substance within 6 months of the date on which the prescription was written."
+  },
+  {
+    "question": "The nurse uses a stethoscope to auscultate a male patient\u2019s chest. Which statement about a stethoscope with a bell and diaphragm is true?",
+    "choices": {
+      "A": "The bell detects high-pitched sounds best",
+      "B": "The diaphragm detects high-pitched sounds best",
+      "C": "The bell detects thrills best",
+      "D": "The diaphragm detects low-pitched sounds best"
+    },
+    "correct_answer": "D",
+    "rationale": "The patient\u2019s cognitive abilities. The nurse must consider the patient\u2019s cognitive abilities to understand drug instructions. If not, the nurse must find a family member or significant other to take on the responsibility of administering medications in the home setting. The patient\u2019s ability to recover, occupational hazards, and socioeconomic status do not affect drug administration."
+  },
+  {
+    "question": "A male patient is to be discharged with a prescription for an analgesic that is a controlled substance. During discharge teaching, the nurse should explain that the patient must fill this prescription how soon after the date on which it was written?",
+    "choices": {
+      "A": "Within 1 month",
+      "B": "Within 3 months",
+      "C": "Within 6 months",
+      "D": "Within 12 months"
+    },
+    "correct_answer": "B",
+    "rationale": "Give simple directions shortly before the I.V. therapy is to start. Because a 2-year-old child has limited understanding, the nurse should give simple directions and explanations of what will occur shortly before the procedure. She should try to avoid frightening the child with the explanation and allow the child to make simple choices, such as choosing the I.V. insertion site, if possible. However, she shouldn\u2019t ask the child if he wants the therapy, because the answer may be \u201cNo!\u201d Telling the child that the treatment is for his own good is ineffective because a 2-year-old perceives pain as a negative sensation and cannot understand that a painful procedure can have position results. Telling the child how long the therapy will last is ineffective because the 2-year-old doesn\u2019t have a good understanding of time."
+  },
+  {
+    "question": "Which human element considered by the nurse in charge during assessment can affect drug administration?",
+    "choices": {
+      "A": "The patient\u2019s ability to recover",
+      "B": "The patient\u2019s occupational hazards",
+      "C": "The patient\u2019s socioeconomic status",
+      "D": "The patient\u2019s cognitive abilities"
+    },
+    "correct_answer": "A",
+    "rationale": "Barrel. All syringes have three parts: a tip, which connects the needle to the syringe; a barrel, the outer part on which the measurement scales are printed; and a plunger, which fits inside the barrel to expel the medication. The external part of the barrel and the plunger and (flange) must be handled during the preparation and administration of the injection. However, the inside and trip of the barrel, the inside (shaft) of the plunger, and the needle tip must remain sterile until after the injection."
+  },
+  {
+    "question": "When explaining the initiation of I.V. therapy to a 2-year-old child, the nurse should:",
+    "choices": {
+      "A": "sk the child, \u201cDo you want me to start the I.V. now?\u201d",
+      "B": "Give simple directions shortly before the I.V. therapy is to start",
+      "C": "Tell the child, \u201cThis treatment is for your own good\u201d",
+      "D": "Inform the child that the needle will be in place for 10 days"
+    },
+    "correct_answer": "A",
+    "rationale": "Instruct the patient to lock upward, and drop the medication into the center of the lower lid. Having the patient look upward reduces blinking and protects the cornea. Instilling drops in the center of the lower lid promotes absorption because the drops are less likely to run into the nasolacrimal duct or out of the eye."
+  },
+  {
+    "question": "All of the following parts of the syringe are sterile except the:",
+    "choices": {
+      "A": "arrel",
+      "B": "Inside of the plunger",
+      "C": "Needle tip",
+      "D": "arrel tip"
+    },
+    "correct_answer": "C",
+    "rationale": "Thickness. Gauge is a measure of the needle\u2019s thickness: The higher the number the thinner the shaft. Therefore, an 18G needle is considerably thicker than a 25G needle."
+  },
+  {
+    "question": "The best way to instill eye drops is to:",
+    "choices": {
+      "A": "Instruct the patient to lock upward, and drop the medication into the center of the lower lid",
+      "B": "Instruct the patient to look ahead, and drop the medication into the center of the lower lid",
+      "C": "rop the medication into the inner canthus regardless of eye position",
+      "D": "rop the medication into the center of the canthus regardless of eye position"
+    },
+    "correct_answer": "A",
+    "rationale": "Hypotension. A major side effect of anticoagulant therapy is bleeding, which can be identified by hypotension (a systolic blood pressure under 100 mm Hg). Anticoagulants do not result in the other three conditions."
+  }
+]

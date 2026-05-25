@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Jake is complaining of shortness of breath. The nurse assesses his respiratory rate to be 30 breaths per minute and documents that Jake is tachypneic. The nurse understands that tachypnea means:",
+    "choices": {
+      "A": "Pulse rate greater than 100 beats per minute",
+      "B": "lood pressure of 140/90",
+      "C": "Respiratory rate greater than 20 breaths per minute",
+      "D": "Frequent bowel sounds"
+    },
+    "correct_answer": "C",
+    "rationale": "Respiratory rate greater than 20 breaths per minute. A respiratory rate of greater than 20 breaths per minute is tachypnea. A blood pressure of 140/90 is considered hypertension. Pulse greater than 100 beats per minute is tachycardia. Frequent bowel sounds refer to hyper-active bowel sounds."
+  },
+  {
+    "question": "The nurse listens to Mrs. Sullen\u2019s lungs and notes a hissing sound or musical sound. The nurse documents this as:",
+    "choices": {
+      "A": "Wheezes",
+      "B": "Rhonchi",
+      "C": "Gurgles",
+      "D": "Vesicular"
+    },
+    "correct_answer": "A",
+    "rationale": "Wheezes. Wheezes are indicated by continuous, lengthy, musical; heard during inspiration or expiration. Rhonchi are usually coarse breath sounds. Gurgles are loud gurgling, bubbling sound. Vesicular breath sounds are low pitch, soft intensity on expiration."
+  },
+  {
+    "question": "The nurse in charge measures a patient\u2019s temperature at 101 degrees F. What is the equivalent centigrade temperature?",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "B",
+    "rationale": "37.95 degrees C. To convert \u00b0F to \u00b0C use this formula, ( \u00b0F \u2013 32 ) (0.55). While when converting \u00b0C to \u00b0F use this formula, ( \u00b0C x 1.8) + 32. Note that 0.55 is 5/9 and 1.8 is 9/5."
+  },
+  {
+    "question": "3 degrees C",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "D",
+    "rationale": "Trial and error. The trial and error method of problem solving isn\u2019t systematic (as in the scientific method of problem solving) routine, or based on inner prompting (as in the intuitive method of problem solving)."
+  },
+  {
+    "question": "95 degrees C",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "Assessing, diagnosing, planning, implementing, evaluating. The correct order of the nursing process is assessing, diagnosing, planning, implementing, evaluating."
+  },
+  {
+    "question": "03 degrees C",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "Nursing care plan. The outcome, or the product of the planning phase of the nursing process is a Nursing care plan."
+  },
+  {
+    "question": "01 degrees C",
+    "choices": {
+      "A": "Option unavailable",
+      "B": "Option unavailable",
+      "C": "Option unavailable",
+      "D": "Option unavailable"
+    },
+    "correct_answer": "C",
+    "rationale": "Client verbalized, \u201cI feel pain when urinating.\u201d. Subjective data are those that can be described only by the person experiencing it. Therefore, only the patient can describe or verify whether he is experiencing pain or not."
+  },
+  {
+    "question": "Which approach to problem solving tests any number of solutions until one is found that works for that particular problem?",
+    "choices": {
+      "A": "Intuition",
+      "B": "Routine",
+      "C": "Scientific method",
+      "D": "Trial and error"
+    },
+    "correct_answer": "C",
+    "rationale": "\u201cThe patient will identify all the high-salt food from a prepared list by discharge.\u201d. Expected outcomes are specific, measurable, realistic statements of goal attainment. The phrases \u201cright amount\u201d, \u201cless nauseated\u201d and \u201cenough sleep\u201d are vague and not measurable."
+  },
+  {
+    "question": "What is the order of the nursing process?",
+    "choices": {
+      "A": "ssessing, diagnosing, implementing, evaluating, planning",
+      "B": "iagnosing, assessing, planning, implementing, evaluating",
+      "C": "ssessing, diagnosing, planning, implementing, evaluating",
+      "D": "Planning, evaluating, diagnosing, assessing, implementing"
+    },
+    "correct_answer": "C",
+    "rationale": "She signs on the medication sheet after administering the medication.A nurse should record a nursing intervention (ex. Giving medications) after performing the nursing intervention (not before). Recording should also be done using a pen, be complete, and signed with the nurse\u2019s full name and title."
+  },
+  {
+    "question": "During the planning phase of the nursing process, which of the following is the outcome?",
+    "choices": {
+      "A": "Nursing history",
+      "B": "Nursing notes",
+      "C": "Nursing care plan",
+      "D": "Nursing diagnosis"
+    },
+    "correct_answer": "C",
+    "rationale": "Concern for privacy. A patient\u2019s privacy may be violated if security measures aren\u2019t used properly or if policies and procedures aren\u2019t in place that determines what type of information can be retrieved, by whom, and for what purpose."
+  },
+  {
+    "question": "What is an example of a subjective data?",
+    "choices": {
+      "A": "Heart rate of 68 beats per minute",
+      "B": "Yellowish sputum",
+      "C": "lient verbalized, \u201cI feel pain when urinating.\u201d",
+      "D": "Noisy breathing"
+    },
+    "correct_answer": "B",
+    "rationale": "Sister Callista Roy. Sister Roy\u2019s theory is called the adaptation theory and she viewed each person as a unified biophysical system in constant interaction with a changing environment. Orem\u2019s theory is called self-care deficit theory and is based on the belief that individual has a need for self-care actions. King\u2019s theory is the Goal attainment theory and described nursing as a helping profession that assists individuals and groups in society to attain, maintain, and restore health. Henderson introduced the nature of nursing model and identified the 14 basic needs."
+  },
+  {
+    "question": "Which expected outcome is correctly written?",
+    "choices": {
+      "A": "\u201cThe patient will feel less nauseated in 24 hours.\u201d",
+      "B": "\u201cThe patient will eat the right amount of food daily.\u201d",
+      "C": "\u201cThe patient will identify all the high-salt food from a prepared list by discharge.\u201d",
+      "D": "\u201cThe patient will have enough sleep.\u201d"
+    },
+    "correct_answer": "B",
+    "rationale": "Nurse and patient. Although diagnosing is basically the nurse\u2019s responsibility, input from the patient is essential to formulate the correct nursing diagnosis."
+  },
+  {
+    "question": "Which of the following behaviors by Nurse Jane Robles demonstrates that she understands well th elements of effecting charting?",
+    "choices": {
+      "A": "She writes in the chart using a no. 2 pencil.",
+      "B": "She noted: appetite is good this afternoon.",
+      "C": "She signs on the medication sheet after administering the medication.",
+      "D": "She signs her charting as follow: J.R"
+    },
+    "correct_answer": "C",
+    "rationale": "Health belief. Health belief of an individual influences his/her preventive health behavior."
+  },
+  {
+    "question": "What is the disadvantage of computerized documentation of the nursing process?",
+    "choices": {
+      "A": "ccuracy",
+      "B": "Legibility",
+      "C": "oncern for privacy",
+      "D": "Rapid communication"
+    },
+    "correct_answer": "D",
+    "rationale": "Decreased urine output. Adreno-cortical response involves release of aldosterone that leads to retention of sodium and water. This results to decreased urine output."
+  },
+  {
+    "question": "The theorist who believes that adaptation and manipulation of stressors are related to foster change is:",
+    "choices": {
+      "A": "orothea Orem",
+      "B": "Sister Callista Roy",
+      "C": "Imogene King",
+      "D": "Virginia Henderson"
+    },
+    "correct_answer": "D",
+    "rationale": "Aspirate urine from the tubing port using a sterile syringe. The nurse should aspirate the urine from the port using a sterile syringe to obtain a urine specimen. Opening a closed drainage system increase the risk of urinary tract infection."
+  },
+  {
+    "question": "Formulating a nursing diagnosis is a joint function of:",
+    "choices": {
+      "A": "Patient and relatives",
+      "B": "Nurse and patient",
+      "C": "octor and family",
+      "D": "Nurse and doctor"
+    },
+    "correct_answer": "A",
+    "rationale": "Stop the infusion. The sign and symptoms indicate extravasation so the IVF should be stopped immediately and put warm not cold towel on the affected site."
+  },
+  {
+    "question": "Mrs. Caperlac has been diagnosed to have hypertension since 10 years ago. Since then, she had maintained low sodium, low fat diet, to control her blood pressure. This practice is viewed as:",
+    "choices": {
+      "A": "ultural belief",
+      "B": "Personal belief",
+      "C": "Health belief",
+      "D": "Superstitious belief"
+    },
+    "correct_answer": "B",
+    "rationale": "After few minutes, return to that patient\u2019s room and do not leave until the patient takes the medication. This is to verify or to make sure that the medication was taken by the patient as directed."
+  },
+  {
+    "question": "Becky is on NPO since midnight as preparation for blood test. Adreno-cortical response is activated. Which of the following is an expected response?",
+    "choices": {
+      "A": "Low blood pressure",
+      "B": "Warm, dry skin",
+      "C": "ecreased serum sodium levels",
+      "D": "ecreased urine output"
+    },
+    "correct_answer": "A",
+    "rationale": "Place the feeding 20 inches above the pint if insertion of NGT. The height of the feeding is above 12 inches above the point of insertion, bot 20 inches. If the height of feeding is too high, this results to very rapid introduction of feeding. This may trigger nausea and vomiting."
+  },
+  {
+    "question": "What nursing action is appropriate when obtaining a sterile urine specimen from an indwelling catheter to prevent infection?",
+    "choices": {
+      "A": "Use sterile gloves when obtaining urine.",
+      "B": "Open the drainage bag and pour out the urine.",
+      "C": "isconnect the catheter from the tubing and get urine.",
+      "D": "spirate urine from the tubing port using a sterile syringe."
+    },
+    "correct_answer": "D",
+    "rationale": "Educator. When teaching a patient about medications before discharge, the nurse is acting as an educator. A caregiver provides direct care to the patient. The nurse acts as s patient advocate when making the patient\u2019s wishes known to the doctor."
+  },
+  {
+    "question": "A client is receiving 115 ml/hr of continuous IVF. The nurse notices that the venipuncture site is red and swollen. Which of the following interventions would the nurse perform first?",
+    "choices": {
+      "A": "Stop the infusion",
+      "B": "all the attending physician",
+      "C": "Slow that infusion to 20 ml/hr",
+      "D": "Place a clod towel on the site"
+    },
+    "correct_answer": "C",
+    "rationale": "Capillary refill greater than 3 seconds and buccal cyanosis. Capillary refill greater than 3 seconds and buccal cyanosis indicate decreased oxygen to the tissues which requires immediate attention/intervention. Oriented to date, time and place, hemoglobin of 13 g/dl are normal data."
+  },
+  {
+    "question": "The nurse enters the room to give a prescribed medication but the patient is inside the bathroom. What should the nurse do?",
+    "choices": {
+      "A": "Leave the medication at the bedside and leave the room.",
+      "B": "fter few minutes, return to that patient\u2019s room and do not leave until the patient takes the medication.",
+      "C": "Instruct the patient to take the medication and leave it at the bedside.",
+      "D": "Wait for the patient to return to bed and just leave the medication at the bedside."
+    },
+    "correct_answer": "C",
+    "rationale": "Patient\u2019s NGT was removed 2 hours ago. The change-of-shift report should indicate significant recent changes in the patient\u2019s condition that the nurse assuming responsibility for care of the patient will need to monitor. The other options are not critical enough to include in the report."
+  },
+  {
+    "question": "Which of the following is inappropriate nursing action when administering NGT feeding?",
+    "choices": {
+      "A": "Place the feeding 20 inches above the pint if insertion of NGT.",
+      "B": "Introduce the feeding slowly.",
+      "C": "Instill 60ml of water into the NGT after feeding.",
+      "D": "ssist the patient in fowler\u2019s position."
+    },
+    "correct_answer": "A",
+    "rationale": "\u201cThe patient will experience decreased frequency of bowel elimination.\u201d The goal is the opposite, healthy response of the problem statement of the nursing diagnosis. In this situation, the problem statement is diarrhea."
+  },
+  {
+    "question": "A female patient is being discharged after thyroidectomy. After providing the medication teaching. The nurse asks the patient to repeat the instructions. The nurse is performing which professional role?",
+    "choices": {
+      "A": "Manager",
+      "B": "aregiver",
+      "C": "Patient advocate",
+      "D": "Educator"
+    },
+    "correct_answer": "C",
+    "rationale": "Making of individualized patient care. To be effective, the nursing care plan developed in the planning phase of the nursing process must reflect the individualized needs of the patient."
+  },
+  {
+    "question": "Which data would be of greatest concern to the nurse when completing the nursing assessment of a 68-year-old woman hospitalized due to Pneumonia?",
+    "choices": {
+      "A": "Oriented to date, time and place",
+      "B": "lear breath sounds",
+      "C": "apillary refill greater than 3 seconds and buccal cyanosis",
+      "D": "Hemoglobin of 13 g/dl"
+    },
+    "correct_answer": "A",
+    "rationale": "Ineffective breathing pattern related to pain, as evidenced by shortness of breath.. Physiologic needs (ex. Oxygen, fluids, nutrition) must be met before lower needs (such as safety and security, love and belongingness, self-esteem and self-actualization) can be met. Therefore, physiologic needs have the highest priority."
+  },
+  {
+    "question": "During a change-of-shift report, it would be important for the nurse relinquishing responsibility for care of the patient to communicate. Which of the following facts to the nurse assuming responsibility for care of the patient?",
+    "choices": {
+      "A": "That the patient verbalized, \u201cMy headache is gone.\u201d",
+      "B": "That the patient\u2019s barium enema performed 3 days ago was negative",
+      "C": "Patient\u2019s NGT was removed 2 hours ago",
+      "D": "Patient\u2019s family came for a visit this morning."
+    },
+    "correct_answer": "D",
+    "rationale": "0 degree. The patient should be positioned with the head of the bed completely flattened to perform an abdominal examination. If the head of the bed is elevated, the abdominal muscles and organs can be bunched up, altering the findings."
+  }
+]

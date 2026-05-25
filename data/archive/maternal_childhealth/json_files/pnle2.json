@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Nurse Bella explains to a 28 year old pregnant woman undergoing a non-stress test that the test is a way of evaluating the condition of the fetus by comparing the fetal heart rate with:",
+    "choices": {
+      "A": "Fetal lie",
+      "B": "Fetal movement",
+      "C": "Maternal blood pressure",
+      "D": "Maternal uterine contractions"
+    },
+    "correct_answer": "B",
+    "rationale": "Fetal movement. Non-stress test measures response of the FHR to the fetal movement. With fetal movement, FHR increase by 15 beats and remain for 15 seconds then decrease to average rate. No increase means poor oxygenation perfusion to fetus."
+  },
+  {
+    "question": "During a 2 hour childbirth focusing on labor and delivery process for primigravida. The nurse describes the second maneuver that the fetus goes through during labor progress when the head is the presenting part as which of the following:",
+    "choices": {
+      "A": "Flexion",
+      "B": "Internal rotation",
+      "C": "escent",
+      "D": "External rotation"
+    },
+    "correct_answer": "A",
+    "rationale": "Flexion. The 6 cardinal movements of labor are descent, flexion, internal rotation, extension, external rotation and expulsion."
+  },
+  {
+    "question": "Mrs. Jovel Diaz went to the hospital to have her serum blood test for alpha-fetoprotein. The nurse informed her about the result of the elevation of serum AFP. The patient asked her what was the test for:",
+    "choices": {
+      "A": "ongenital Adrenal Hyperplasia",
+      "B": "PKU",
+      "C": "own Syndrome",
+      "D": "Neural tube defects"
+    },
+    "correct_answer": "D",
+    "rationale": "Neural tube defects. Alpha-fetoprotein is a substance produces by the fetal liver that is present in amniotic fluid and maternal serum. The level is abnormally high in the maternal serum if the fetus has an open spinal or abdominal defect because the open defect allows more AFP to appear."
+  },
+  {
+    "question": "Fetal heart rate can be auscultated with a fetoscope as early as:",
+    "choices": {
+      "A": "5 weeks of gestation",
+      "B": "10 weeks of gestation",
+      "C": "15 weeks of gestation",
+      "D": "20 weeks of gestation"
+    },
+    "correct_answer": "D",
+    "rationale": "20 weeks of gestation. The FHR can be auscultated with a fetoscope at about 20 weeks of gestation. FHR is usually auscultated at the midline suprapubic region with Doppler ultrasound at 10 to 12 weeks of gestation. FHR cannot be heard any earlier than 10 weeks of gestation."
+  },
+  {
+    "question": "Mrs. Bendivin states that she is experiencing aching swollen, leg veins. The nurse would explain that this is most probably the result of which of the following:",
+    "choices": {
+      "A": "Thrombophlebitis",
+      "B": "PIH",
+      "C": "Pressure on blood vessels from the enlarging uterus",
+      "D": "The force of gravity pulling down on the uterus"
+    },
+    "correct_answer": "C",
+    "rationale": "Pressure on blood vessels from the enlarging uterus. Pressure of the growing fetus on blood vessels results in an increase risk for venous stasis in the lower extremities. Subsequently, edema and varicose vein formation may occur."
+  },
+  {
+    "question": "Mrs. Ella Santoros is a 25 year old primigravida who has Rheumatic heart disease lesion. Her pregnancy has just been diagnosed. Her heart disease has not caused her to limit physical activity in the past. Her cardiac disease and functional capacity classification is:",
+    "choices": {
+      "A": "lass I",
+      "B": "lass II",
+      "C": "lass III",
+      "D": "lass IV"
+    },
+    "correct_answer": "A",
+    "rationale": "Class I. Clients under class I has no physical activity limitation. There is a slight limitation of physical activity in class II, ordinary activity causes fatigue, palpitation, dyspnea or angina. Class III is moderate limitation of physical activity; less than ordinary activity causes fatigue. Unable to carry on any activity without experiencing discomfort is under class IV."
+  },
+  {
+    "question": "The client asks the nurse, \u201cWhen will this soft spot at the top of the head of my baby will close?\u201d The nurse should instruct the mother that the neonate\u2019s anterior fontanel will normally close by age:",
+    "choices": {
+      "A": "2-3 months",
+      "B": "6-8 months",
+      "C": "10-12 months",
+      "D": "12-18 months"
+    },
+    "correct_answer": "D",
+    "rationale": "12-18 months. Anterior fontanel closes at 12-18 months while posterior fontanel closes at birth until 2 months."
+  },
+  {
+    "question": "When a mother bleeds and the uterus is relaxed, soft and non-tender, you can account the cause to:",
+    "choices": {
+      "A": "tony of the uterus",
+      "B": "Presence of uterine scar",
+      "C": "Laceration of the birth canal",
+      "D": "Presence of retained placenta fragments"
+    },
+    "correct_answer": "A",
+    "rationale": "Atony of the uterus. Uterine atony, or relaxation of the uterus is the most frequent cause of postpartal hemorrhage. It is the inability to maintain the uterus in contracted state."
+  },
+  {
+    "question": "Mrs. Pichie Gonzales\u2019s LMP began April 4, 2010. Her EDD should be which of the following:",
+    "choices": {
+      "A": "February 11, 2011",
+      "B": "January 11, 20111",
+      "C": "ecember 12, 2010",
+      "D": "Nowember 14, 2010"
+    },
+    "correct_answer": "B",
+    "rationale": "January 11, 20111. Using the Nagel\u2019s rule, he use this formula ( -3 calendar months + 7 days)."
+  },
+  {
+    "question": "Which of the following prenatal laboratory test values would the nurse consider as significant?",
+    "choices": {
+      "A": "Hematocrit 33.5%",
+      "B": "WBC 8,000/mm3",
+      "C": "Rubella titer less than 1:8",
+      "D": "One hour glucose challenge test 110 g/dL"
+    },
+    "correct_answer": "C",
+    "rationale": "Rubella titer less than 1:8. A rubella titer should be 1:8 or greater. Thus, a finding of a titer less than 1:8 is significant, indicating that the client may not possess immunity to rubella. A hematocrit of 33.5%, WBC of 8,000/mm3, and a 1 hour glucose challenge test of 110 g/dL are within normal parameters."
+  },
+  {
+    "question": "Aling Patricia is a patient with preeclampsia. You advise her about her condition, which would tell you that she has not really understood your instructions?",
+    "choices": {
+      "A": "\u201cI will restrict my fat in my diet.\u201d",
+      "B": "\u201cI will limit my activities and rest more frequently throughout the day.\u201d",
+      "C": "\u201cI will avoid salty foods in my diet.\u201d",
+      "D": "\u201cI will come more regularly for check-up.\u201d"
+    },
+    "correct_answer": "B",
+    "rationale": "\u201cI will limit my activities and rest more frequently throughout the day.\u201dPregnant woman with preeclampsia should be in a complete bed rest. When body is in recumbent position, sodium tends to be excreted at a faster rate. It is the best method of aiding increased excretion of sodium and encouraging diuresis. Rest should always be in a lateral recumbent position to avoid uterine pressure on the vena cava and prevent supine hypotension."
+  },
+  {
+    "question": "Mrs. Grace Evangelista is admitted with severe preeclampsia. What type of room should the nurse select this patient?",
+    "choices": {
+      "A": "room next to the elevator.",
+      "B": "The room farthest from the nursing station.",
+      "C": "The quietest room on the floor.",
+      "D": "The labor suite."
+    },
+    "correct_answer": "C",
+    "rationale": "The quietest room on the floor.A loud noise such as a crying baby, or a dropped tray of equipment may be sufficient to trigger a seizure initiating eclampsia, a woman with severe preeclampsia should be admiotted to a private room so she can rest as undisturbed as possible. Darken the room if possible because bright light can trigger seizures."
+  },
+  {
+    "question": "During a prenatal check-up, the nurse explains to a client who is Rh negative that RhoGAM will be given:",
+    "choices": {
+      "A": "Weekly during the 8th month because this is her third pregnancy.",
+      "B": "uring the second trimester, if amniocentesis indicates a problem.",
+      "C": "To her infant immediately after delivery if the Coomb\u2019s test is positive.",
+      "D": "Within 72 hours after delivery if infant is found to be Rh positive."
+    },
+    "correct_answer": "D",
+    "rationale": "Within 72 hours after delivery if infant is found to be Rh positive. RhoGAM is given to Rh-negative mothers within 72 hours after birth of Rh-positive baby to prevent development of antibodies in the maternal blood stream, which will be fata to succeeding Rh-positive offspring."
+  },
+  {
+    "question": "A baby boy was born at 8:50pm. At 8:55pm, the heart rate was 99 bpm. She has a weak cry, irregular respiration. She was moving all extremities and only her hands and feet were still slightly blue. The nurse should enter the APGAR score as:",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct_answer": "B",
+    "rationale": "6. Heart rate of 99 bpm-1; weak cry-1; irregular respiration-1; moving all extremities-2; extremities are slightly blue-1; with a total score of 6."
+  },
+  {
+    "question": "Billy is a 4 year old boy who has an IQ of 140 which means:",
+    "choices": {
+      "A": "verage normal",
+      "B": "very superior",
+      "C": "bove average",
+      "D": "genius"
+    },
+    "correct_answer": "D",
+    "rationale": "genius. IQ= mental age/chronological age x 100. Mental age refers to the typical intelligence level found for people at a give chronological age. OQ of 140 and above is considered genius."
+  },
+  {
+    "question": "A newborn is brought to the nursery. Upon assessment, the nurse finds that the child has short palpebral fissures, thinned upper lip. Based on this data, the nurse suspects that the newborn is MOST likely showing the effects of:",
+    "choices": {
+      "A": "hronic toxoplasmosis",
+      "B": "Lead poisoning",
+      "C": "ongenital anomalies",
+      "D": "Fetal alcohol syndrome"
+    },
+    "correct_answer": "D",
+    "rationale": "Fetal alcohol syndrome. The newborn with fetal alcohol syndrome has a number of possible problems at birth. Characteristics that mark the syndrome include pre and postnatal growth retardation; CNS involvement such as cognitive challenge, microcephally and cerebral palsy; and a distinctive facial feature of a short palpebral fissure and thin upper lip."
+  },
+  {
+    "question": "A priority nursing intervention for the infant with cleft lip is which of the following:",
+    "choices": {
+      "A": "Monitoring for adequate nutritional intake",
+      "B": "Teaching high-risk newborn care",
+      "C": "ssessing for respiratory distress",
+      "D": "Preventing injury"
+    },
+    "correct_answer": "A",
+    "rationale": "Monitoring for adequate nutritional intake. The infant with cleft lip is unable to create an adequate seal for sucking. The child is at risk for inadequate nutritional intake as well as aspiration."
+  },
+  {
+    "question": "Nurse Jacob is assessing a 12 year old who has hemophilia A. Which of the following assessment findings would the nurse anticipate?",
+    "choices": {
+      "A": "n excess of RBC",
+      "B": "n excess of WBC",
+      "C": "deficiency of clotting factor VIII",
+      "D": "deficiency of clotting factor IX"
+    },
+    "correct_answer": "C",
+    "rationale": "a deficiency of clotting factor VIII. Hemophillia A (classic hemophilia) is a deficiency in factor VIII (an alpha globulin that stabilizes fibrin clots)."
+  },
+  {
+    "question": "Celine, a mother of a 2 year old tells the nurse that her child \u201ccries and has a fit when I have to leave him with a sitter or someone else.\u201d Which of the following statements would be the nurse\u2019s most accurate analysis of the mother\u2019s comment?",
+    "choices": {
+      "A": "The child has not experienced limit-setting or structure.",
+      "B": "The child is expressing a physical need, such as hunger.",
+      "C": "The mother has nurtured overdependence in the child.",
+      "D": "The mother is describing her child\u2019s separation anxiety."
+    },
+    "correct_answer": "D",
+    "rationale": "The mother is describing her child\u2019s separation anxiety. Before coming to any conclusion, the nurse should ask the mother focused questions; however, based on initial information, the analysis of separation anxiety would be most valid. Separation anxiety is a normal toddler response. When the child senses he is being sent away from those who most provide him with love and security. Crying is one way a child expresses a physical need; however, the nurse would be hasty in drawing this as first conclusion based on what the mother has said. Nurturing overdependence or not providing structure for the toddler are inaccurate conclusions based on the information provided."
+  },
+  {
+    "question": "Mylene Lopez, a 16 year old girl with scoliosis has recently received an invitation to a pool party. She asks the nurse how she can disguise her impairment when dressed in a bathing suit. Which nursing diagnosis can be justified by Mylene\u2019s statement?",
+    "choices": {
+      "A": "nxiety",
+      "B": "ody image disturbance",
+      "C": "Ineffective individual coping",
+      "D": "Social isolation"
+    },
+    "correct_answer": "B",
+    "rationale": "Body image disturbance. Mylene is experiencing uneasiness about the curvative of her spine, which will be more evident when she wears a bathing suit. This data suggests a body image disturbance. There is no evidence of anxiety or ineffective coping. The fact that Mylene is planning to attend a pool party dispels a diagnosis of social isolation."
+  },
+  {
+    "question": "The foul-smelling, frothy characteristic of the stool in cystic fibrosis results from the presence of large amounts of which of the following:",
+    "choices": {
+      "A": "sodium and chloride",
+      "B": "undigested fat",
+      "C": "semi-digested carbohydrates",
+      "D": "lipase, trypsin and amylase"
+    },
+    "correct_answer": "B",
+    "rationale": "undigested fat. The client with cystic fibrosis absorbs fat poorly because of the think secretions blocking the pancreatic duct. The lack of natural pancreatic enzyme leads to poor absorption of predominantly fats in the duodenum. Foul-smelling, frothy stool is termed steatorrhea."
+  },
+  {
+    "question": "Which of the following would be a disadvantage of breast feeding?",
+    "choices": {
+      "A": "involution occurs rapidly",
+      "B": "the incidence of allergies increases due to maternal antibodies",
+      "C": "the father may resent the infant\u2019s demands on the mother\u2019s body",
+      "D": "there is a greater chance of error during preparation"
+    },
+    "correct_answer": "C",
+    "rationale": "the father may resent the infant\u2019s demands on the mother\u2019s body. With breast feeding, the father\u2019s body is not capable of providing the milk for the newborn, which may interfere with feeding the newborn, providing fewer chances for bonding, or he may be jealous of the infant\u2019s demands on his wife time and body. Breast feeding is advantageous because uterine involution occurs more rapidly, thus minimizing blood loss. The presence of maternal antibodies in breast milk helps decrease the incidence of allergies in the newborn. A greater chance for error is associated with bottle feeding. No preparation required for breast feeding."
+  },
+  {
+    "question": "A client is noted to have lymphedema, webbed neck and low posterior hairline. Which of the following diagnoses is most appropriate?",
+    "choices": {
+      "A": "Turner\u2019s syndrome",
+      "B": "own\u2019s syndrome",
+      "C": "Marfan\u2019s syndrome",
+      "D": "Klinefelter\u2019s syndrome"
+    },
+    "correct_answer": "A",
+    "rationale": "Turner\u2019s syndrome. Lymphedema, webbed neck and low posterior hairline, these are the 3 key assessment features in Turner\u2019s syndrome. If the child is diagnosed early in age, proper treatment can be offered to the family. All newborns should be screened for possible congenital defects."
+  },
+  {
+    "question": "A 4 year old boy most likely perceives death in which way:",
+    "choices": {
+      "A": "n insignificant event unless taught otherwise",
+      "B": "Punishment for something the individual did",
+      "C": "Something that just happens to older people",
+      "D": "Temporary separation from the loved one."
+    },
+    "correct_answer": "D",
+    "rationale": "Temporary separation from the loved one. The predominant perception of death by preschool age children is that death is temporary separation. Because that child is losing someone significant and will not see that person again, it\u2019s inaccurate to infer death is insignificant, regardless of the child\u2019s response."
+  },
+  {
+    "question": "Catherine Diaz is a 14 year old patient on a hematology unit who is being treated for sickle cell crisis. During a crisis such as that seen in sickle cell anemia, aldosterone release is stimulated. In what way might this influence Catherine\u2019s fluid and electrolyte balance?",
+    "choices": {
+      "A": "sodium loss, water loss and potassium retention",
+      "B": "sodium loss, water los and potassium loss",
+      "C": "sodium retention, water loss and potassium retention",
+      "D": "sodium retention, water retention and potassium loss"
+    },
+    "correct_answer": "D",
+    "rationale": "sodium retention, water retention and potassium loss. Stress stimulates the adrenal cortex to increase the release of aldosterone. Aldosterone promotes the resorption of sodium, the retention of water and the loss of potassium."
+  }
+]

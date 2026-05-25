@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "A 10 year old who has sustained a head injury is brought to the emergency department by his mother. A diagnosis of a mild concussion is made. At the time of discharge, nurse Ron should instruct the mother to:",
+    "choices": {
+      "A": "Withhold food and fluids for 24 hours.",
+      "B": "Allow him to play outdoors with his friends.",
+      "C": "Arrange for a follow up visit with the child’s primary care provider in one week.",
+      "D": "Check for any change in responsiveness every two hours until the follow-up visit."
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Arrange for a follow up visit with the child’s primary care provider in one week."
+  },
+  {
+    "question": "A male client has suffered a motor accident and is now suffering from hypovolemic shock. Nurse Helen should frequency assess the client’s vital signs during the compensatory stage of shock, because:",
+    "choices": {
+      "A": "Arteriolar constriction occurs",
+      "B": "The cardiac workload decreases",
+      "C": "Decreased contractility of the heart occurs",
+      "D": "The parasympathetic nervous system is triggered"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Arteriolar constriction occurs"
+  },
+  {
+    "question": "A paranoid male client with schizophrenia is losing weight, reluctant to eat, and voicing concerns about being poisoned. The best intervention by nurse Dina would be to:",
+    "choices": {
+      "A": "Allow the client to open canned or pre-packaged food",
+      "B": "Restrict the client to his room until 2 lbs are gained",
+      "C": "Have a staff member personally taste all of the client’s food",
+      "D": "Tell the client the food has been x-rayed by the staff and is safe"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Allow the client to open canned or pre-packaged food"
+  },
+  {
+    "question": "One day the mother of a young adult confides to nurse Frida that she is very troubled by he child’s emotional illness. The nurse’s most therapeutic initial response would be:",
+    "choices": {
+      "A": "“You may be able to lessen your feelings of guilt by seeking counseling”",
+      "B": "“It would be helpful if you become involved in volunteer work at this time”",
+      "C": "“I recognize it’s hard to deal with this, but try to remember that this too shall pass”",
+      "D": "“Joining a support group of parents who are coping with this problem can be quite helpful."
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: “Joining a support group of parents who are coping with this problem can be quite helpful."
+  },
+  {
+    "question": "To check for wound hemorrhage after a client has had a surgery for the removal of a tumor in the neck, nurse grace should:",
+    "choices": {
+      "A": "Loosen an edge of the dressing and lift it to see the wound",
+      "B": "Observe the dressing at the back of the neck for the presence of blood",
+      "C": "Outline the blood as it appears on the dressing to observe any progression",
+      "D": "Press gently around the incision to express accumulated blood from the wound"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Observe the dressing at the back of the neck for the presence of blood"
+  },
+  {
+    "question": "A 16-year-old primigravida arrives at the labor and birthing unit in her 38th week of gestation and states that she is labor. To verify that the client is in true labor nurse Trina should:",
+    "choices": {
+      "A": "Obtain sides for a fern test",
+      "B": "Time any uterine contractions",
+      "C": "Prepare her for a pelvic examination",
+      "D": "Apply nitrazine paper to moist vaginal tissue"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Prepare her for a pelvic examination"
+  },
+  {
+    "question": "As part of the diagnostic workup for pulmonic stenosis, a child has cardiac catheterization. Nurse Julius is aware that children with pulmonic stenosis have increased pressure:",
+    "choices": {
+      "A": "In the pulmonary vein",
+      "B": "In the pulmonary artery",
+      "C": "On the left side of the heart",
+      "D": "On the right side of the heart"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: On the right side of the heart"
+  },
+  {
+    "question": "An obese client asks nurse Julius how to lose weight. Before answering, the nurse should remember that long-term weight loss occurs best when:",
+    "choices": {
+      "A": "Eating patterns are altered",
+      "B": "Fats are limited in the diet",
+      "C": "Carbohydrates are regulated",
+      "D": "Exercise is a major component"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Eating patterns are altered"
+  },
+  {
+    "question": "As a very anxious female client is talking to the nurse May, she starts crying. She appears to be upset that she cannot control her crying. The most appropriate response by the nurse would be:",
+    "choices": {
+      "A": "“Is talking about your problem upsetting you?”",
+      "B": "“It is Ok to cry; I’ll just stay with you for now”",
+      "C": "“You look upset; lets talk about why you are crying.”",
+      "D": "“Sometimes it helps to get it out of your system.”"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: “It is Ok to cry; I’ll just stay with you for now”"
+  },
+  {
+    "question": "A patient has partial-thickness burns to both legs and portions of his trunk. Which of the following I.V. fluids is given first?",
+    "choices": {
+      "A": "Albumin",
+      "B": "D5W",
+      "C": "Lactated Ringer’s solution",
+      "D": "0.9% sodium chloride solution with 2 mEq of potassium per 100 ml"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Lactated Ringer’s solution"
+  },
+  {
+    "question": "During the first 48 hours after a severe burn of 40% of the clients body surface, the nurse’s assessment should include observations for water intoxication. Associated adaptations include:",
+    "choices": {
+      "A": "Sooty-colored sputum",
+      "B": "Frothy pink-tinged sputum",
+      "C": "Twitching and disorientation",
+      "D": "Urine output below 30ml per hour"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Twitching and disorientation"
+  },
+  {
+    "question": "After a muscle biopsy, nurse Willy should teach the client to:",
+    "choices": {
+      "A": "Change the dressing as needed",
+      "B": "Resume the usual diet as soon as desired",
+      "C": "Bathe or shower according to preference",
+      "D": "Expect a rise in body temperature for 48 hours"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Resume the usual diet as soon as desired"
+  },
+  {
+    "question": "Before a client whose left hand has been amputated can be fitted for a prosthesis, nurse Joy is aware that:",
+    "choices": {
+      "A": "Arm and shoulder muscles must be developed",
+      "B": "Shrinkage of the residual limb must be completed",
+      "C": "Dexterity in the other extremity must be achieved",
+      "D": "Full adjustment to the altered body image must have occurred"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Shrinkage of the residual limb must be completed"
+  },
+  {
+    "question": "Nurse Cathy applies a fetal monitor to the abdomen of a client in active labor. When the client has contractions, the nurse notes a 15 beat per minute deceleration of the fetal heart rate below the baseline lasting 15 seconds. Nurse Cathy should:",
+    "choices": {
+      "A": "Change the maternal position",
+      "B": "Prepare for an immediate birth",
+      "C": "Call the physician immediately",
+      "D": "Obtain the client’s blood pressure"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Change the maternal position"
+  },
+  {
+    "question": "A male client receiving prolonged steroid therapy complains of always being thirsty and urinating frequently. The best initial action by the nurse would be to:",
+    "choices": {
+      "A": "Perform a finger stick to test the client’s blood glucose level",
+      "B": "Have the physician assess the client for an enlarged prostate",
+      "C": "Obtain a urine specimen from the client for screening purposes",
+      "D": "Assess the client’s lower extremities for the presence of pitting edema"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Perform a finger stick to test the client’s blood glucose level"
+  },
+  {
+    "question": "Nurse Bea recognizes that a pacemaker is indicated when a client is experiencing:",
+    "choices": {
+      "A": "Angina",
+      "B": "Chest pain",
+      "C": "Heart block",
+      "D": "Tachycardia"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Heart block"
+  },
+  {
+    "question": "When administering pancrelipase (Pancreases capsules) to child with cystic fibrosis, nurse Faith knows they should be given:",
+    "choices": {
+      "A": "With meals and snacks",
+      "B": "Every three hours while awake",
+      "C": "On awakening, following meals, and at bedtime",
+      "D": "After each bowel movement and after postural draianage"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: With meals and snacks"
+  },
+  {
+    "question": "A preterm neonate is receiving oxygen by an overhead hood. During the time the infant is under the hood, it would be appropriate for nurse Gian to:",
+    "choices": {
+      "A": "Hydrate the infant q15 min",
+      "B": "Put a hat on the infant’s head",
+      "C": "Keep the oxygen concentration consistent",
+      "D": "Remove the infant q15 min for stimulation"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Put a hat on the infant’s head"
+  },
+  {
+    "question": "A client’s sputum smears for acid fast bacilli (AFB) are positive, and transmission-based airborne precautions are ordered. Nurse Kyle should instruct visitors to:",
+    "choices": {
+      "A": "Limit contact with non-exposed family members",
+      "B": "Avoid contact with any objects present in the client’s room",
+      "C": "Wear an Ultra-Filter mask when they are in the client’s room",
+      "D": "Put on a gown and gloves before going into the client’s room"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Wear an Ultra-Filter mask when they are in the client’s room"
+  },
+  {
+    "question": "A client with a head injury has a fixed, dilated right pupil; responds only to painful stimuli; and exhibits decorticate posturing. Nurse Kate should recognize that these are signs of:",
+    "choices": {
+      "A": "Meningeal irritation",
+      "B": "Subdural hemorrhage",
+      "C": "Medullary compression",
+      "D": "Cerebral cortex compression"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Cerebral cortex compression"
+  },
+  {
+    "question": "After a lateral crushing chest injury, obvious right-sided paradoxic motion of the client’s chest demonstrates multiple rib fraactures, resulting in a flail chest. The complication the nurse should carefully observe for would be:",
+    "choices": {
+      "A": "Mediastinal shift",
+      "B": "Tracheal laceration",
+      "C": "Open pneumothorax",
+      "D": "Pericardial tamponade"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Open pneumothorax"
+  },
+  {
+    "question": "When planning care for a client at 30-weeks gestation, admitted to the hospital after vaginal bleeding secondary to placenta previa, the nurse’s primary objective would be:",
+    "choices": {
+      "A": "Provide a calm, quiet environment",
+      "B": "Prepare the client for an immediate cesarean birth",
+      "C": "Prevent situations that may stimulate the cervix or uterus",
+      "D": "Ensure that the client has regular cervical examinations assess for labor"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Prevent situations that may stimulate the cervix or uterus"
+  },
+  {
+    "question": "When planning discharge teaching for a young female client who has had a pneumothorax, it is important that the nurse include the signs and symptoms of a pneumothorax and teach the client to seek medical assistance if she experiences:",
+    "choices": {
+      "A": "Substernal chest pain",
+      "B": "Episodes of palpitation",
+      "C": "Severe shortness of breath",
+      "D": "Dizziness when standing up"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Substernal chest pain"
+  },
+  {
+    "question": "After a laryngectomy, the most important equipment to place at the client’s bedside would be:",
+    "choices": {
+      "A": "Suction equipment",
+      "B": "Humidified oxygen",
+      "C": "A nonelectric call bell",
+      "D": "A cold-stream vaporizer"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Suction equipment"
+  },
+  {
+    "question": "Nurse Oliver interviews a young female client with anorexia nervosa to obtain information for the nursing history. The client’s history is likely to reveal a:",
+    "choices": {
+      "A": "Strong desire to improve her body image",
+      "B": "Close, supportive mother-daughter relationship",
+      "C": "Satisfaction with and desire to maintain her present weight",
+      "D": "Low level of achievement in school, with little concerns for grades"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Close, supportive mother-daughter relationship"
+  },
+  {
+    "question": "Nurse Bea should plan to assist a client with an obsessive-compulsive disorder to control the use of ritualistic behavior by:",
+    "choices": {
+      "A": "Providing repetitive activities that require little thought",
+      "B": "Attempting to reduce or limit situations that increase anxiety",
+      "C": "Getting the client involved with activities that will provide distraction",
+      "D": "Suggesting that the client perform menial tasks to expiate feelings of guilt"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Getting the client involved with activities that will provide distraction"
+  },
+  {
+    "question": "A 2 ½ year old child undergoes a ventriculoperitoneal shunt revision. Before discharge, nurse John, knowing the expected developmental behaviors for this age group, should tell the parents to call the physician if the child:",
+    "choices": {
+      "A": "Tries to copy all the father’s mannerisms",
+      "B": "Talks incessantly regardless of the presence of others",
+      "C": "Becomes fussy when frustrated and displays a shortened attention span",
+      "D": "Frequently starts arguments with playmates by claiming all toys are “mine”"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Talks incessantly regardless of the presence of others"
+  },
+  {
+    "question": "A urinary tract infection is a potential danger with an indwelling catheter. Nurse Gina can best plan to avoid this complication by:",
+    "choices": {
+      "A": "Assessing urine specific gravity",
+      "B": "Maintaining the ordered hydration",
+      "C": "Collecting a weekly urine specimen",
+      "D": "Emptying the drainage bag frequently"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Collecting a weekly urine specimen"
+  },
+  {
+    "question": "A client has sustained a fractured right femur in a fall on stairs. Nurse Troy with the emergency response team assess for signs of circulatory impairment by:",
+    "choices": {
+      "A": "Turning the client to side lying position",
+      "B": "Asking the client to cough and deep breathe",
+      "C": "Taking the client’s pedal pulse in the affected limb",
+      "D": "Instructing the client to wiggle the toes of the right foot"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Turning the client to side lying position"
+  },
+  {
+    "question": "To assess orientation to place in a client suspected of having dementia of the alzheimers type, nurse Chris should ask:",
+    "choices": {
+      "A": "“Where are you?”",
+      "B": "“Who brought you here?”",
+      "C": "“Do you know where you are?”",
+      "D": "“How long have you been there?”"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: “How long have you been there?”"
+  },
+  {
+    "question": "Nurse Mary assesses a postpartum client who had an abruption placentae and suspects that disseminated intravascular coagulation (DIC) is occurring when assessments demonstrate:",
+    "choices": {
+      "A": "A boggy uterus",
+      "B": "Multiple vaginal clots",
+      "C": "Hypotension and tachycardia",
+      "D": "Bleeding from the venipuncture site"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Bleeding from the venipuncture site"
+  },
+  {
+    "question": "When a client on labor experiences the urge to push a 9cm dilation, the breathing pattern that nurse Rhea should instruct the client to use is the:",
+    "choices": {
+      "A": "Expulsion pattern",
+      "B": "Slow paced pattern",
+      "C": "Shallow chest pattern",
+      "D": "blowing pattern"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Expulsion pattern"
+  },
+  {
+    "question": "Nurse Ronald should explain that the most beneficial between-meal snack for a client who is recovering from the full-thickness burns would be a:",
+    "choices": {
+      "A": "Cheeseburger and a malted",
+      "B": "Piece of blueberry pie and milk",
+      "C": "Bacon and tomato sandwich and tea",
+      "D": "Chicken salad sandwich and soft drink"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Piece of blueberry pie and milk"
+  },
+  {
+    "question": "Nurse Wilma recognizes that failure of a newborn to make the appropriate adaptation to extrauterine life would be indicated by:",
+    "choices": {
+      "A": "flexed extremities",
+      "B": "Cyanotic lips and face",
+      "C": "A heart rate of 130 beats per minute",
+      "D": "A respiratory rate of 40 breath per minute"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: flexed extremities"
+  },
+  {
+    "question": "The laboratory calls to state that a client’s lithium level is 1.9 mEq/L after 10 days of lithium therapy. Nurse Reese should:",
+    "choices": {
+      "A": "Notify the physician of the findings because the level is dangerously high",
+      "B": "Monitor the client closely because the level of lithium in the blood is slightly elevated",
+      "C": "Continue to administer the medication as ordered because the level is within the therapeutic range",
+      "D": "Report the findings to the physician so the dosage can be increased because the level is below therapeutic range"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Continue to administer the medication as ordered because the level is within the therapeutic range"
+  },
+  {
+    "question": "A client has a regular 30-day menstrual cycles. When teaching about the rhythm method, Which the client and her husband have chosen to use for family planning, nurse Dianne should emphasize that the client’s most fertile days are:",
+    "choices": {
+      "A": "Days 9 to 11",
+      "B": "Days 12 to 14",
+      "C": "Days 15 to 17",
+      "D": "Days 18 to 20"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Days 15 to 17"
+  },
+  {
+    "question": "Before an amniocentesis, nurse Alexandra should:",
+    "choices": {
+      "A": "Initiate the intravenous therapy as ordered by the physiscian",
+      "B": "Inform the client that the procedure could precipitate an infection",
+      "C": "Assure that informed consent has been obtained from the client",
+      "D": "Perform a vaginal examination on the client to assess cervical dilation"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Perform a vaginal examination on the client to assess cervical dilation"
+  },
+  {
+    "question": "While a client is on intravenous magnesium sulfate therapy for preeclampsia, it is essential for nurse Amy to monitor the client’s deep tendon reflexes to:",
+    "choices": {
+      "A": "Determine her level of consciousness",
+      "B": "Evaluate the mobility of the extremities",
+      "C": "Determine her response to painful stimuli",
+      "D": "Prevent development of respiratory distress"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Determine her level of consciousness"
+  },
+  {
+    "question": "A preschooler is admitted to the hospital with a diagnosis of acute glomerulonephritis. The child’s history reveals a 5-pound weight gain in one week and peritoneal edema. For the most accurate information on the status of the child’s edema, nursing intervention should include:",
+    "choices": {
+      "A": "Obtaining the child’s daily weight",
+      "B": "Doing a visual inspection of the child",
+      "C": "Measuring the child’s intake and output",
+      "D": "Monitoring the child’s electrolyte values"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Measuring the child’s intake and output"
+  },
+  {
+    "question": "Nurse Mickey is administering dexamethasome (Decadron) for the early management of a client’s cerebral edema. This treatment is effective because:",
+    "choices": {
+      "A": "Acts as hyperosmotic diuretic",
+      "B": "Increases tissue resistance to infection",
+      "C": "Reduces the inflammatory response of tissues",
+      "D": "Decreases the information of cerebrospinal fluid"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Decreases the information of cerebrospinal fluid"
+  },
+  {
+    "question": "During newborn nursing assessment, a positive Ortolani’s sign would be indicated by:",
+    "choices": {
+      "A": "A unilateral droop of hip",
+      "B": "A broadening of the perineum",
+      "C": "An apparent shortening of one leg",
+      "D": "An audible click on hip manipulation"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: A broadening of the perineum"
+  },
+  {
+    "question": "When caring for a dying client who is in the denial stage of grief, the best nursing approach would be to:",
+    "choices": {
+      "A": "Agree and encourage the client’s denial",
+      "B": "Allow the denial but be available to discuss death",
+      "C": "Reassure the client that everything will be OK",
+      "D": "Leave the client alone to confront the feelings of impending loss"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Allow the denial but be available to discuss death"
+  },
+  {
+    "question": "To decrease the symptoms of gastroesophageal reflux disease (GERD), the physician orders dietary and medication management. Nurse Helen should teach the client that the meal alteration that would be most appropriate would be:",
+    "choices": {
+      "A": "Ingest foods while they are hot",
+      "B": "Divide food into four to six meals a day",
+      "C": "Eat the last of three meals daily by 8pm",
+      "D": "Suck a peppermint candy after each meal"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Divide food into four to six meals a day"
+  },
+  {
+    "question": "After a mastectomy or hysterectomy, clients may feel incomplete as women. The statement that should alert nurse Gina to this feeling would be:",
+    "choices": {
+      "A": "“I can’t wait to see all my friends again”",
+      "B": "“I feel washed out; there isn’t much left”",
+      "C": "“I can’t wait to get home to see my grandchild”",
+      "D": "“My husband plans for me to recuperate at our daughter’s home”"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: “I can’t wait to see all my friends again”"
+  },
+  {
+    "question": "A client with obstruction of the common bile duct may show a prolonged bleeding and clotting time because:",
+    "choices": {
+      "A": "Vitamin K is not absorbed",
+      "B": "The ionized calcium levels falls",
+      "C": "The extrinsic factor is not absorbed",
+      "D": "Bilirubin accumulates in the plasma"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Bilirubin accumulates in the plasma"
+  },
+  {
+    "question": "Realizing that the hypokalemia is a side effect of steroid therapy, nurse Monette should monitor a client taking steroid medication for:",
+    "choices": {
+      "A": "Hyperactive reflexes",
+      "B": "An increased pulse rate",
+      "C": "Nausea, vomiting, and diarrhea",
+      "D": "Leg weakness with muscle cramps"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Leg weakness with muscle cramps"
+  },
+  {
+    "question": "When assessing a newborn suspected of having Down syndrome, nurse Rey would expect to observe:",
+    "choices": {
+      "A": "long thin fingers",
+      "B": "Large, protruding ears",
+      "C": "Hypertonic neck muscles",
+      "D": "Simian lines on the hands"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Large, protruding ears"
+  },
+  {
+    "question": "A 10 year old girl is admitted to the pediatric unit for recurrent pain and swelling of her joints, particularly her knees and ankles. Her diagnosis is juvenile rheumatoid arthritis. Nurse Janah recognizes that besides joint inflammation, a unique manifestation of the rheumatoid process involves the:",
+    "choices": {
+      "A": "Ears",
+      "B": "Eyes",
+      "C": "Liver",
+      "D": "Brain"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Ears"
+  },
+  {
+    "question": "A disturbed client is scheduled to begin group therapy. The client refuses to attend. Nurse Lolit should:",
+    "choices": {
+      "A": "Accept the client’s decision without discussion",
+      "B": "Have another client to ask the client to consider",
+      "C": "Tell the client that attendance at the meeting is required",
+      "D": "Insist that the client join the group to help the socialization process"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Insist that the client join the group to help the socialization process"
+  },
+  {
+    "question": "Because a severely depressed client has not responded to any of the antidepressant medications, the psychiatrist decides to try electroconvulsive therapy (ECT). Before the treatment the nurse should:",
+    "choices": {
+      "A": "Have the client speak with other clients receiving ECT",
+      "B": "Give the client a detailed explanation of the entire procedure",
+      "C": "Limit the client’s intake to a light breakfast on the days of the treatment",
+      "D": "Provide a simple explanation of the procedure and continue to reassure the client"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Provide a simple explanation of the procedure and continue to reassure the client"
+  },
+  {
+    "question": "Nurse Vicky is aware that teaching about colostomy care is understood when the client states, “I will contact my physician and report ____”:",
+    "choices": {
+      "A": "If I notice a loss of sensation to touch in the stoma tissue”",
+      "B": "When mucus is passed from the stoma between irrigations”",
+      "C": "The expulsion of flatus while the irrigating fluid is running out”",
+      "D": "If I have difficulty in inserting the irrigating tube into the stoma”"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: The expulsion of flatus while the irrigating fluid is running out”"
+  },
+  {
+    "question": "The client’s history that alerts nurse Henry to assess closely for signs of postpartum infection would be:",
+    "choices": {
+      "A": "Three spontaneous abortions",
+      "B": "negative maternal blood type",
+      "C": "Blood loss of 850 ml after a vaginal birth",
+      "D": "Maternal temperature of 99.9° F 12 hours after delivery"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Three spontaneous abortions"
+  },
+  {
+    "question": "A client is experiencing stomatitis as a result of chemotherapy. An appropriate nursing intervention related to this condition would be to:",
+    "choices": {
+      "A": "Provide frequent saline mouthwashes",
+      "B": "Use karaya powder to decrease irritation",
+      "C": "Increase fluid intake to compensate for the diarrhea",
+      "D": "Provide meticulous skin care of the abdomen with Betadine"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Use karaya powder to decrease irritation"
+  },
+  {
+    "question": "During a group therapy session, one of the clients ask a male client with the diagnosis of antisocial personality disorder why he is in the hospital. Considering this client’s type of personality disorder, the nurse might expect him to respond:",
+    "choices": {
+      "A": "“I need a lot of help with my troubles”",
+      "B": "“Society makes people react in old ways”",
+      "C": "“I decided that it’s time I own up to my problems”",
+      "D": "“My life needs straightening out and this might help”"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: “I need a lot of help with my troubles”"
+  },
+  {
+    "question": "A child visits the clinic for a 6-week checkup after a tonsillectomy and adenoidectomy. In addition to assessing hearing, the nurse should include an assessment of the child’s:",
+    "choices": {
+      "A": "Taste and smell",
+      "B": "Taste and speech",
+      "C": "Swallowing and smell",
+      "D": "Swallowing and speech"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Taste and smell"
+  },
+  {
+    "question": "A client is diagnosed with cancer of the jaw. A course of radiation therapy is to be followed by surgery. The client is concerned about the side effects related to the radiation treaments. Nurse Ria should explain that the major side effects that will experienced is:",
+    "choices": {
+      "A": "Fatigue",
+      "B": "Alopecia",
+      "C": "Vomiting",
+      "D": "Leucopenia"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Fatigue"
+  },
+  {
+    "question": "Nurse Katrina prepares an older-adult client for sleep, actions are taken to help reduce the likelihood of a fall during the night. Targeting the most frequent cause of falls, the nurse should:",
+    "choices": {
+      "A": "Offer the client assistance to the bathroom",
+      "B": "Move the bedside table closer to the client’s bed",
+      "C": "Encourage the client to take an available sedative",
+      "D": "Assist the client to telephone the spouse to say “goodnight”"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Assist the client to telephone the spouse to say “goodnight”"
+  },
+  {
+    "question": "When evaluating a growth and development of a 6 month old infant, nurse Patty would expect the infant to be able to:",
+    "choices": {
+      "A": "Sit alone, display pincer grasp, wave bye bye",
+      "B": "Pull self to a standing position, release a toy by choice, play peek-a-boo",
+      "C": "Crawl, transfer toy from one hand to the other, display of fear of strangers",
+      "D": "Turn completely over, sit momentarily without support, reach to be picked up"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Turn completely over, sit momentarily without support, reach to be picked up"
+  },
+  {
+    "question": "A breastfeeding mother asks the nurse what she can do to ease the discomfort caused by a cracked nipple. Nurse Tina should instruct the client to:",
+    "choices": {
+      "A": "Manually express milk and feed it to the baby in a bottle",
+      "B": "Stop breastfeeding for two days to allow the nipple to heal",
+      "C": "Use a breast shield to keep the baby from direct contact with the nipple",
+      "D": "Feed the baby on the unaffected breast first until the affected breast heals"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Feed the baby on the unaffected breast first until the affected breast heals"
+  },
+  {
+    "question": "Nurse Sandy observes that there is blood coming from the client’s ear after head injury. Nurse Sandy should:",
+    "choices": {
+      "A": "Turn the client to the unaffected side",
+      "B": "Cleanse the client’s ear with sterile gauze",
+      "C": "Test the drainage from the client’s ear with Dextrostix",
+      "D": "Place sterile cotton loosely in the external ear of the client"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Place sterile cotton loosely in the external ear of the client"
+  },
+  {
+    "question": "Nurse Gio plans a long term care for parents of children with sickle-cell anemia, which includes periodic group conferences. Some of the discussions should be directed towards:",
+    "choices": {
+      "A": "Finding special school facilities for the child",
+      "B": "Making plans for moving to a more therapeutic climate",
+      "C": "Choosing a means of birth control to avoid future pregnancies",
+      "D": "Airing their feelings regarding the transmission of the disease to the child"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Finding special school facilities for the child"
+  },
+  {
+    "question": "The central problem the nurse might face with a disturbed schizophrenic client is the client’s:",
+    "choices": {
+      "A": "Suspicious feelings",
+      "B": "Continuous pacing",
+      "C": "Relationship with the family",
+      "D": "Concern about working with others"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Suspicious feelings"
+  },
+  {
+    "question": "When planning care with a client during the postoperative recovery period following an abdominal hysterectomy and bilateral salpingo-oophorectomy, nurse Frida should include the explanation that:",
+    "choices": {
+      "A": "Surgical menopause will occur",
+      "B": "Urinary retention is a common problem",
+      "C": "Weight gain is expected, and dietary plan are needed",
+      "D": "Depression is normal and should be expected"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Depression is normal and should be expected"
+  },
+  {
+    "question": "An adolescent client with anorexia nervosa refuses to eat, stating, “I’ll get too fat.” Nurse Andrea can best respond to this behavior initially by:",
+    "choices": {
+      "A": "Not talking about the fact that the client is not eating",
+      "B": "Stopping all of the client’s priviledges until food is eaten",
+      "C": "Telling the client that tube feeding will eventually be necessary",
+      "D": "Pointing out to the client that death can occur with malnutrition."
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Stopping all of the client’s priviledges until food is eaten"
+  },
+  {
+    "question": "A pain scale is used to assess the degree of pain. The client rates the pain as an 8 on a scale of 10 before medication and a 7 on a scale of 10 after being medicated. Nurse Glenda determines that the:",
+    "choices": {
+      "A": "Client has a low pain tolerance",
+      "B": "Medication is not adequately effective",
+      "C": "Medication has sufficiently decreased the pain level",
+      "D": "Client needs more education about the use of the pain scale"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Medication is not adequately effective"
+  },
+  {
+    "question": "To enhance a neonate’s behavioral development, therapeutic nursing measures should include:",
+    "choices": {
+      "A": "Keeping the baby awake for longer periods of time before each feeding",
+      "B": "Assisting the parents to stimulate their baby through touch, sound, and sight.",
+      "C": "Encouraging parental contact for at least one 15-minute period every four hours.",
+      "D": "Touching and talking to the baby at least hourly, beginning within two to four hours after birth"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Touching and talking to the baby at least hourly, beginning within two to four hours after birth"
+  },
+  {
+    "question": "Before formulating a plan of care for a 6 year old boy with attention deficit hyperactivity disorder (ADHD), nurse Kyla is aware that the initial aim of therapy is to help the client to:",
+    "choices": {
+      "A": "Develop language skills",
+      "B": "Avoid his own regressive behavior",
+      "C": "Mainstream into a regular class in school",
+      "D": "Recognize himself as an independent person of worth"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Avoid his own regressive behavior"
+  },
+  {
+    "question": "Nurse Wally knows that the most important aspect of the preoperative care for a child with Wilms’ tumor would be:",
+    "choices": {
+      "A": "Checking the size of the child’s liver",
+      "B": "Monitoring the child’s blood pressure",
+      "C": "Maintaining the child in a prone position",
+      "D": "Collecting the child’s urine for culture and sensitivity"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Checking the size of the child’s liver"
+  },
+  {
+    "question": "At 11:00 pm the count of hydrocodone (Vicodin) is incorrect. After several minutes of searching the medication cart and medication administration records, no explanation can be found. The primary nurse should notify the:",
+    "choices": {
+      "A": "Nursing unit manager",
+      "B": "Hospital administrator",
+      "C": "Quality control manager",
+      "D": "Physician ordering the medication"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Physician ordering the medication"
+  },
+  {
+    "question": "When caring for the a client with a pneumothorax, who has a chest tube in place, nurse Kate should plan to:",
+    "choices": {
+      "A": "Administer cough suppressants at appropriate intervals as ordered",
+      "B": "Empty and measure the drainage in the collection chamber each shift",
+      "C": "Apply clamps below the insertion site when ever getting the client out of bed",
+      "D": "Encourage coughing, deep breathing, and range of motion to the arm on the affected side"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Administer cough suppressants at appropriate intervals as ordered"
+  },
+  {
+    "question": "According to C.E.Winslow, which of the following is the goal of Public Health?",
+    "choices": {
+      "A": "For people to attain their birthrights of health and longevity",
+      "B": "For promotion of health and prevention of disease",
+      "C": "For people to have access to basic health services",
+      "D": "For people to be organized in their health efforts"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: For people to have access to basic health services"
+  },
+  {
+    "question": "What other statistic may be used to determine attainment of longevity?",
+    "choices": {
+      "A": "Age-specific mortality rate",
+      "B": "Proportionate mortality rate",
+      "C": "Swaroop’s index",
+      "D": "Case fatality rate"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Case fatality rate"
+  },
+  {
+    "question": "Which of the following is the most prominent feature of public health nursing?",
+    "choices": {
+      "A": "It involves providing home care to sick people who are not confined in the hospital",
+      "B": "Services are provided free of charge to people within the catchment area.",
+      "C": "The public health nurse functions as part of a team providing a public health nursing services.",
+      "D": "Public health nursing focuses on preventive, not curative, services."
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Services are provided free of charge to people within the catchment area."
+  },
+  {
+    "question": "Which of the following is the mission of the Department of Health?",
+    "choices": {
+      "A": "Health for all Filipinos",
+      "B": "Ensure the accessibility and quality of health care",
+      "C": "Improve the general health status of the population",
+      "D": "Health in the hands of the Filipino people by the year 2020"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Ensure the accessibility and quality of health care"
+  },
+  {
+    "question": "Nurse Pauline determines whether resources were maximized in implementing Ligtas Tigdas, she is evaluating:",
+    "choices": {
+      "A": "Effectiveness",
+      "B": "Efficiency",
+      "C": "Adequacy",
+      "D": "Appropriateness"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Appropriateness"
+  },
+  {
+    "question": "Lissa is a B.S.N. graduate. She want to become a Public Health Nurse. Where will she apply?",
+    "choices": {
+      "A": "Department of Health",
+      "B": "Provincial Health Office",
+      "C": "Regional Health Office",
+      "D": "Rural Health Unit"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Department of Health"
+  },
+  {
+    "question": "As an epidemiologist, Nurse Celeste is responsible for reporting cases of notifiable diseases. What law mandates reporting of cases of notifiable diseases?",
+    "choices": {
+      "A": "Act 3573",
+      "B": "R.A. 3753",
+      "C": "R.A. 1054",
+      "D": "R.A. 1082"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Act 3573"
+  },
+  {
+    "question": "Nurse Fay is aware that isolation of a child with measles belongs to what level of prevention?",
+    "choices": {
+      "A": "Primary",
+      "B": "Secondary",
+      "C": "Intermediate",
+      "D": "Tertiary"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Secondary"
+  },
+  {
+    "question": "Nurse Gina is aware that the following is an advantage of a home visit?",
+    "choices": {
+      "A": "It allows the nurse to provide nursing care to a greater number of people.",
+      "B": "It provides an opportunity to do first hand appraisal of the home situation.",
+      "C": "It allows sharing of experiences among people with similar health problems.",
+      "D": "It develops the family’s initiative in providing for health needs of its members."
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: It provides an opportunity to do first hand appraisal of the home situation."
+  },
+  {
+    "question": "The PHN bag is an important tool in providing nursing care during a home visit. The most important principle of bag technique states that it:",
+    "choices": {
+      "A": "Should save time and effort.",
+      "B": "Should minimize if not totally prevent the spread of infection.",
+      "C": "Should not overshadow concern for the patient and his family.",
+      "D": "May be done in a variety of ways depending on the home situation, etc."
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Should save time and effort."
+  },
+  {
+    "question": "Nurse Willy reads about Path Goal theory. Which of the following behaviors is manifested by the leader who uses this theory?",
+    "choices": {
+      "A": "Recognizes staff for going beyond expectations by giving them citations",
+      "B": "Challenges the staff to take individual accountability for their own practice",
+      "C": "Admonishes staff for being laggards",
+      "D": "Reminds staff about the sanctions for non performance"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Reminds staff about the sanctions for non performance"
+  },
+  {
+    "question": "Nurse Cathy learns that some leaders are transactional leaders. Which of the following does NOT characterize a transactional leader?",
+    "choices": {
+      "A": "Focuses on management tasks",
+      "B": "Is a caretaker",
+      "C": "Uses trade-offs to meet goals",
+      "D": "Inspires others with vision"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Focuses on management tasks"
+  },
+  {
+    "question": "Functional nursing has some advantages, which one is an EXCEPTION?",
+    "choices": {
+      "A": "Psychological and sociological needs are emphasized.",
+      "B": "Great control of work activities.",
+      "C": "Most economical way of delivering nursing services.",
+      "D": "Workers feel secure in dependent role"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Great control of work activities."
+  },
+  {
+    "question": "Which of the following is the best guarantee that the patient’s priority needs are met?",
+    "choices": {
+      "A": "Checking with the relative of the patient",
+      "B": "Preparing a nursing care plan in collaboration with the patient",
+      "C": "Consulting with the physician",
+      "D": "Coordinating with other members of the team"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Consulting with the physician"
+  },
+  {
+    "question": "Nurse Tony stresses the need for all the employees to follow orders and instructions from him and not from anyone else. Which of the following principles does he refer to?",
+    "choices": {
+      "A": "Scalar chain",
+      "B": "Discipline",
+      "C": "Unity of command",
+      "D": "Order"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Scalar chain"
+  },
+  {
+    "question": "Nurse Joey discusses the goal of the department. Which of the following statements is a goal?",
+    "choices": {
+      "A": "Increase the patient satisfaction rate",
+      "B": "Eliminate the incidence of delayed administration of medications",
+      "C": "Establish rapport with patients",
+      "D": "Reduce response time to two minutes"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Increase the patient satisfaction rate"
+  },
+  {
+    "question": "Nurse Lou considers shifting to transformational leadership. Which of the following statements best describes this type of leadership?",
+    "choices": {
+      "A": "Uses visioning as the essence of leadership",
+      "B": "Serves the followers rather than being served",
+      "C": "Maintains full trust and confidence in the subordinates",
+      "D": "Possesses innate charisma that makes others feel good in his presence."
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Maintains full trust and confidence in the subordinates"
+  },
+  {
+    "question": "Nurse Mae tells one of the staff, “I don’t have time to discuss the matter with you now. See me in my office later” when the latter asks if they can talk about an issue. Which of the following conflict resolution strategies did she use?",
+    "choices": {
+      "A": "Smoothing",
+      "B": "Compromise",
+      "C": "Avoidance",
+      "D": "Restriction"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Smoothing"
+  },
+  {
+    "question": "Nurse Bea plans of assigning competent people to fill the roles designed in the hierarchy. Which process refers to this?",
+    "choices": {
+      "A": "Staffing",
+      "B": "Scheduling",
+      "C": "Recruitment",
+      "D": "Induction"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Scheduling"
+  },
+  {
+    "question": "Nurse Linda tries to design an organizational structure that allows communication to flow in all directions and involve workers in decision making. Which form of organizational structure is this?",
+    "choices": {
+      "A": "Centralized",
+      "B": "Decentralized",
+      "C": "Matrix",
+      "D": "Informal"
+    },
+    "correct_answer": "D",
+    "rationale": "The correct answer is D: Informal"
+  },
+  {
+    "question": "When documenting information in a client’s medical record, the nurse should:",
+    "choices": {
+      "A": "erase any errors.",
+      "B": "use a #2 pencil.",
+      "C": "leave one line blank before each new entry.",
+      "D": "end each entry with the nurse’s signature and title."
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: erase any errors."
+  },
+  {
+    "question": "Which of the following factors are major components of a client’s general background drug history?",
+    "choices": {
+      "A": "Allergies and socioeconomic status",
+      "B": "Urine output and allergies",
+      "C": "Gastric reflex and age",
+      "D": "Bowel habits and allergies"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Gastric reflex and age"
+  },
+  {
+    "question": "Which procedure or practice requires surgical asepsis?",
+    "choices": {
+      "A": "Hand washing",
+      "B": "Nasogastric tube irrigation",
+      "C": "I.V. cannula insertion",
+      "D": "Colostomy irrigation"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Nasogastric tube irrigation"
+  },
+  {
+    "question": "The nurse is performing wound care using surgical asepsis. Which of the following practices violates surgical asepsis?",
+    "choices": {
+      "A": "Holding sterile objects above the waist",
+      "B": "Pouring solution onto a sterile field cloth",
+      "C": "Considering a 1″ (2.5-cm) edge around the sterile field contaminated",
+      "D": "Opening the outermost flap of a sterile package away from the body"
+    },
+    "correct_answer": "C",
+    "rationale": "The correct answer is C: Considering a 1″ (2.5-cm) edge around the sterile field contaminated"
+  },
+  {
+    "question": "On admission, a client has the following arterial blood gas (ABG) values: PaO2, 50 mm Hg; PaCO2, 70 mm Hg; pH, 7.20; HCO3–, 28 mEq/L. Based on these values,",
+    "choices": {
+      "A": "the nurse should formulate which nursing diagnosis for this client?",
+      "B": "Risk for deficient fluid volume",
+      "C": "Deficient fluid volume",
+      "D": "Impaired gas exchange"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: the nurse should formulate which nursing diagnosis for this client?"
+  },
+  {
+    "question": "The use of larvivorous fish in malaria control is the basis for which strategy of malaria control?",
+    "choices": {
+      "A": "Stream seeding",
+      "B": "Stream clearing",
+      "C": "Destruction of breeding places",
+      "D": "Zooprophylaxis"
+    },
+    "correct_answer": "B",
+    "rationale": "The correct answer is B: Stream clearing"
+  },
+  {
+    "question": "In Integrated Management of Childhood Illness, severe conditions generally require urgent referral to a hospital. Which of the following severe conditions DOES NOT always require urgent referral to a hospital?",
+    "choices": {
+      "A": "Mastoiditis",
+      "B": "Severe dehydration",
+      "C": "Severe pneumonia",
+      "D": "Severe febrile disease"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Mastoiditis"
+  },
+  {
+    "question": "A mother brought her daughter, 4 years old, to the RHU because of cough and colds. Following the IMCI assessment guide, which of the following is a danger sign that indicates the need for urgent referral to a hospital?",
+    "choices": {
+      "A": "Inability to drink",
+      "B": "High grade fever",
+      "C": "Signs of severe dehydration",
+      "D": "Cough for more than 30 days"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Inability to drink"
+  },
+  {
+    "question": "Food fortification is one of the strategies to prevent micronutrient deficiency conditions. R.A. 8976 mandates fortification of certain food items. Which of the following is among these food items?",
+    "choices": {
+      "A": "Sugar",
+      "B": "Bread",
+      "C": "Margarine",
+      "D": "Filled milk"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is A: Sugar"
+  },
+  {
+    "question": "The major sign of iron deficiency anemia is pallor. What part is best examined for pallor?",
+    "choices": {
+      "A": "Palms",
+      "B": "Nailbeds",
+      "C": "Around the lips",
+      "D": "Lower conjunctival sac"
+    },
+    "correct_answer": "A",
+    "rationale": "The correct answer is : The anatomic characteristics of the palms allow a reliable and convenient basis for examination for pallor."
+  }
+]
